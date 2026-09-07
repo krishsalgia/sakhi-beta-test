@@ -1,0 +1,48 @@
+{
+  "query": "Bhavani Peth, Satara",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Bhavani%20Peth%2C%20Satara",
+  "results": [
+    {
+      "place_id": 249228923,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 861509595,
+      "lat": "17.6860791",
+      "lon": "74.0034725",
+      "category": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053382759594109985,
+      "addresstype": "road",
+      "name": "Bhavani Peth Rajpath",
+      "display_name": "Bhavani Peth Rajpath, Raviwar Peth, Guruwar Peth, Satara, Maharashtra, 415002, India",
+      "boundingbox": [
+        "17.6851350",
+        "17.6871678",
+        "74.0020218",
+        "74.0048128"
+      ]
+    },
+    {
+      "place_id": 248643575,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 434844446,
+      "lat": "17.6837820",
+      "lon": "73.9954100",
+      "category": "highway",
+      "type": "primary",
+      "place_rank": 26,
+      "importance": 0.053382759594109985,
+      "addresstype": "road",
+      "name": "Bhavani Peth Rajpath",
+      "display_name": "Bhavani Peth Rajpath, Malhar Peth, Guruwar Peth, Satara, Maharashtra, 415002, India",
+      "boundingbox": [
+        "17.6837508",
+        "17.6838456",
+        "73.9903389",
+        "74.0004703"
+      ]
+    }
+  ]
+}

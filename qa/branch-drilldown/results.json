@@ -1,0 +1,69 @@
+{
+  "results": [
+    {
+      "width": 2560,
+      "height": 1440,
+      "hierarchy": "passed",
+      "tileMap": "loaded",
+      "markerListSync": "passed",
+      "backNavigation": "passed",
+      "reducedMotion": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "hierarchy": "passed",
+      "tileMap": "loaded",
+      "markerListSync": "passed",
+      "backNavigation": "passed",
+      "reducedMotion": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "hierarchy": "passed",
+      "tileMap": "loaded",
+      "markerListSync": "passed",
+      "backNavigation": "passed",
+      "reducedMotion": "passed",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "hierarchy": "passed",
+      "tileMap": "loaded",
+      "markerListSync": "passed",
+      "backNavigation": "passed",
+      "reducedMotion": "passed",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "hierarchy": "passed",
+      "tileMap": "loaded",
+      "markerListSync": "passed",
+      "backNavigation": "passed",
+      "reducedMotion": "passed",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "hierarchy": "passed",
+      "tileMap": "loaded",
+      "markerListSync": "passed",
+      "backNavigation": "passed",
+      "reducedMotion": "passed",
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "allTwelveAddresses": "unchanged",
+  "allCityGroups": "passed",
+  "touch": "passed",
+  "unrelatedSources": "unchanged"
+}

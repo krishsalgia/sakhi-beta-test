@@ -1,0 +1,25 @@
+.language-control{display:flex;align-items:center;gap:6px;position:relative;border:1px solid var(--line);border-radius:9px;padding:7px 9px;min-height:40px;color:var(--blue-ink);background:#fff;flex:none}
+.language-control svg{width:17px;height:17px;flex:none}.language-label{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+.language-control select{border:0;background:transparent;color:inherit;font:inherit;font-size:12px;max-width:85px;padding:4px 0;cursor:pointer}.language-control:focus-within{outline:2px solid var(--blue);outline-offset:3px}.language-control select:focus{outline:none}
+.header .navigation{gap:clamp(14px,1.5vw,45px)}
+html:not([lang=en]) body{font-family:'Nirmala UI','Noto Sans Devanagari',Mangal,sans-serif}
+html:not([lang=en]) :is(h1,h2,h3,h4){line-height:1.35;letter-spacing:0}
+html:not([lang=en]) :is(button,.button,a,input,select,textarea){font-family:inherit}
+html:not([lang=en]) .hero h1{font-size:clamp(56px,4.7vw,140px);line-height:1.3}
+html:not([lang=en]) .hero-headline-line{overflow:visible}
+html:not([lang=en]) .hero-headline-line>span{animation-name:hero-line-mobile}
+html:not([lang=en]) .connection-opening h1{font-size:clamp(90px,10vw,300px);line-height:1.45}
+html:not([lang=en]) .connection-line{padding-block:.12em;margin-block:-.12em;overflow:visible}
+html:not([lang=en]) .connection-sculpture{width:24%}
+html:not([lang=en]) .connection-start{top:45%}
+html:not([lang=en]) .conversation h2{font-size:clamp(32px,3.2vw,95px)}
+html:not([lang=en]) .product-card{min-width:0}
+html:not([lang=en]) .loan-hero h1,html:not([lang=en]) .deposit-hero h1{font-size:clamp(52px,4.4vw,140px)}
+html:not([lang=en]) .loan-row-copy h3{font-size:clamp(20px,1.4vw,36px)}
+html:not([lang=en]) .rate-options button{white-space:normal}
+html:not([lang=en]) .button{height:auto;min-height:44px;line-height:1.5;white-space:normal}
+html:not([lang=en]) .network-breadcrumbs{flex-wrap:wrap}
+html:not([lang=en]) .connection-channels small{letter-spacing:0}
+html:not([lang=en]) .field-error{min-height:3em;line-height:1.5}
+@media(min-width:761px) and (max-width:1100px){.header .logo{width:185px}.header .navigation{gap:12px}.header .navigation>a,.header .products-nav>button{font-size:12px}.header .nav-contact{padding-inline:13px}.language-control{padding-inline:5px}.language-control select{font-size:11px;max-width:72px}.language-control svg{display:none}}
+@media(max-width:760px){.language-control{margin:6px 12px;justify-content:space-between;min-height:46px}.language-control select{font-size:16px;max-width:none;flex:1}.language-label{position:static;width:auto;height:auto;clip-path:none;font-size:14px}.language-control svg{display:block}.header .navigation{gap:8px}html:not([lang=en]) .hero h1{font-size:43px}html:not([lang=en]) .hero-copy{padding-top:28px}html:not([lang=en]) .hero-copy>p{font-size:14px}html:not([lang=en]) .hero-art{top:425px}html:not([lang=en]) .hero{height:820px}html:not([lang=en]) .connection-opening h1{font-size:clamp(53px,14vw,98px)}html:not([lang=en]) .connection-sculpture{top:16%;width:26%}html:not([lang=en]) .connection-start{top:39%}html:not([lang=en]) .loan-hero h1,html:not([lang=en]) .deposit-hero h1{font-size:44px}html:not([lang=en]) .featured-heading h2{font-size:26px}html:not([lang=en]) .conversation h2{font-size:29px}html:not([lang=en]) .conversation-companion{grid-template-columns:1fr 80px}html:not([lang=en]) .conversation-signal{width:110px}}

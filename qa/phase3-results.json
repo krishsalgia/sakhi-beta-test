@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "viewport": "desktop",
+      "serviceFacts": 30,
+      "serviceAccordions": "passed",
+      "keyboard": "passed",
+      "contactValidation": "passed",
+      "contactRequests": 0,
+      "footerDestinations": 5,
+      "overflow": false
+    },
+    {
+      "viewport": "tablet",
+      "serviceFacts": 30,
+      "serviceAccordions": "passed",
+      "keyboard": "passed",
+      "contactValidation": "passed",
+      "contactRequests": 0,
+      "footerDestinations": 5,
+      "overflow": false
+    },
+    {
+      "viewport": "mobile",
+      "serviceFacts": 30,
+      "serviceAccordions": "passed",
+      "keyboard": "passed",
+      "contactValidation": "passed",
+      "contactRequests": 0,
+      "footerDestinations": 5,
+      "overflow": false
+    },
+    {
+      "viewport": "small-mobile",
+      "serviceFacts": 30,
+      "serviceAccordions": "passed",
+      "keyboard": "passed",
+      "contactValidation": "passed",
+      "contactRequests": 0,
+      "footerDestinations": 5,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "approvedContentPreserved": true
+}

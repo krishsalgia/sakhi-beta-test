@@ -1,0 +1,289 @@
+{
+  "results": [
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/products/loans",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/products/deposits",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/services",
+      "header": "passed",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/contact",
+      "header": "passed",
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "heroCLS": "<0.01",
+  "heroReplay": "route only",
+  "homeRoutes": 4,
+  "entranceCTA": "passed"
+}

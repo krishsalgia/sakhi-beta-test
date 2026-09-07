@@ -1,0 +1,201 @@
+/* Manual-QA corrections. Shared geometry is defined once; page changes are scoped. */
+:root { --page-gutter:clamp(28px,5.2vw,223px); --polish-gap:clamp(22px,2vw,54px); }
+html, body { background:#fff; }
+.site-shell { width:100%; max-width:none; margin:0; padding:0 var(--page-gutter) 1px; border-radius:0; box-shadow:none; }
+.header { margin-inline:calc(-1 * var(--page-gutter)); padding-inline:var(--page-gutter); border-radius:0; background:#fff; backdrop-filter:none; }
+
+/* Preserve the settled hero layout and its existing child-card idle animations. */
+.hero { animation:hero-panel-arrive .75s cubic-bezier(.16,1,.3,1); }
+.hero-headline-line { display:block; overflow:clip; padding-bottom:.09em; margin-bottom:-.09em; }
+.hero-headline-line > span { display:block; animation:hero-line-arrive .8s cubic-bezier(.16,1,.3,1) .15s both; }
+.hero-headline-line:nth-child(2) > span { animation-delay:.26s; }
+.hero-copy > p { animation:hero-copy-arrive .65s var(--ease) .4s both; }
+.hero-copy > .button { animation:hero-copy-arrive .65s var(--ease) .5s both; }
+.hero-copy > .find-more { animation:hero-copy-arrive .65s var(--ease) .6s both; }
+.hero-card-entry { position:absolute; inset:0; pointer-events:none; }
+.future-entry { z-index:1; animation:hero-future-arrive 1.15s cubic-bezier(.16,1,.3,1) .25s both; }
+.savings-entry { z-index:2; animation:hero-savings-arrive 1.2s cubic-bezier(.16,1,.3,1) .4s both; }
+.hero .spark { animation:hero-spark-arrive .65s cubic-bezier(.16,1,.3,1) .65s both; }
+.hero-doodle path { stroke-dasharray:550; stroke-dashoffset:0; animation:hero-draw 1s var(--ease) .6s backwards; }
+.hero .growth-line > path:first-child { stroke-dasharray:380; animation:hero-graph-draw .85s var(--ease) .9s backwards; }
+.hero-copy :is(a,button):focus-visible { animation:none; }
+@keyframes hero-panel-arrive { from { opacity:.6; clip-path:inset(0 0 9% round 30px); } to { opacity:1; clip-path:inset(-100px round 30px); } }
+@keyframes hero-line-arrive { from { transform:translateY(108%) rotate(1.5deg); } to { transform:none; } }
+@keyframes hero-copy-arrive { from { opacity:0; translate:0 18px; } to { opacity:1; translate:0 0; } }
+@keyframes hero-future-arrive { from { opacity:0; transform:translate(35px,16px) rotate(5deg) scale(.96); } to { opacity:1; transform:none; } }
+@keyframes hero-savings-arrive { from { opacity:0; transform:translate(-35px,65px) rotate(-9deg) scale(.97); } to { opacity:1; transform:none; } }
+@keyframes hero-spark-arrive { from { opacity:0; scale:.4; rotate:-35deg; } to { opacity:1; scale:1; rotate:0deg; } }
+@keyframes hero-draw { from { stroke-dashoffset:550; } to { stroke-dashoffset:0; } }
+@keyframes hero-graph-draw { from { stroke-dashoffset:380; } to { stroke-dashoffset:0; } }
+
+/* A reserved illustration row prevents artwork from sharing the text area. */
+.product-card { display:grid; grid-template-rows:1fr auto; min-height:0; padding:clamp(24px,1.7vw,48px); gap:24px; }
+.product-copy { width:100%; max-width:none; }
+.product-copy h3 { max-width:24ch; }
+.product-copy p { max-width:34em; }
+.product-caption { margin-top:22px; }
+.product-art { position:relative; inset:auto; justify-self:end; width:185px; height:160px; transform:none; transform-origin:center; opacity:1; clip-path:inset(-8px -8px 0); }
+.product-card:hover .product-art { transform:translate(-5px,-6px) rotate(-3deg); }
+.product-art.days { transform:rotate(5deg); }
+.product-card:hover .product-art.days { transform:translate(-5px,-6px) rotate(2deg); }
+.product-art .ring { width:155px; height:155px; margin-left:22px; }
+.product-art.growth > svg { inset:40px auto auto 48px; width:105px; height:76px; }
+.product-art .calendar-sheet { margin-left:18px; }
+.product-art.saving > span { width:63px; height:116px; top:13px; right:30px; transform:rotate(20deg); border-radius:18px; }
+.product-art.saving > span:first-child { height:86px; top:44px; right:92px; }
+.product-art.saving .doodle { width:60px; height:65px; top:35px; right:31px; }
+.product-art.together { padding-top:5px; }
+.product-art.together i { top:8px; }
+.product-art.together i:nth-child(n+3) { top:66px; }
+
+/* Compact connected process, with the original three steps and no extra copy. */
+.steps { display:grid; grid-template-columns:.75fr 2fr; gap:clamp(36px,4vw,110px); align-items:center; padding:clamp(35px,3vw,74px); border:1px solid var(--line); border-radius:28px; background:linear-gradient(130deg,var(--blue-pale),#f8faf4); }
+.steps > h2 { text-align:left; font-size:clamp(30px,2.2vw,58px); max-width:13ch; line-height:1.1; }
+.steps ol { gap:var(--polish-gap); margin:0; align-items:start; }
+.steps li { padding:0; display:grid; grid-template-columns:1fr; gap:20px; align-items:start; }
+.steps li:not(:last-child)::before { content:''; position:absolute; left:clamp(62px,4.2vw,98px); right:calc(-1 * var(--polish-gap)); top:clamp(29px,2vw,44px); height:1px; background:linear-gradient(90deg,var(--blue),#c2d1db); transform-origin:left; transform:scaleX(0); transition:transform .9s var(--ease) .2s; }
+.steps[data-site-reveal='visible'] li::before { transform:scaleX(1); }
+.step-number { margin:0; width:clamp(58px,4vw,88px); height:clamp(58px,4vw,88px); background:#fff; border:1px solid #c8d9e7; color:var(--blue); font-size:clamp(18px,1.3vw,30px); position:relative; z-index:1; transition:background .3s,color .3s,transform .3s; }
+.steps li:hover .step-number { background:var(--blue); color:#fff; transform:translateY(-3px); }
+.steps h3 { font-size:clamp(17px,1.2vw,29px); max-width:16ch; line-height:1.25; }
+.steps li > svg { display:block; top:clamp(20px,1.5vw,34px); right:calc(-.4 * var(--polish-gap)); width:18px; height:18px; color:var(--blue); background:#f6f9f8; }
+.steps li:last-child > svg { display:none; }
+
+/* The loan ledger retains its existing expanding wash and rotating CTA hover. */
+.loan-row { grid-template-columns:30px clamp(80px,6.5vw,170px) minmax(0,1.2fr) minmax(0,.9fr) clamp(75px,5vw,120px); gap:clamp(20px,2vw,56px); min-height:0; padding:clamp(26px,2.1vw,48px) clamp(10px,1vw,28px); }
+.loan-index { font-size:clamp(11px,.7vw,16px); align-self:center; padding:0; }
+.loan-row-visual { aspect-ratio:1; display:grid; place-items:center; background:linear-gradient(140deg,var(--blue-soft),#f8fafc); border-radius:50% 50% 22% 50%; }
+.loan-row:nth-child(even) .loan-row-visual { background:linear-gradient(140deg,var(--green-soft),#f8fafc); border-radius:50% 22% 50% 50%; }
+.loan-row-visual svg { width:72%; height:72%; stroke:var(--blue); stroke-width:1.3; stroke-linecap:round; stroke-linejoin:round; transition:transform .4s var(--ease); }
+.loan-emblem-orbit { stroke:#c2d4e2; stroke-dasharray:2 7; }
+.loan-row:hover .loan-row-visual svg { transform:rotate(-5deg); }
+.loan-row-copy > .product-kicker { font-size:clamp(8px,.55vw,12px); }
+.loan-row-copy h3 { font-size:clamp(23px,1.5vw,40px); max-width:27ch; }
+.loan-row-copy > p { font-size:clamp(13px,.8vw,18px); max-width:42ch; }
+.loan-row-fact { border-left:1px solid var(--line); padding-left:clamp(20px,2vw,54px); }
+.loan-row-fact > span { font-size:clamp(10px,.6vw,14px); }
+.loan-row-fact strong { font-size:clamp(21px,1.3vw,32px); }
+.loan-row-fact small { display:inline-block; padding:5px 9px; border-radius:6px; background:var(--blue-soft); color:var(--blue); font-size:clamp(10px,.6vw,13px); }
+.loan-row-eligibility { margin-top:16px; font-size:clamp(11px,.7vw,16px); max-width:44ch; }
+.loan-row-eligibility > span { display:block; margin-bottom:3px; font-size:.8em; text-transform:uppercase; letter-spacing:.08em; color:#647481; }
+.loan-row-open { font-size:clamp(9px,.6vw,13px); }
+.loan-row-open svg { width:clamp(43px,3vw,64px); height:clamp(43px,3vw,64px); }
+
+/* The portal and information card share one centered, intrinsic composition. */
+.loan-hero-art { display:flex; flex-direction:column; justify-content:center; align-items:center; min-height:0; width:100%; max-width:740px; justify-self:center; padding:clamp(15px,1.2vw,32px) 0; }
+.loan-portal { position:relative; inset:auto; width:82%; max-width:560px; aspect-ratio:480/380; flex:none; transform:rotateX(var(--tilt-x,0deg)) rotateY(var(--tilt-y,0deg)); transform-origin:center bottom; }
+.portal-architecture { display:block; width:100%; height:100%; overflow:visible; }
+.arch-rib { stroke-width:19; }
+.arch-one { stroke:#3aaae0; }.arch-two { stroke:#1e6bae; stroke-width:15; }.arch-three { stroke:var(--green); stroke-width:12; }.arch-four { stroke:#294b67; stroke-width:9; }
+.arch-floor { stroke:#83b4d2; stroke-opacity:.3; }
+.portal-arrow { inset:43% auto auto 40%; width:20%; height:auto; aspect-ratio:1; color:var(--yellow); }
+.loan-spotlight { position:relative; inset:auto; width:100%; padding:clamp(22px,1.8vw,38px); margin-top:8px; box-shadow:0 16px 36px #0002; }
+.loan-spotlight h2 { font-size:clamp(21px,1.4vw,32px); }
+.loan-spotlight > strong { font-size:clamp(25px,1.7vw,40px); }
+.loan-spotlight button { font-size:clamp(11px,.7vw,15px); }
+.loan-spotlight > div > svg { width:20px; height:20px; color:var(--blue); transform:rotate(-40deg); }
+
+/* Lakhpati derives its height from the actual content, including at ultrawide sizes. */
+.lakhpati-explorer { min-height:0; grid-template-columns:.85fr 1.15fr; align-items:center; gap:clamp(18px,2vw,48px); padding:clamp(12px,1vw,24px); margin-top:clamp(64px,5vw,130px); }
+.lakhpati-intro { padding:clamp(24px,2.5vw,60px); }
+.lakhpati-intro h2 { font-size:clamp(35px,2.6vw,68px); }
+.lakhpati-intro p { font-size:clamp(13px,.85vw,19px); }
+.lakhpati-intro .text-link { font-size:clamp(11px,.7vw,16px); }
+.lakhpati-controls { margin:0; padding:clamp(26px,2.5vw,60px); }
+.lakhpati-output { margin:clamp(26px,2.5vw,54px) 0; }
+.lakhpati-output strong { font-size:clamp(31px,2.8vw,70px); }
+.lakhpati-output span,.lakhpati-controls label { font-size:clamp(11px,.7vw,16px); }
+.lakhpati-controls > p { font-size:clamp(10px,.65vw,14px); }
+
+/* Only the Deposits-to-Loans CTA is recomposed. */
+.deposit-crosslink { display:grid; grid-template-columns:1.2fr .8fr auto; align-items:center; gap:clamp(28px,3vw,80px); padding:clamp(32px,3.5vw,90px); border:1px solid #d8e4df; border-radius:26px; margin-top:clamp(48px,4vw,90px); margin-bottom:clamp(50px,5vw,90px); }
+.deposit-crosslink > .deposit-cta-copy { position:static; font-size:inherit; line-height:inherit; color:inherit; transform:none; opacity:1; }
+.deposit-crosslink h2 { font-size:clamp(35px,2.8vw,74px); }
+.deposit-crosslink .button { margin:0; justify-self:end; white-space:nowrap; }
+.deposit-cta-path { width:100%; height:auto; stroke:var(--green); stroke-width:2; stroke-linecap:round; stroke-linejoin:round; opacity:.65; transition:transform .5s var(--ease); }
+.deposit-crosslink:hover .deposit-cta-path { transform:translateX(8px); }
+
+/* Approved service facts support the existing hover/selection behavior. */
+.service-directory button { min-height:0; padding:clamp(23px,2vw,45px); gap:clamp(16px,1.3vw,28px); }
+.service-directory button > svg:first-of-type { width:clamp(43px,3vw,64px); height:clamp(43px,3vw,64px); padding:11px; border:1px solid var(--line); background:var(--blue-pale); border-radius:15px; }
+.service-directory button > span:nth-of-type(2) { font-size:clamp(15px,1.1vw,26px); min-height:2.5em; padding:0; }
+.directory-benefit { font-size:clamp(12px,.8vw,18px); line-height:1.5; color:var(--muted); max-width:29ch; }
+.directory-line { display:block; width:calc(100% - 25px); height:1px; margin-top:auto; background:var(--line); position:relative; }
+.directory-line::before { content:''; display:block; width:28%; height:2px; background:var(--blue); transform-origin:left; transition:transform .45s var(--ease); }
+.service-directory button:hover .directory-line::before { transform:scaleX(2); }
+.service-directory button > svg:last-child { bottom:clamp(15px,1.55vw,36px); right:clamp(20px,1.6vw,38px); }
+
+@media (max-width:1250px) {
+  :root { --page-gutter:clamp(24px,4.3vw,54px); }
+  .steps { grid-template-columns:1fr; gap:32px; }
+  .steps > h2 { max-width:none; font-size:34px; }
+  .loan-row { grid-template-columns:22px 70px minmax(0,1.2fr) minmax(0,1fr) 60px; gap:18px; }
+  .loan-row-copy h3 { font-size:23px; }
+  .loan-row-fact { padding-left:18px; }
+  .loan-spotlight { padding:22px; }
+  .deposit-crosslink { grid-template-columns:1fr .45fr auto; gap:20px; }
+}
+@media (max-width:1000px) {
+  .loan-row { grid-template-columns:20px minmax(0,1.1fr) minmax(0,1fr) 50px; gap:16px; }
+  .loan-row-visual { display:none; }
+  .service-directory { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .service-directory button { border-bottom:1px solid var(--line); }
+  .service-directory button:nth-child(3) { border-right:0; }
+  .service-directory button > svg:last-child { display:block; }
+  .deposit-crosslink { grid-template-columns:1fr auto; }
+  .deposit-cta-path { display:none; }
+}
+@media (max-width:760px) {
+  :root { --page-gutter:24px; }
+  .header { border-radius:0; }
+  .header .navigation { left:var(--page-gutter); right:var(--page-gutter); }
+  .future-entry { animation-name:hero-future-mobile; animation-delay:.45s; }
+  .savings-entry { animation-name:hero-savings-mobile; animation-delay:.58s; }
+  .hero-doodle path { animation-delay:.7s; }
+  .hero-headline-line { overflow:visible; }
+  .hero-headline-line > span { animation-name:hero-line-mobile; }
+  .product-card { padding:26px; gap:20px; }
+  .product-art { width:185px; height:140px; }
+  .product-copy h3 { max-width:none; font-size:21px; }
+  .product-copy p { max-width:none; font-size:14px; }
+  .steps { padding:30px 24px; }
+  .steps > h2 { font-size:30px; max-width:14ch; margin:0; }
+  .steps ol { grid-template-columns:1fr; gap:30px; }
+  .steps li { grid-template-columns:52px 1fr; gap:20px; align-items:center; }
+  .step-number { width:52px; height:52px; font-size:18px; }
+  .steps li:not(:last-child)::before { left:25px; top:52px; bottom:-30px; width:1px; height:auto; right:auto; background:#a8c0d2; transform-origin:top; }
+  .steps li > svg { display:none; }
+  .steps h3 { font-size:18px; }
+  .loan-row { grid-template-columns:22px minmax(0,1fr) 45px; padding:28px 0; gap:16px 10px; }
+  .loan-row-copy { grid-column:2/4; }
+  .loan-index { align-self:start; padding-top:4px; }
+  .loan-row-fact { grid-column:2; border-left:0; padding-left:0; }
+  .loan-row-open { grid-column:3; grid-row:2; font-size:0; }
+  .loan-row-eligibility { font-size:12px; }
+  .loan-hero-art { padding:0; max-width:400px; }
+  .loan-portal { width:100%; }
+  .loan-spotlight { margin-top:4px; }
+  .lakhpati-explorer { grid-template-columns:1fr; gap:0; padding:12px; }
+  .lakhpati-intro { padding:24px 15px 30px; }
+  .lakhpati-controls { padding:25px 18px; }
+  .lakhpati-output strong { font-size:32px; }
+  .deposit-crosslink { grid-template-columns:1fr; padding:32px 26px; gap:26px; }
+  .deposit-crosslink .button { justify-self:start; }
+  .service-directory { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .service-directory button { padding:22px 16px; gap:16px; border-top:0; }
+  .service-directory button:nth-child(3) { border-right:1px solid var(--line); }
+  .service-directory button:nth-child(even) { border-right:0; }
+  .service-directory button:last-child { grid-column:1/-1; border-right:0; border-bottom:0; }
+  .service-directory button > span:nth-of-type(2) { font-size:15px; min-height:0; }
+  .directory-benefit { font-size:12px; }
+  .directory-number { top:20px; right:14px; }
+  .service-directory button > svg:last-child { right:13px; bottom:14px; }
+}
+@media (max-width:400px) { :root { --page-gutter:17px; } .product-card { padding:23px; } .lakhpati-output strong { font-size:28px; } }
+@keyframes hero-future-mobile { from { opacity:0; transform:translate(22px,26px) rotate(5deg); } to { opacity:1; transform:none; } }
+@keyframes hero-savings-mobile { from { opacity:0; transform:translate(-14px,40px) rotate(-6deg); } to { opacity:1; transform:none; } }
+@keyframes hero-line-mobile { from { opacity:0; transform:translateY(18px); clip-path:inset(0 0 80%); } to { opacity:1; transform:none; clip-path:inset(0); } }
+@media (prefers-reduced-motion:reduce) {
+  .hero,.hero-card-entry,.hero-headline-line > span,.hero-copy > p,.hero-copy > a,.hero .spark,.hero-doodle path,.hero .growth-line > path { animation:none; opacity:1; translate:none; clip-path:none; }
+  .steps li::before { transform:none; }
+}

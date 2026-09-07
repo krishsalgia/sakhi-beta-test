@@ -1,0 +1,36 @@
+import React, { useEffect, useRef, useState } from 'react';
+import { Icon } from './ui';
+import { contact, ServiceIcon } from './site-contact';
+
+function ContactForm() {
+  const [complete, setComplete] = useState(false);
+  const status = useRef(null);
+  const nameInput = useRef(null);
+  useEffect(() => {
+    if (!complete) return;
+    status.current?.focus({ preventScroll: true });
+    status.current?.scrollIntoView({ block: 'center', behavior: 'instant' });
+  }, [complete]);
+  function submit(event) {
+    event.preventDefault();
+    event.currentTarget.reset();
+    setComplete(true);
+  }
+  return <section className="contact-form-panel" aria-labelledby="contact-form-title"><span className="phase3-kicker">START A CONVERSATION</span><h2 id="contact-form-title">We are here<br />to help you</h2><p className="contact-preview-note">Local preview. Your message is not sent or saved.</p>
+    {complete ? <div className="contact-result"><span className="contact-result-mark" aria-hidden="true">✓</span><div role="status" tabIndex={-1} ref={status}><h3>Preview complete.</h3><p>Your message has not been sent. Please call or email Sakhi to get in touch.</p></div><div><a href={`tel:${contact.phone}`} className="button dark">Call {contact.phone}<Icon /></a><button className="text-link" onClick={() => { setComplete(false); requestAnimationFrame(() => { nameInput.current?.focus({ preventScroll: true }); nameInput.current?.scrollIntoView({ block: 'center', behavior: 'instant' }); }); }}>Back to form<Icon /></button></div></div> : <form className="contact-form" onSubmit={submit}>
+      <label htmlFor="contact-name">Name<input id="contact-name" ref={nameInput} name="name" autoComplete="name" required pattern=".*\S.*" maxLength={120} placeholder="Your name" /></label>
+      <label htmlFor="contact-email">Email<input id="contact-email" name="email" type="email" autoComplete="email" required maxLength={254} placeholder="you@example.com" /></label>
+      <label htmlFor="contact-phone">Phone<input id="contact-phone" name="phone" type="tel" inputMode="tel" autoComplete="tel" required maxLength={24} placeholder="Your phone number" onInput={event => event.currentTarget.setCustomValidity(/^(?:\+91[\s-]?)?\d(?:[\s-]?\d){9}$/.test(event.currentTarget.value) ? '' : 'Enter a 10-digit phone number, optionally prefixed with +91.')} /></label>
+      <label htmlFor="contact-message">Message<textarea id="contact-message" name="message" required maxLength={3000} rows={4} placeholder="How can we help?" onInput={event => event.currentTarget.setCustomValidity(event.currentTarget.value.trim() ? '' : 'Please enter your message.')} /></label>
+      <div className="contact-submit-row"><span>A little clarity starts<br />with a conversation.</span><button type="submit" className="button contact-submit">Submit<Icon /></button></div>
+    </form>}
+  </section>;
+}
+
+export function ContactPage() {
+  useEffect(() => { document.title = 'Contact Us | Sakhi Multistate Co-operative Credit Society'; }, []);
+  return <div className="contact-experience">
+    <section className="contact-hero" aria-labelledby="contact-title"><div className="inner-breadcrumb"><a href="/">Home</a><span>/</span><span>Contact</span></div><div className="contact-hero-heading"><div><span className="phase3-kicker">Contact Us</span><h1 id="contact-title">Get In Touch<span aria-hidden="true">↗</span></h1><p>Reach out to us &amp; we will respond as soon as we can.</p></div><div className="contact-stamp" aria-hidden="true"><span>A LITTLE CONVERSATION</span><ServiceIcon name="phone" /><span>A NEW POSSIBILITY</span></div></div></section>
+    <div className="contact-layout"><aside className="contact-information" aria-label="Contact information"><span className="phase3-kicker">LET’S CONNECT</span><h2>Good conversations.<br /><em>Real connections.</em></h2><div className="contact-method"><ServiceIcon name="pin" /><div><h3>Branch Office</h3><address>B-703, Sagar Tech Plaza,<br />Sakinaka Junction, Andheri East<br />Mumbai, 400072<br />Maharashtra, India</address></div></div><div className="contact-method"><ServiceIcon name="phone" /><div><h3>Call us at</h3><a href={`tel:${contact.phone}`}>{contact.phone}<Icon /></a></div></div><div className="contact-method"><ServiceIcon name="mail" /><div><h3>Email Address</h3><a href={`mailto:${contact.email}`}>{contact.email}<Icon /></a></div></div><div className="contact-location-note"><span aria-hidden="true">↗</span><span>Mumbai, Maharashtra<br />Here for your next step.</span></div></aside><ContactForm /></div>
+  </div>;
+}

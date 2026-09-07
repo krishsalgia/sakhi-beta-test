@@ -1,0 +1,69 @@
+{
+  "query": "Jarimari, Mumbai",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Jarimari%2C%20Mumbai",
+  "results": [
+    {
+      "place_id": 248535402,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1364680842,
+      "lat": "19.0913177",
+      "lon": "72.8819347",
+      "category": "landuse",
+      "type": "locality",
+      "place_rank": 24,
+      "importance": 0.08007599526970319,
+      "addresstype": "locality",
+      "name": "Jarimari",
+      "display_name": "Jarimari, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, India",
+      "boundingbox": [
+        "19.0889781",
+        "19.0937337",
+        "72.8805517",
+        "72.8854775"
+      ]
+    },
+    {
+      "place_id": 248264399,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5477750894,
+      "lat": "19.0920487",
+      "lon": "72.8820992",
+      "category": "place",
+      "type": "neighbourhood",
+      "place_rank": 24,
+      "importance": 0.08007599526970319,
+      "addresstype": "neighbourhood",
+      "name": "Jarimari",
+      "display_name": "Jarimari, Asalpha, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400070, India",
+      "boundingbox": [
+        "19.0820487",
+        "19.1020487",
+        "72.8720992",
+        "72.8920992"
+      ]
+    },
+    {
+      "place_id": 248172239,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 1364256210,
+      "lat": "19.0914428",
+      "lon": "72.8828471",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 0.00007599526970316652,
+      "addresstype": "building",
+      "name": "Jarimari",
+      "display_name": "Jarimari, Mathuradas Vasanji Road (Andheri Kurla Road), Jarimari, Asalpha, L Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400070, India",
+      "boundingbox": [
+        "19.0913644",
+        "19.0915019",
+        "72.8827563",
+        "72.8829064"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "results": [
+    {
+      "viewport": "desktop",
+      "size": "1440x1000",
+      "overflow": false,
+      "stickyHeader": true,
+      "faq": "11 passed",
+      "eligibility": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "size": "768x1024",
+      "overflow": false,
+      "stickyHeader": true,
+      "faq": "11 passed",
+      "eligibility": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "size": "375x812",
+      "overflow": false,
+      "stickyHeader": true,
+      "faq": "11 passed",
+      "eligibility": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "size": "320x740",
+      "overflow": false,
+      "stickyHeader": true,
+      "faq": "11 passed",
+      "eligibility": "passed",
+      "reducedMotion": "passed"
+    }
+  ],
+  "errors": [],
+  "failedRequests": []
+}

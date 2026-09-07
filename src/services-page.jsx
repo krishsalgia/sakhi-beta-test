@@ -1,0 +1,55 @@
+import React from './i18n/react';
+import { useEffect, useRef, useState } from 'react';
+import { services } from './service-data';
+import { Icon } from './ui';
+import { ServiceIcon } from './site-contact';
+import { useProductReveal } from './product-motion';
+
+function ServiceFacts({ service, initial = 3 }) {
+  const [expanded, setExpanded] = useState(false);
+  return <div className="service-facts">
+    <ul>{service.facts.slice(0, initial).map(fact => <li key={fact}>{fact}</li>)}</ul>
+    {service.facts.length > initial && <>
+      <button className="service-expand" aria-expanded={expanded} aria-controls={`${service.id}-facts`} onClick={() => setExpanded(!expanded)}>{expanded ? 'Fewer details' : 'All service details'}<span aria-hidden="true">{expanded ? '−' : '+'}</span></button>
+      <div id={`${service.id}-facts`} className={`service-extra ${expanded ? 'is-expanded' : ''}`} inert={!expanded}><div><ul>{service.facts.slice(initial).map(fact => <li key={fact}>{fact}</li>)}</ul></div></div>
+    </>}
+  </div>;
+}
+
+function ServiceLabel({ service, number }) {
+  return <div className="service-label"><span>0{number} / {service.name}</span><ServiceIcon name={service.icon} /></div>;
+}
+
+function MobileService({ service }) {
+  return <article className="mobile-service product-reveal" id={service.id} aria-labelledby="mobile-title">
+    <div className="mobile-service-copy"><ServiceLabel service={service} number={1} /><h2 id="mobile-title">Mobile Banking</h2><p className="service-lead">Your account.<br />Always within reach.</p><ServiceFacts service={service} initial={4} /></div>
+    <div className="mobile-service-art" aria-hidden="true"><div className="mobile-orbit" /><div className="mobile-orbit second" /><span className="service-art-caption">BANKING, WHEREVER LIFE TAKES YOU</span><div className="service-device"><div className="device-notch" /><span>YOUR EVERYDAY COMPANION</span><ServiceIcon name="digital" /><strong>Closer.<br />Simpler.<br /><em>Connected.</em></strong><div className="device-bottom"><i /> Round-the-clock access</div></div><span className="mobile-art-tag tag-balance"><ServiceIcon name="digital" /> Check balances</span><span className="mobile-art-tag tag-notifications"><span>✓</span> Real-time notifications</span></div>
+  </article>;
+}
+
+function TransferService({ service, number, line }) {
+  return <article className={`transfer-service ${service.id}-service product-reveal`} id={service.id} aria-labelledby={`${service.id}-title`}><ServiceLabel service={service} number={number} /><h2 id={`${service.id}-title`}>{service.name}</h2><p className="service-lead">{line}</p><div className="transfer-track" aria-hidden="true"><span>YOU</span><div><i /><Icon /></div><span>THEM</span></div><ServiceFacts service={service} initial={2} /></article>;
+}
+
+export function ServicesPage() {
+  const root = useRef(null);
+  useProductReveal(root);
+  useEffect(() => { document.title = 'Services | Sakhi Multistate Co-operative Credit Society'; }, []);
+  const [mobile, neft, rtgs, qr, door] = services;
+  const directoryBenefits = [mobile.facts[1], neft.facts[0], rtgs.facts[0], qr.facts[1], door.facts[3]];
+  function jump(id) {
+    const element = document.getElementById(id);
+    const heading = element?.querySelector('h2');
+    heading?.setAttribute('tabindex', '-1');
+    heading?.focus({ preventScroll: true });
+    element?.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth', block: 'start' });
+  }
+  return <div className="services-experience" ref={root}>
+    <section className="services-hero" aria-labelledby="services-title"><div className="inner-breadcrumb"><a href="/">Home</a><span>/</span><span>Services</span></div><div className="services-hero-heading"><div><span className="phase3-kicker">MADE FOR YOUR EVERYDAY</span><h1 id="services-title">Less distance.<br /><em>More connection.</em></h1></div><p>From your phone to your doorstep.<br /> Explore the services that bring<br /> banking closer to you.</p></div><div className="service-directory" role="group" aria-label="Explore services">{services.map((service, i) => <button key={service.id} onClick={() => jump(service.id)}><span className="directory-number">0{i + 1}</span><ServiceIcon name={service.icon} /><span>{service.name}</span><small className="directory-benefit">{directoryBenefits[i]}</small><i className="directory-line" aria-hidden="true" /><Icon /></button>)}</div></section>
+    <div className="services-body"><MobileService service={mobile} />
+      <section className="service-transfers" aria-label="Fund transfer services"><TransferService service={neft} number={2} line="From one account to another." /><TransferService service={rtgs} number={3} line="For moments that can’t wait." /></section>
+      <article className="qr-service product-reveal" id={qr.id} aria-labelledby="qr-title"><div className="qr-service-art" aria-hidden="true"><div className="scan-frame"><ServiceIcon name="scan" /><span className="scan-line" /></div><span>SCAN. PAY. GO.</span><div className="scan-footnote"><span>Contactless</span><span>Connected</span></div></div><div className="qr-service-copy"><ServiceLabel service={qr} number={4} /><h2 id="qr-title">QR Code Payments</h2><p className="service-lead">A little scan.<br />A simpler everyday.</p><ServiceFacts service={qr} initial={3} /></div></article>
+      <article className="door-service product-reveal" id={door.id} aria-labelledby="door-title"><div><ServiceLabel service={door} number={5} /><h2 id="door-title">Door to Door Services</h2><p className="service-lead">A human connection.<br />Closer to home.</p><div className="door-illustration" aria-hidden="true"><ServiceIcon name="access" /><div className="door-path"><i /><i /><i /><i /><i /></div><ServiceIcon name="pin" /></div></div><ServiceFacts service={door} initial={5} /></article>
+    </div>
+  </div>;
+}

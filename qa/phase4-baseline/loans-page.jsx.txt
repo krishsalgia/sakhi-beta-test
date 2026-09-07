@@ -1,0 +1,48 @@
+import React, { useRef, useState } from 'react';
+import { loans } from './product-data';
+import { Icon } from './ui';
+import { useProductReveal, useSculptureMotion } from './product-motion';
+
+const spotlights = ['personal-loan', 'gold-loan', 'jlg-loan'].map(id => loans.find(product => product.id === id));
+
+function LoanHero({ onSelect }) {
+  const [active, setActive] = useState(0);
+  const product = spotlights[active];
+  const sculpture = useSculptureMotion();
+  return <section className="loan-hero" aria-labelledby="loan-title">
+    <div className="loan-hero-grid">
+      <div className="loan-hero-copy"><div className="inner-breadcrumb"><a href="/">Home</a><span>/</span><span>Loans</span></div><span className="product-kicker"><i /> POSSIBILITIES, WITH A LITTLE SUPPORT</span><h1 id="loan-title">Big plans.<br /><em>Meet your<br />next move.</em></h1><p>For the life you’re building.<br />The business you believe in.<br />And the possibilities still ahead.</p><a href="#product-catalog" className="button loan-primary">Find your loan <Icon /></a></div>
+      <div className="loan-hero-art" {...sculpture}><div className="loan-portal" aria-hidden="true"><div className="portal-rib rib-one" /><div className="portal-rib rib-two" /><div className="portal-rib rib-three" /><div className="portal-rib rib-four" /><div className="portal-floor" /><span className="portal-arrow">↗</span><span className="portal-caption">WHAT’S NEXT<br />IS YOURS.</span></div><div className="loan-spotlight" key={product.id}><div><span className="loan-spotlight-eyebrow">IN FOCUS</span><span aria-hidden="true">↗</span></div><h2>{product.name}</h2><strong>{product.highlight}</strong><span className="loan-spotlight-label">{product.highlightLabel}</span><button onClick={() => onSelect(product)} aria-label={`Explore ${product.name}`}>Explore this loan <Icon /></button></div></div>
+    </div>
+    <div className="loan-intent-bar"><span>WHAT DOES YOUR<br /><strong>NEXT STEP LOOK LIKE?</strong></span><div role="group" aria-label="Loan spotlight">{spotlights.map((item, index) => <button aria-pressed={active === index} onClick={() => setActive(index)} key={item.id}><span>0{index + 1}</span>{['Something for me', 'Put my gold to work', 'Grow together'][index]}<Icon /></button>)}</div></div>
+  </section>;
+}
+
+function LoanRow({ product, index, onSelect }) {
+  return <article id={product.id} className="loan-row catalog-card product-reveal">
+    <span className="loan-index">0{index + 1}</span>
+    <div className="loan-row-copy"><span className="product-kicker">{product.category}</span><h3>{product.name}</h3><p>{product.tagline}</p></div>
+    <div className="loan-row-fact"><span>{product.highlightLabel}</span><strong>{product.highlight}</strong>{product.rate && <small>{product.rate === '18%' ? 'Interest: 18%' : 'View interest details'}</small>}</div>
+    <button className="loan-row-open" onClick={() => onSelect(product)} aria-label={`View details for ${product.name}`} aria-haspopup="dialog"><Icon /><span>Explore loan</span></button>
+  </article>;
+}
+
+function LoanReadiness({ onSelect }) {
+  const [active, setActive] = useState(0);
+  const product = loans[active];
+  return <section className="loan-readiness product-reveal" aria-labelledby="readiness-title">
+    <div className="readiness-copy"><span className="product-kicker">A LITTLE PREPARATION GOES A LONG WAY</span><h2 id="readiness-title">Your plans.<br />Your paperwork.<br /><em>All in focus.</em></h2><p>Know the eligibility and documents for your chosen loan before taking the next step.</p><div className="readiness-symbol" aria-hidden="true"><span /><span /><span>✓</span></div></div>
+    <div className="readiness-panel"><label htmlFor="readiness-loan">Choose your loan</label><div className="readiness-select"><select id="readiness-loan" value={active} onChange={event => setActive(Number(event.target.value))}>{loans.map((item, index) => <option key={item.id} value={index}>{item.name}</option>)}</select><Icon name="down" /></div><div className="readiness-facts" key={product.id}><span className="product-kicker">ELIGIBILITY</span><ul>{product.eligibility.map(item => <li key={item}>{item}</li>)}</ul><div className="readiness-documents"><span className="product-kicker">DOCUMENTS AT A GLANCE</span><p>{product.documents.slice(0, 3).join(' · ')}</p><span>{product.documents.length} document {product.documents.length === 1 ? 'requirement' : 'requirements'} listed</span></div></div><button className="button dark" onClick={() => onSelect(product)}>View all requirements <Icon /></button></div>
+  </section>;
+}
+
+export function LoansPage({ onSelect }) {
+  const root = useRef(null);
+  useProductReveal(root);
+  return <div className="loans-experience" ref={root}>
+    <LoanHero onSelect={onSelect} />
+    <section className="loans-catalog" id="product-catalog" aria-labelledby="loans-catalog-title"><div className="loans-catalog-heading product-reveal"><div><span className="product-kicker">THE LOAN COLLECTION / 07</span><h2 id="loans-catalog-title">Find the right support.<br /><em>Make your move.</em></h2></div><p>Different ambitions. Different needs.<br />Explore a loan that fits yours.</p></div><div className="loan-ledger">{loans.map((product, index) => <LoanRow key={product.id} product={product} index={index} onSelect={onSelect} />)}</div></section>
+    <LoanReadiness onSelect={onSelect} />
+    <section className="loan-crosslink product-reveal"><div><span className="product-kicker">BUILD FOR WHAT COMES AFTER</span><h2>Today’s plans.<br />Tomorrow’s savings.</h2></div><a className="button light" href="/products/deposits">Explore deposits <Icon /></a><span aria-hidden="true">↗</span></section>
+  </div>;
+}

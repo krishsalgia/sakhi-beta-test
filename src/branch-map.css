@@ -1,0 +1,159 @@
+/* Scoped correction: country > state > city/area > branch. */
+.branch-network .network-workspace { min-height:0; grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr); }
+.branch-network .network-navigation { display:flex; align-items:center; justify-content:space-between; gap:18px; margin-bottom:20px; min-height:48px; scroll-margin-top:145px; }
+.branch-network .network-navigation:focus { outline:none; }
+.branch-network .network-breadcrumbs { display:flex; flex-wrap:wrap; align-items:center; gap:12px; font-size:clamp(13px,.78vw,18px); color:var(--muted); }
+.branch-network .network-breadcrumbs button { padding:10px 0; }
+.branch-network .network-breadcrumbs [aria-current] { color:var(--blue); font-weight:650; }
+.branch-network .network-breadcrumbs button:hover { color:var(--blue); }
+.branch-network .network-back { display:flex; align-items:center; gap:9px; padding:11px 15px; border:1px solid var(--line); border-radius:10px; font-size:12px; color:var(--blue); white-space:nowrap; background:#fff; }
+.branch-network .network-back svg { width:16px; transform:rotate(180deg); }
+.branch-network .network-announcement { position:absolute; width:1px; height:1px; margin:-1px; padding:0; clip-path:inset(50%); overflow:hidden; white-space:nowrap; }
+.branch-network .map-panel { isolation:isolate; }
+.branch-network .map-panel::before { pointer-events:none; }
+.branch-network .map-panel-top { gap:20px; padding-bottom:20px; line-height:1.5; }
+.branch-network .map-panel-top > span:last-child { white-space:nowrap; }
+.branch-network .network-map-stage { position:relative; flex:1; min-height:clamp(490px,34vw,790px); display:flex; align-items:stretch; transform-origin:center; }
+.branch-network .india-map-wrap { width:100%; min-height:0; padding:10px 35px 35px; }
+.branch-network .india-map { width:100%; height:clamp(490px,34vw,790px); max-width:100%; overflow:visible; }
+.branch-network .map-location-label { left:25px; bottom:25px; }
+.branch-network .map-location-label p { min-height:0; }
+.branch-network .map-credit { padding-top:20px; font-size:10px; line-height:1.5; }
+.branch-network .map-state { transform-box:fill-box; transform-origin:center; transition:filter .25s; }
+.branch-network .map-state:focus-visible use { stroke:var(--yellow); stroke-width:3; }
+.branch-network .network-panel-stage { height:100%; display:flex; flex-direction:column; justify-content:center; }
+.branch-network .network-level-intro h3 { font-size:clamp(36px,2.5vw,68px); line-height:1.06; letter-spacing:-.05em; color:var(--blue-ink); overflow-wrap:anywhere; }
+.branch-network .network-level-intro p { font-size:clamp(14px,.86vw,20px); margin-top:16px; }
+.branch-network .territory-tabs { display:grid; grid-template-columns:1fr; gap:14px; margin-top:40px; }
+.branch-network .territory-tabs button { grid-template-columns:auto minmax(0,1fr) auto; padding:clamp(20px,1.6vw,36px); gap:18px; background:var(--blue-pale); border-color:#dce7ef; }
+.branch-network .territory-tabs button:last-child { background:#f3f6ee; }
+.branch-network .territory-tabs button > span { width:44px; height:44px; font-size:12px; }
+.branch-network .territory-tabs button:last-child > span { color:var(--green-deep); background:var(--green-soft); }
+.branch-network .territory-tabs strong { display:block; font-size:clamp(18px,1.2vw,28px); font-weight:550; color:var(--blue-ink); }
+.branch-network .territory-tabs small { display:block; margin-top:8px; font-size:clamp(11px,.7vw,16px); line-height:1.5; }
+.branch-network .territory-tabs button > svg { width:20px; color:var(--blue); }
+.branch-network .territory-tabs button.is-highlighted { border-color:var(--blue); box-shadow:0 8px 22px #004ca30c; transform:translateX(3px); }
+.branch-network .network-path { display:flex; align-items:center; gap:15px; margin-top:clamp(38px,4vw,90px); font-size:11px; color:var(--muted); }
+.branch-network .network-path i { flex:1; height:1px; background:var(--line); }
+
+.branch-network .state-map-wrap { width:100%; position:relative; display:grid; place-items:center; padding:0 14px; }
+.branch-network .state-detail-map { width:100%; height:auto; max-height:760px; overflow:visible; }
+.branch-network .state-outline { fill:#d7e7f4; stroke:#90b2cf; stroke-width:1.5; stroke-linejoin:round; }
+.branch-network .state-pending .state-outline { fill:#dde7ce; stroke:#b0c296; }
+.branch-network .state-map-name { fill:#557a96; font-size:14px; letter-spacing:.18em; }
+.branch-network .map-north { stroke:#577e9f; fill:none; stroke-width:1.5; }
+.branch-network .map-north text { stroke:none; fill:#577e9f; font-size:12px; }
+.branch-network .city-marker { cursor:pointer; outline:none; animation:city-marker-arrive .55s var(--ease) var(--city-delay) both; }
+.branch-network .city-leader { fill:none; stroke:#7c9db9; stroke-width:1.4; }
+.branch-network .city-point-halo { fill:#004ca319; }
+.branch-network .city-point { fill:var(--blue); stroke:#fff; stroke-width:2; }
+.branch-network .city-label-surface { fill:#fff; stroke:#c3d5e3; stroke-width:1; transition:fill .25s,stroke .25s; }
+.branch-network .city-label { fill:var(--blue-ink); font-size:20px; font-weight:600; }
+.branch-network .city-count { fill:var(--blue); font-size:16px; }
+.branch-network .city-marker:is(:hover,:focus-visible,.is-selected) .city-label-surface { fill:var(--blue); stroke:var(--blue); }
+.branch-network .city-marker:is(:hover,:focus-visible,.is-selected) :is(.city-label,.city-count) { fill:#fff; }
+.branch-network .city-marker:focus-visible .city-label-surface { stroke:var(--yellow); stroke-width:4; }
+.branch-network .area-list { display:grid; gap:8px; margin-top:32px; }
+.branch-network .area-choice { display:grid; grid-template-columns:46px minmax(0,1fr) 20px; align-items:center; gap:17px; padding:17px 14px; border-bottom:1px solid var(--line); border-radius:10px; text-align:left; transition:background .25s,transform .25s; }
+.branch-network .area-choice:is(:hover,.is-highlighted) { background:var(--blue-soft); transform:translateX(3px); }
+.branch-network .area-number { display:grid; place-items:center; width:40px; height:40px; border-radius:50%; background:var(--blue-soft); color:var(--blue); font-size:12px; }
+.branch-network .area-choice strong { display:block; font-size:clamp(17px,1vw,25px); font-weight:550; }
+.branch-network .area-choice small { display:block; margin-top:5px; color:var(--muted); font-size:clamp(11px,.7vw,16px); }
+.branch-network .area-choice > svg { width:18px; color:var(--blue); }
+.branch-network .territory-empty { margin:32px 0 0; padding:clamp(25px,2.7vw,60px); }
+.branch-network .territory-empty h4 { font-size:clamp(25px,1.8vw,44px); line-height:1.15; font-weight:550; letter-spacing:-.04em; margin:20px 0 0; color:var(--green-deep); }
+.branch-network .territory-empty p { font-size:clamp(13px,.8vw,18px); }
+.branch-network .state-map-pending { position:absolute; bottom:35px; left:50%; transform:translateX(-50%); width:max-content; max-width:85%; display:flex; align-items:center; gap:10px; padding:13px 17px; border:1px solid #d4dfc6; background:#f8faf4; border-radius:100px; font-size:12px; color:var(--green-deep); }
+.branch-network .pending-dot { width:7px; height:7px; border-radius:50%; background:var(--green); flex:none; }
+
+.branch-network .city-level-intro .network-kicker { text-transform:uppercase; line-height:1.5; }
+.branch-network .city-map-frame { position:relative; width:100%; min-height:clamp(490px,34vw,790px); }
+.branch-network .city-geographic-map { position:absolute; inset:0; width:100%; height:100%; background:#e6edf0; z-index:0; font-family:inherit; }
+.branch-network .city-map-loading { min-height:490px; width:100%; display:grid; place-items:center; color:var(--blue); font-size:14px; background:linear-gradient(145deg,#edf5fb,#f6f8f2); }
+.branch-network .geo-branch-marker { opacity:1; animation:none; background:none; border:0; }
+.branch-network .geo-pin { display:grid; place-items:center; width:30px; height:30px; margin:5px; border-radius:50%; background:#fff; border:2px solid var(--blue); color:var(--blue); font-size:12px; font-weight:700; box-shadow:0 4px 15px #082b4f33; animation:geo-pin-arrive .5s var(--ease) var(--pin-delay) both; transition:background .2s,color .2s,scale .25s; }
+.branch-network .geo-branch-marker:is(.is-selected,:hover,:focus-visible) .geo-pin { background:var(--blue); color:#fff; scale:1.12; box-shadow:0 0 0 6px #004ca321,0 4px 15px #082b4f33; }
+.branch-network .geo-branch-marker:focus-visible { outline:3px solid var(--yellow); outline-offset:5px; border-radius:50%; }
+.branch-network .leaflet-control-attribution { font-size:10px; line-height:1.5; background:#fffffff0; padding:3px 7px; max-width:100%; }
+.branch-network .leaflet-control-attribution a { color:var(--blue); }
+.branch-network .leaflet-control-zoom a { color:var(--blue-ink); }
+.branch-network .leaflet-tooltip { font-family:inherit; background:var(--blue-ink); color:#fff; border:0; border-radius:7px; padding:8px 11px; box-shadow:0 5px 20px #082b4f22; }
+.branch-network .leaflet-tooltip-top::before { border-top-color:var(--blue-ink); }
+.branch-network .map-tile-message { position:absolute; z-index:500; left:15px; right:15px; top:15px; background:#fff; border-radius:10px; padding:15px; font-size:12px; color:var(--muted); }
+.branch-network .map-fit-all { position:absolute; top:15px; right:15px; z-index:500; padding:11px 13px; min-height:42px; border:1px solid var(--line); border-radius:9px; background:#fff; color:var(--blue); font-size:11px; box-shadow:0 4px 16px #082b4f15; }
+.branch-network .city-branch-content { display:flex; flex-direction:column; }
+.branch-network .branch-selection-hint { display:flex; align-items:center; gap:20px; padding:28px 0; margin-top:20px; border-block:1px solid var(--line); }
+.branch-network .branch-selection-hint p { font-size:14px; max-width:35ch; }
+.branch-network .hint-pin { display:grid; place-items:center; width:45px; height:45px; border:1px solid var(--line); border-radius:50%; color:var(--blue); flex:none; }
+.branch-network .branch-list { max-height:none; overflow:visible; }
+.branch-network .selected-branch { margin-top:26px; padding-bottom:26px; }
+.branch-network .selected-branch h3 { font-size:clamp(28px,1.9vw,50px); }
+.branch-network .selected-branch > p { min-height:0; }
+.branch-network .branch-locality { display:block; margin-top:12px; font-size:12px; color:var(--blue); line-height:1.5; }
+
+.branch-network [data-motion="leaving"] .network-map-stage { animation:network-map-out .24s ease-in both; }
+.branch-network [data-motion="leaving"] .network-panel-stage { animation:network-panel-out .2s ease-in both; }
+.branch-network [data-target="IN-MH"] .network-map-stage { transform-origin:30% 58%; }
+.branch-network [data-target="IN-KA"] .network-map-stage { transform-origin:34% 75%; }
+.branch-network [data-motion="entering"] .network-map-stage { animation:network-map-in .65s cubic-bezier(.16,1,.3,1) both; }
+.branch-network [data-motion="entering"] .network-panel-stage { animation:network-panel-in .55s var(--ease) .1s both; }
+@keyframes network-map-out { to { opacity:0; transform:scale(1.17); filter:blur(2px); } }
+@keyframes network-map-in { from { opacity:0; transform:scale(.88); clip-path:inset(7% round 30px); } to { opacity:1; transform:none; clip-path:inset(0); } }
+@keyframes network-panel-out { to { opacity:0; transform:translateY(-9px); } }
+@keyframes network-panel-in { from { opacity:0; transform:translateY(16px); } to { opacity:1; transform:none; } }
+@keyframes city-marker-arrive { from { opacity:0; } to { opacity:1; } }
+@keyframes geo-pin-arrive { from { opacity:0; translate:0 -12px; } to { opacity:1; translate:0 0; } }
+@media(max-width:1200px) {
+  .branch-network .branch-panel { padding:28px; }
+  .branch-network .territory-tabs button { padding:22px 15px; gap:12px; }
+  .branch-network .branch-list { grid-template-columns:1fr; }
+}
+@media(max-width:1000px) {
+  .branch-network .network-workspace { grid-template-columns:minmax(0,1fr); }
+  .branch-network .map-panel { border-right:0; border-bottom:1px solid var(--line); }
+  .branch-network .network-map-stage,.branch-network .city-map-frame { min-height:530px; }
+  .branch-network .india-map { height:530px; }
+  .branch-network .state-detail-map { max-height:530px; }
+  .branch-network .network-level-intro h3 { font-size:40px; }
+  .branch-network .territory-tabs,.branch-network .area-list { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .branch-network .territory-tabs button { grid-template-columns:auto 1fr; }
+  .branch-network .territory-tabs button > svg { display:none; }
+  .branch-network .branch-list { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .branch-network .network-path { max-width:550px; }
+}
+@media(max-width:600px) {
+  .branch-network .network-navigation { align-items:flex-start; flex-direction:column; gap:6px; scroll-margin-top:105px; }
+  .branch-network .network-breadcrumbs { font-size:12px; gap:10px; }
+  .branch-network .network-back { font-size:11px; min-height:42px; }
+  .branch-network .map-panel-top { padding:22px 20px 12px; font-size:8px; gap:10px; }
+  .branch-network .network-map-stage,.branch-network .city-map-frame { min-height:390px; }
+  .branch-network .india-map { height:390px; }
+  .branch-network .india-map-wrap { padding:0 16px 20px; }
+  .branch-network .map-location-label { left:14px; bottom:15px; gap:9px; padding:10px 12px; }
+  .branch-network .map-location-label span { font-size:22px; }
+  .branch-network .map-location-label p { font-size:9px; }
+  .branch-network .map-credit { padding:16px 20px 22px; font-size:9px; }
+  .branch-network .state-map-wrap { padding:0 4px; }
+  .branch-network .state-map-name { font-size:20px; }
+  .branch-network .city-label { font-size:25px; }
+  .branch-network .city-count { font-size:20px; }
+  .branch-network .state-map-pending { font-size:10px; bottom:24px; }
+  .branch-network .branch-panel { padding:27px 20px; }
+  .branch-network .network-level-intro h3 { font-size:35px; }
+  .branch-network .network-level-intro p { font-size:14px; }
+  .branch-network .territory-tabs { grid-template-columns:1fr; margin-top:26px; }
+  .branch-network .area-list { grid-template-columns:1fr; gap:4px; margin-top:22px; }
+  .branch-network .area-choice { padding:14px 8px; }
+  .branch-network .territory-empty { padding:25px; }
+  .branch-network .branch-list { order:-1; display:flex; gap:10px; overflow-x:auto; overflow-y:hidden; padding:5px 1px 12px; scroll-snap-type:x mandatory; scrollbar-width:thin; }
+  .branch-network .branch-card { min-width:240px; flex:0 0 85%; scroll-snap-align:start; }
+  .branch-network .selected-branch-top { font-size:8px; gap:15px; }
+  .branch-network .selected-branch h3 { font-size:30px; }
+  .branch-network .selected-branch > div:last-child { flex-direction:column; }
+  .branch-network .network-path { gap:10px; margin-top:30px; font-size:10px; }
+  .branch-network .leaflet-control-attribution { font-size:9px; }
+  .branch-network .city-map-loading { min-height:390px; }
+}
+@media(prefers-reduced-motion:reduce) {
+  .branch-network .network-map-stage,.branch-network .network-panel-stage,.branch-network .city-marker,.branch-network .geo-pin { animation:none!important; opacity:1; transform:none; clip-path:none; filter:none; translate:none; }
+}

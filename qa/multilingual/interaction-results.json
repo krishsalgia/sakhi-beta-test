@@ -1,0 +1,132 @@
+{
+  "checks": [
+    "English default; Hindi persists through navigation and refresh",
+    "Loan inputs, computed results and document preserved on language change",
+    "Marathi persistence and deposit calculator state retained",
+    "Map selection, camera, official address preserved; marker/zoom labels localized",
+    "Karnataka empty state localized",
+    "Contact validation/completion translated; form input retained; no submission request",
+    "Service expansions and navigation remain functional",
+    "Financial records, formulas, branch records and geography byte-for-byte unchanged"
+  ],
+  "errors": [],
+  "translationRequests": 0,
+  "requests": [
+    {
+      "url": "https://tile.openstreetmap.org/12/2877/1825.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2877/1826.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2876/1825.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2878/1825.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2876/1826.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2878/1826.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2877/1824.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2877/1827.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2876/1824.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2878/1824.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2876/1827.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2878/1827.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2875/1825.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2879/1825.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2875/1826.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2879/1826.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2875/1824.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2879/1824.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2875/1827.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/12/2879/1827.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5753/3652.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5753/3651.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5752/3652.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5754/3652.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5753/3653.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5752/3651.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5754/3651.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5752/3653.png",
+      "method": "GET"
+    },
+    {
+      "url": "https://tile.openstreetmap.org/13/5754/3653.png",
+      "method": "GET"
+    }
+  ]
+}

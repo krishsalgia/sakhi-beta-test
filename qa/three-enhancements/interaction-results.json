@@ -1,0 +1,11 @@
+{
+  "hover": "preserved",
+  "cardColors": "preserved",
+  "productNavigation": "passed",
+  "contactPointerAndScroll": "passed",
+  "liveReducedMotion": "passed",
+  "nativeSwipe": "passed",
+  "verticalTouchScroll": "passed",
+  "obviousPhoneValidation": "passed",
+  "completionVisibility": "passed"
+}

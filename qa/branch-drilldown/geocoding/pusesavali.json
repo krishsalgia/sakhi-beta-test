@@ -1,0 +1,27 @@
+{
+  "query": "Pusesavali, Maharashtra",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Pusesavali%2C%20Maharashtra",
+  "results": [
+    {
+      "place_id": 248494825,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7226575956,
+      "lat": "17.4622941",
+      "lon": "74.3160177",
+      "category": "healthcare",
+      "type": "centre",
+      "place_rank": 30,
+      "importance": 0.00003750133516437045,
+      "addresstype": "healthcare",
+      "name": "PHC, Pusesavali",
+      "display_name": "PHC, Pusesavali, SH69, Pusesawali, Khatav, Satara, Maharashtra, 415512, India",
+      "boundingbox": [
+        "17.4622441",
+        "17.4623441",
+        "74.3159677",
+        "74.3160677"
+      ]
+    }
+  ]
+}

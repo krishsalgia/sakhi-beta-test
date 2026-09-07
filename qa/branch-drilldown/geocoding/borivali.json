@@ -1,0 +1,69 @@
+{
+  "query": "Borivali East, Mumbai",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Borivali%20East%2C%20Mumbai",
+  "results": [
+    {
+      "place_id": 246140810,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 358309247,
+      "lat": "19.2187187",
+      "lon": "72.8654856",
+      "category": "building",
+      "type": "yes",
+      "place_rank": 30,
+      "importance": 0.00007599526970316652,
+      "addresstype": "building",
+      "name": "Western Edge I",
+      "display_name": "Western Edge I, Borivali East, Western Express Highway, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400066, India",
+      "boundingbox": [
+        "19.2184090",
+        "19.2189979",
+        "72.8651008",
+        "72.8658648"
+      ]
+    },
+    {
+      "place_id": 245666538,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 5641404341,
+      "lat": "19.2186394",
+      "lon": "72.8654233",
+      "category": "shop",
+      "type": "wholesale",
+      "place_rank": 30,
+      "importance": 0.00007599526970316652,
+      "addresstype": "shop",
+      "name": "METRO",
+      "display_name": "METRO, Borivali East, Western Express Highway, Borivali East, R/C Ward, Mumbai Zone 4, Mumbai, Mumbai Suburban District, Maharashtra, 400066, India",
+      "boundingbox": [
+        "19.2185894",
+        "19.2186894",
+        "72.8653733",
+        "72.8654733"
+      ]
+    },
+    {
+      "place_id": 248771395,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1640203457,
+      "lat": "19.2267228",
+      "lon": "72.8619328",
+      "category": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.38656660986684044,
+      "addresstype": "suburb",
+      "name": "Borivali East",
+      "display_name": "Borivali East, R/C Ward, Mumbai Zone 4, Mumbai Suburban District, Maharashtra, 400066, India",
+      "boundingbox": [
+        "19.2067228",
+        "19.2467228",
+        "72.8419328",
+        "72.8819328"
+      ]
+    }
+  ]
+}

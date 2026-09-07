@@ -1,0 +1,36 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+const b=await chromium.launch({channel:'chrome'});
+const p=await b.newPage({viewport:{width:1440,height:900},reducedMotion:'reduce'});
+const errors=[],requests=[],checks=[];
+p.on('pageerror',e=>errors.push(e.message));p.on('request',r=>requests.push({url:r.url(),method:r.method()}));
+p.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+const language=async lang=>{await p.locator('.language-control select').selectOption(lang);assert.equal(await p.locator('html').getAttribute('lang'),lang);};
+const stable=async(action,read)=>{const before=await read();await action();assert.deepEqual(await read(),before);};
+try{
+ await p.goto('http://127.0.0.1:5173');assert.equal(await p.locator('html').getAttribute('lang'),'en');
+ await language('hi');await p.locator('.products-nav>button').click();await p.locator('#products-menu a[href="/products/loans"]').click();await p.reload();assert.equal(await p.locator('html').getAttribute('lang'),'hi');checks.push('English default; Hindi persists through navigation and refresh');
+ await p.locator('#loan-amount-number').fill('75000');await p.locator('#loan-tenure-number').fill('18');
+ await p.evaluate(()=>window.__sameDocument=true);
+ await stable(()=>language('mr'),async()=>({amount:await p.locator('#loan-amount-number').inputValue(),tenure:await p.locator('#loan-tenure-number').inputValue(),results:await p.locator('.calc-results dd').allTextContents(),sameDocument:await p.evaluate(()=>window.__sameDocument),url:p.url()}));checks.push('Loan inputs, computed results and document preserved on language change');
+ await p.locator('.products-nav>button').click();await p.locator('#products-menu a[href="/products/deposits"]').click();await p.reload();assert.equal(await p.locator('html').getAttribute('lang'),'mr');
+ await p.locator('.deposit-calculator .calc-plan-tabs button').nth(1).click();await p.locator('#monthly-investment-number').fill('4500');
+ await stable(()=>language('hi'),async()=>({amount:await p.locator('#monthly-investment-number').inputValue(),result:await p.locator('.calc-results dd').allTextContents()}));checks.push('Marathi persistence and deposit calculator state retained');
+ await p.locator('.header a[href="/branches"]').click();await p.locator('.map-state-verified').click();await p.waitForTimeout(300);await p.locator('.area-choice').first().click();await p.waitForTimeout(600);await p.locator('.branch-card').nth(2).click();await p.waitForTimeout(700);
+ const mapBefore=await p.locator('.city-geographic-map').elementHandle();
+ await stable(()=>language('mr'),async()=>({selected:await p.locator('.branch-card.is-selected').getAttribute('data-branch'),tiles:await p.locator('.leaflet-map-pane').getAttribute('style'),address:await p.locator('.selected-branch>p').innerText()}));assert.ok(await mapBefore.evaluate(e=>e.isConnected));
+ assert.match(await p.locator('.geo-branch-marker').nth(2).getAttribute('aria-label'),/शाखा निवडा/);assert.equal(await p.locator('.leaflet-control-zoom-in').getAttribute('title'),'जवळून पाहा');checks.push('Map selection, camera, official address preserved; marker/zoom labels localized');
+ await p.locator('.network-breadcrumbs button').first().click();await p.waitForTimeout(300);await p.locator('.map-state-territory').click();await p.waitForTimeout(300);assert.equal(await p.locator('.territory-empty').count(),1);assert.match(await p.locator('.territory-empty').innerText(),/कर्नाटक/);checks.push('Karnataka empty state localized');
+ await p.locator('.header a[href="/contact"]').click();await p.locator('.message-form button').click();assert.match(await p.locator('#name-error').innerText(),/कृपया/);await p.locator('#contact-name').fill('QA example');await p.locator('#contact-email').fill('qa@example.com');await p.locator('#contact-phone').fill('9876543210');await p.locator('#contact-message').fill('Local preview QA');
+ await stable(()=>language('hi'),async()=>await p.locator('.message-form input,.message-form textarea').evaluateAll(inputs=>inputs.map(e=>e.value)));
+ const sentBefore=requests.filter(r=>r.method==='POST').length;await p.locator('.message-form button').click();assert.match(await p.locator('.message-ready').innerText(),/भेजा या सहेजा नहीं गया/);assert.equal(requests.filter(r=>r.method==='POST').length,sentBefore);checks.push('Contact validation/completion translated; form input retained; no submission request');
+ await language('en');await p.locator('.header a[href="/services"]').click();for(const expand of await p.locator('.service-expand').all()){await expand.click();assert.equal(await expand.getAttribute('aria-expanded'),'true');}checks.push('Service expansions and navigation remain functional');
+ assert.ok(!requests.some(r=>/translate.googleapis|translate.google|deepl|translation-api/i.test(r.url)));
+ assert.deepEqual(errors,[]);
+ const before=JSON.parse(await readFile('qa/multilingual/before-hashes.json','utf8'));
+ for(const file of ['content.js','product-data.js','service-data.js','branch-data.js','branch-geography.js','branch-state-shapes.json','calculator-utils.js'])assert.equal(createHash('sha256').update(await readFile('src/'+file)).digest('hex'),before[file]);
+ checks.push('Financial records, formulas, branch records and geography byte-for-byte unchanged');
+ await writeFile('qa/multilingual/interaction-results.json',JSON.stringify({checks,errors,translationRequests:0,requests:requests.filter(r=>!r.url.includes('127.0.0.1'))},null,2));console.log(checks);
+}finally{await b.close();}

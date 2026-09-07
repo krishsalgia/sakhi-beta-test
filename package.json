@@ -1,0 +1,28 @@
+{
+  "name": "sakhi-homepage",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5173 --strictPort",
+    "qa": "node qa/check.mjs",
+    "qa:products": "node qa/products.mjs",
+    "qa:creative": "node qa/creative-interactions.mjs",
+    "qa:phase3": "node qa/phase3.mjs",
+    "qa:final": "node qa/phase4.mjs",
+    "qa:enhancement": "node qa/enhancement-qa.mjs",
+    "qa:polish": "node qa/polish-check.mjs",
+    "qa:branches": "node qa/branch-drilldown/check.mjs"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0",
+    "vite": "^7.1.0"
+  }
+}

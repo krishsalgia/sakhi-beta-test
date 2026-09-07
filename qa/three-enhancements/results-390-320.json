@@ -1,0 +1,61 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/",
+      "cls": 0,
+      "overflow": false,
+      "interactions": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/branches",
+      "cls": 0,
+      "overflow": false,
+      "interactions": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "route": "/contact",
+      "cls": 0,
+      "overflow": false,
+      "interactions": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/",
+      "cls": 0,
+      "overflow": false,
+      "interactions": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/branches",
+      "cls": 0,
+      "overflow": false,
+      "interactions": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "route": "/contact",
+      "cls": 0,
+      "overflow": false,
+      "interactions": "passed",
+      "reducedMotion": "passed"
+    }
+  ],
+  "errors": [],
+  "sharedBranchData": "unchanged",
+  "unrelatedSources": "unchanged"
+}

@@ -1,0 +1,10 @@
+{
+  "source": "https://www.sakhimultistate.com/branches",
+  "embeddedMap": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3770.10838626937!2d72.88404341490151!3d19.102900487072546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA2JzEwLjQiTiA3MsKwNTMnMTAuNCJF!5e0!3m2!1sen!2sin!4v1687947708002!5m2!1sen!2sin",
+  "markerDMS": "19?06'10.4\"N 72?53'10.4\"E",
+  "point": [
+    19.102889,
+    72.886222
+  ],
+  "note": "Coordinates of the map marker encoded in the official page, not its offset camera center."
+}

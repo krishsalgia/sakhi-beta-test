@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "viewport": "desktop",
+      "route": "/products/deposits",
+      "products": 8,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "desktop",
+      "route": "/products/loans",
+      "products": 7,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/products/deposits",
+      "products": 8,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/products/loans",
+      "products": 7,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/products/deposits",
+      "products": 8,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/products/loans",
+      "products": 7,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/products/deposits",
+      "products": 8,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/products/loans",
+      "products": 7,
+      "sourceFacts": "passed",
+      "exactTables": "passed",
+      "forms": "passed",
+      "focus": "passed",
+      "responsive": "passed"
+    }
+  ],
+  "errors": [],
+  "networkSubmissions": 0
+}

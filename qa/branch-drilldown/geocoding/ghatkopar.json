@@ -1,0 +1,27 @@
+{
+  "query": "Ghatkopar West, Mumbai",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Ghatkopar%20West%2C%20Mumbai",
+  "results": [
+    {
+      "place_id": 248222480,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1640260030,
+      "lat": "19.0897439",
+      "lon": "72.9048035",
+      "category": "place",
+      "type": "suburb",
+      "place_rank": 19,
+      "importance": 0.14674266193636984,
+      "addresstype": "suburb",
+      "name": "Ghatkopar West",
+      "display_name": "Ghatkopar West, N Ward, Mumbai Zone 6, Mumbai, Mumbai Suburban District, Maharashtra, 400086, India",
+      "boundingbox": [
+        "19.0697439",
+        "19.1097439",
+        "72.8848035",
+        "72.9248035"
+      ]
+    }
+  ]
+}

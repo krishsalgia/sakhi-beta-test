@@ -1,0 +1,27 @@
+{
+  "query": "Tilak Nagar, Chembur, Mumbai",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Tilak%20Nagar%2C%20Chembur%2C%20Mumbai",
+  "results": [
+    {
+      "place_id": 248175422,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 1640461335,
+      "lat": "19.0692377",
+      "lon": "72.8978464",
+      "category": "place",
+      "type": "neighbourhood",
+      "place_rank": 24,
+      "importance": 0.3268260957230098,
+      "addresstype": "neighbourhood",
+      "name": "Tilak Nagar",
+      "display_name": "Tilak Nagar, Chheda Nagar, M/W Ward, Mumbai Zone 5, Mumbai, Mumbai Suburban District, Maharashtra, 400089, India",
+      "boundingbox": [
+        "19.0592377",
+        "19.0792377",
+        "72.8878464",
+        "72.9078464"
+      ]
+    }
+  ]
+}

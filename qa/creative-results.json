@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "viewport": "desktop",
+      "rateSwitcher": "passed",
+      "filters": "passed",
+      "lakhpatiRows": 6,
+      "loanSpotlights": 3,
+      "eligibilityProducts": 7,
+      "realScrollReveals": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "rateSwitcher": "passed",
+      "filters": "passed",
+      "lakhpatiRows": 6,
+      "loanSpotlights": 3,
+      "eligibilityProducts": 7,
+      "realScrollReveals": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "rateSwitcher": "passed",
+      "filters": "passed",
+      "lakhpatiRows": 6,
+      "loanSpotlights": 3,
+      "eligibilityProducts": 7,
+      "realScrollReveals": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "rateSwitcher": "passed",
+      "filters": "passed",
+      "lakhpatiRows": 6,
+      "loanSpotlights": 3,
+      "eligibilityProducts": 7,
+      "realScrollReveals": "passed",
+      "reducedMotion": "passed"
+    }
+  ],
+  "errors": []
+}

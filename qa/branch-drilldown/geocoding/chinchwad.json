@@ -1,0 +1,48 @@
+{
+  "query": "Akurdi railway station, Pimpri Chinchwad",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Akurdi%20railway%20station%2C%20Pimpri%20Chinchwad",
+  "results": [
+    {
+      "place_id": 250216793,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 13644823988,
+      "lat": "18.6482198",
+      "lon": "73.7648994",
+      "category": "railway",
+      "type": "station",
+      "place_rank": 30,
+      "importance": 0.0000538849469748534,
+      "addresstype": "railway",
+      "name": "Akurdi Railway Station",
+      "display_name": "Akurdi Railway Station, Krantisinha Nana Patil Road, Nigdi, Pimpri-Chinchwad, Haveli Subdistrict, Pune, Maharashtra, 412110, India",
+      "boundingbox": [
+        "18.6432198",
+        "18.6532198",
+        "73.7598994",
+        "73.7698994"
+      ]
+    },
+    {
+      "place_id": 258039568,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 7843127847,
+      "lat": "18.6490357",
+      "lon": "73.7652694",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 0.0000538849469748534,
+      "addresstype": "highway",
+      "name": "Akurdi Railway Station",
+      "display_name": "Akurdi Railway Station, Babasaheb Ambedkar Marg, Nigdi, Pimpri-Chinchwad, Haveli Subdistrict, Pune, Maharashtra, 411044, India",
+      "boundingbox": [
+        "18.6489857",
+        "18.6490857",
+        "73.7652194",
+        "73.7653194"
+      ]
+    }
+  ]
+}

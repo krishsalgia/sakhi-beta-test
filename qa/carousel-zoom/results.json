@@ -1,0 +1,69 @@
+{
+  "results": [
+    {
+      "width": 1366,
+      "height": 768,
+      "carousel": "direction, reverse, single zoom, bounds, hover and release passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "carousel": "direction, reverse, single zoom, bounds, hover and release passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "carousel": "direction, reverse, single zoom, bounds, hover and release passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "carousel": "direction, reverse, single zoom, bounds, hover and release passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "carousel": "direction, reverse, single zoom, bounds, hover and release passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "carousel": "native rail preserved",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "carousel": "native rail preserved",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "carousel": "native rail preserved",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "carousel": "native rail preserved",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    }
+  ],
+  "errors": [],
+  "unrelatedSources": "unchanged"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "width": 1366,
+    "height": 768,
+    "direction": "left to right",
+    "centering": "passed",
+    "activeStates": "passed",
+    "cardBounds": "passed"
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "direction": "left to right",
+    "centering": "passed",
+    "activeStates": "passed",
+    "cardBounds": "passed"
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "direction": "left to right",
+    "centering": "passed",
+    "activeStates": "passed",
+    "cardBounds": "passed"
+  },
+  {
+    "width": 2560,
+    "height": 1440,
+    "direction": "left to right",
+    "centering": "passed",
+    "activeStates": "passed",
+    "cardBounds": "passed"
+  },
+  {
+    "width": 3840,
+    "height": 2160,
+    "direction": "left to right",
+    "centering": "passed",
+    "activeStates": "passed",
+    "cardBounds": "passed"
+  }
+]

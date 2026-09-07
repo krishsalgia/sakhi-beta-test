@@ -1,0 +1,27 @@
+{
+  "query": "Behram Baug, Mumbai",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Behram%20Baug%2C%20Mumbai",
+  "results": [
+    {
+      "place_id": 247179300,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 202660311,
+      "lat": "19.1432444",
+      "lon": "72.8353779",
+      "category": "landuse",
+      "type": "residential",
+      "place_rank": 24,
+      "importance": 0.08007599526970319,
+      "addresstype": "neighbourhood",
+      "name": "Behram Baug",
+      "display_name": "Behram Baug, Oshiwara, K/W Ward, Mumbai Zone 3, Mumbai, Mumbai Suburban District, Maharashtra, India",
+      "boundingbox": [
+        "19.1424672",
+        "19.1441624",
+        "72.8344228",
+        "72.8362601"
+      ]
+    }
+  ]
+}

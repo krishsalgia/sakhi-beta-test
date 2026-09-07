@@ -1,0 +1,85 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "lang": "hi",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 1440,
+      "lang": "mr",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 768,
+      "lang": "hi",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 768,
+      "lang": "mr",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 390,
+      "lang": "hi",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 390,
+      "lang": "mr",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 320,
+      "lang": "hi",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    },
+    {
+      "width": 320,
+      "lang": "mr",
+      "dialogs": true,
+      "localizedValidation": true,
+      "faq": true,
+      "touchCarousel": true,
+      "serviceDetails": true,
+      "contact": true
+    }
+  ],
+  "errors": []
+}

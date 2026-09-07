@@ -1,0 +1,27 @@
+{
+  "query": "Tembhurni, Madha, Maharashtra",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Tembhurni%2C%20Madha%2C%20Maharashtra",
+  "results": [
+    {
+      "place_id": 248595310,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 245642891,
+      "lat": "18.0277111",
+      "lon": "75.1948716",
+      "category": "place",
+      "type": "village",
+      "place_rank": 19,
+      "importance": 0.14670416800183103,
+      "addresstype": "village",
+      "name": "Tembhurni",
+      "display_name": "Tembhurni, Madha, Solapur, Maharashtra, 413211, India",
+      "boundingbox": [
+        "18.0077111",
+        "18.0477111",
+        "75.1748716",
+        "75.2148716"
+      ]
+    }
+  ]
+}

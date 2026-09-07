@@ -1,0 +1,48 @@
+{
+  "query": "Ramchandra Nagar, Thane",
+  "url": "https://nominatim.openstreetmap.org/search?format=jsonv2&countrycodes=in&limit=3&q=Ramchandra%20Nagar%2C%20Thane",
+  "results": [
+    {
+      "place_id": 249173758,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4585364193,
+      "lat": "19.2000703",
+      "lon": "72.9625060",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 0.00005821698329132551,
+      "addresstype": "highway",
+      "name": "Ramchandra Nagar 1",
+      "display_name": "Ramchandra Nagar 1, Nirmaladevi Dighe Marg,, Dnyaneshwar Nagar, Panch Pakadi, Thane, Thane Subdistrict, Thane, Maharashtra, 400602, India",
+      "boundingbox": [
+        "19.2000203",
+        "19.2001203",
+        "72.9624560",
+        "72.9625560"
+      ]
+    },
+    {
+      "place_id": 249419093,
+      "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "node",
+      "osm_id": 4585359396,
+      "lat": "19.2006977",
+      "lon": "72.9611861",
+      "category": "highway",
+      "type": "bus_stop",
+      "place_rank": 30,
+      "importance": 0.00005821698329132551,
+      "addresstype": "highway",
+      "name": "RAMCHANDRA NAGAR VAITIVADI 3",
+      "display_name": "RAMCHANDRA NAGAR VAITIVADI 3, Nirmaladevi Dighe Marg,, Dnyaneshwar Nagar, Panch Pakadi, Thane, Thane Subdistrict, Thane, Maharashtra, 400606, India",
+      "boundingbox": [
+        "19.2006477",
+        "19.2007477",
+        "72.9611361",
+        "72.9612361"
+      ]
+    }
+  ]
+}

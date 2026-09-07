@@ -1,0 +1,289 @@
+{
+  "results": [
+    {
+      "viewport": "desktop",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "desktop",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "desktop",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "desktop",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "desktop",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "compact-desktop",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "compact-desktop",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "compact-desktop",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "compact-desktop",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "compact-desktop",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "tablet",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "narrow-tablet",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "narrow-tablet",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "narrow-tablet",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "narrow-tablet",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "narrow-tablet",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "mobile",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "small-mobile",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "landscape",
+      "route": "/",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "landscape",
+      "route": "/products/loans",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "landscape",
+      "route": "/products/deposits",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "landscape",
+      "route": "/services",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    },
+    {
+      "viewport": "landscape",
+      "route": "/contact",
+      "overflow": false,
+      "header": "passed",
+      "navigation": "passed",
+      "reducedMotion": "passed"
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "dialogTransitions": "passed",
+  "liveReducedMotion": "passed",
+  "contentAndLogo": "unchanged"
+}

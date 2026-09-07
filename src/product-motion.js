@@ -1,0 +1,85 @@
+import { useEffect, useRef } from 'react';
+
+export function useProductReveal(root, refreshKey = '') {
+  useEffect(() => {
+    const container = root.current;
+    const elements = [...(root.current?.querySelectorAll('.product-reveal') || [])];
+    const media = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const observer = new IntersectionObserver(entries => {
+      for (const entry of entries) if (entry.isIntersecting) {
+        entry.target.dataset.reveal = 'visible';
+        observer.unobserve(entry.target);
+      }
+    }, { threshold: 0.06, rootMargin: '0px 0px -20px 0px' });
+    for (const element of elements) {
+      if (element.dataset.reveal === 'visible' || media.matches) element.dataset.reveal = 'visible';
+      else { element.dataset.reveal = 'waiting'; observer.observe(element); }
+    }
+    const reduce = () => { if (media.matches) elements.forEach(element => { element.dataset.reveal = 'visible'; }); };
+    media.addEventListener('change', reduce);
+    const revealFocused = event => {
+      const element = event.target.closest('.product-reveal');
+      if (!element) return;
+      element.dataset.reveal = 'visible';
+      observer.unobserve(element);
+    };
+    container?.addEventListener('focusin', revealFocused);
+    return () => { observer.disconnect(); media.removeEventListener('change', reduce); container?.removeEventListener('focusin', revealFocused); };
+  }, [root, refreshKey]);
+}
+
+export function useSculptureMotion() {
+  const ref = useRef(null);
+  const frame = useRef(0);
+  useEffect(() => {
+    const media = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const reduce = () => {
+      if (!media.matches) return;
+      cancelAnimationFrame(frame.current);
+      ref.current?.style.setProperty('--tilt-x', '0deg');
+      ref.current?.style.setProperty('--tilt-y', '0deg');
+    };
+    media.addEventListener('change', reduce);
+    return () => { cancelAnimationFrame(frame.current); media.removeEventListener('change', reduce); };
+  }, []);
+  const reset = () => {
+    cancelAnimationFrame(frame.current);
+    ref.current?.style.setProperty('--tilt-x', '0deg');
+    ref.current?.style.setProperty('--tilt-y', '0deg');
+  };
+  const move = event => {
+    if (event.pointerType !== 'mouse' || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const bounds = event.currentTarget.getBoundingClientRect();
+    const x = (event.clientX - bounds.left) / bounds.width - .5;
+    const y = (event.clientY - bounds.top) / bounds.height - .5;
+    cancelAnimationFrame(frame.current);
+    frame.current = requestAnimationFrame(() => {
+      ref.current?.style.setProperty('--tilt-x', `${-y * 6}deg`);
+      ref.current?.style.setProperty('--tilt-y', `${x * 8}deg`);
+    });
+  };
+  return { ref, onPointerMove: move, onPointerLeave: reset };
+}
+
+// Pause only repeating illustration motion; entrances and UI feedback stay immediate.
+export function useAmbientMotion() {
+  useEffect(() => {
+    const elements = [...document.querySelectorAll('.hero-panel, .growth-star, .portal-arrow, .service-device, .scan-line, .transfer-track i')];
+    const visible = new Set();
+    const update = () => elements.forEach(element => { element.style.animationPlayState = visible.has(element) && !document.hidden ? 'running' : 'paused'; });
+    const observer = new IntersectionObserver(entries => {
+      for (const entry of entries) {
+        if (entry.isIntersecting) visible.add(entry.target);
+        else visible.delete(entry.target);
+      }
+      update();
+    }, { rootMargin: '100px' });
+    elements.forEach(element => observer.observe(element));
+    document.addEventListener('visibilitychange', update);
+    return () => {
+      observer.disconnect();
+      document.removeEventListener('visibilitychange', update);
+      elements.forEach(element => element.style.removeProperty('animation-play-state'));
+    };
+  }, []);
+}
