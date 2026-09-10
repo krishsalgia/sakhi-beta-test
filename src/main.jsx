@@ -1,16 +1,18 @@
 import React from './i18n/react';
 import { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
-import { faqs, metrics, products, reasons } from './content';
+import { faqs, metrics, reasons } from './content';
 import { Icon, Doodle } from './ui';
 import { ProductsPage } from './products';
 import { ServicesPage } from './services-page';
 import { ContactPage } from './contact-page';
 import { Footer } from './site-contact';
 import { useAmbientMotion } from './product-motion';
-import { BranchNetwork } from './branch-network';
+import { HomeBranchAssembly } from './home-branch-assembly';
 import { BranchesPage } from './branches-page';
 import { FeaturedJourney } from './featured-journey';
+import { BlogsPage, BlogArticlePage } from './blogs/blogs-page';
+const BlogAdminPage = React.lazy(() => import('./blogs/admin-page'));
 import { useSiteMotion } from './site-motion';
 import './styles.css';
 import './products.css';
@@ -19,6 +21,7 @@ import './enhancements.css';
 import './polish.css';
 import './targeted-experiences.css';
 import './i18n/language.css';
+import './arrival-spacing.css';
 import { useLanguage, t } from './i18n';
 import { LanguageControl } from './i18n/language-control';
 
@@ -61,6 +64,7 @@ function Header({ currentPage }) {
       </div>
       <a href="/services" className={currentPage === 'services' ? 'active' : undefined} aria-current={currentPage === 'services' ? 'page' : undefined}>Services</a>
       <a href="/branches" className={currentPage === 'branches' ? 'active' : undefined} aria-current={currentPage === 'branches' ? 'page' : undefined}>Branches</a>
+      <a href="/blogs" className={currentPage === 'blogs' ? 'active' : undefined} aria-current={currentPage === 'blogs' ? 'page' : undefined} onClick={() => setMobileOpen(false)}>Blogs</a>
       <a href="/contact" className="nav-contact" aria-current={currentPage === 'contact' ? 'page' : undefined}>Contact <Icon /></a>
       <LanguageControl />
     </nav>
@@ -94,13 +98,8 @@ function Hero() {
   </section>;
 }
 
-function ProductArt({ type }) {
-  return <div className={`product-art ${type}`} aria-hidden="true">{type === 'saving' ? <><span /><span /><Doodle /></> : type === 'growth' ? <><div className="ring" /><svg viewBox="0 0 120 90"><path d="m8 72 20-20 20 8 25-37 13 12 25-28" fill="none" stroke="currentColor" strokeWidth="2" /></svg></> : type === 'days' ? <><div className="calendar-sheet"><span>DAY BY DAY</span><strong>100 / 200</strong></div></> : <><i /><i /><i /><i /></>}</div>;
-}
-
 function Featured() {
-  const destinations = ['/products/deposits#daily-deposit', '/products/loans#loan-against-deposits', '/products/loans#daily-loan', '/products/loans#jlg-loan'];
-  return <FeaturedJourney>{products.map((product, index) => <article className="product-card" key={product.title}><div className="product-copy"><h3>{product.title}</h3><p>{product.copy}</p><a className="product-caption" href={destinations[index]} aria-label={`View ${product.title}`}>View details <Icon /></a></div><ProductArt type={product.art} /></article>)}</FeaturedJourney>;
+  return <FeaturedJourney />;
 }
 
 function Reasons() {
@@ -132,14 +131,18 @@ function FAQ() {
 function App() {
   const language = useLanguage();
   useEffect(() => {
+    if (/^\/(blogs|login)(\/|$)/.test(location.pathname)) return;
     const names = { "/products/loans": "Loans", "/products/deposits": "Deposits", "/services": "Services", "/branches": "Find a branch", "/contact": "Contact Us" };
     document.title = `${t(names[location.pathname] || "Home")} | Sakhi Multistate Co-operative Credit Society`;
   }, [language]);
   useAmbientMotion();
   const pathname = window.location.pathname.replace(/\/$/, '');
   useSiteMotion(pathname);
-  const currentPage = pathname === '/products/deposits' ? 'deposits' : pathname === '/products/loans' ? 'loans' : pathname === '/services' ? 'services' : pathname === '/contact' ? 'contact' : pathname === '/branches' ? 'branches' : null;
-  return <div className="site-shell" id="home"><a className="skip-link" href="#main">Skip to content</a><Header currentPage={currentPage} /><main id="main" tabIndex={-1}>{currentPage === 'branches' ? <BranchesPage /> : currentPage === 'services' ? <ServicesPage /> : currentPage === 'contact' ? <ContactPage /> : currentPage ? <ProductsPage kind={currentPage} /> : <><Hero /><Featured /><Reasons /><BranchNetwork /><Figures /><Eligibility /><Promotions /><Steps /><FAQ /><section className="closing"><h2>Every future starts<br />with a small step.</h2><a className="button dark" href="#featured">Find your next step <Icon /></a></section></>}</main><Footer /></div>;
+  if (pathname === '/login') return <React.Suspense fallback={null}><BlogAdminPage /></React.Suspense>;
+  let blogSlug = '';
+  try { blogSlug = decodeURIComponent(pathname.slice('/blogs/'.length)); } catch {}
+  const currentPage = (pathname === '/blogs' || pathname.startsWith('/blogs/')) ? 'blogs' : pathname === '/products/deposits' ? 'deposits' : pathname === '/products/loans' ? 'loans' : pathname === '/services' ? 'services' : pathname === '/contact' ? 'contact' : pathname === '/branches' ? 'branches' : null;
+  return <div className="site-shell" id="home"><a className="skip-link" href="#main">Skip to content</a><Header currentPage={currentPage} /><main id="main" tabIndex={-1}>{currentPage === 'blogs' ? (pathname === '/blogs' ? <BlogsPage /> : <BlogArticlePage slug={blogSlug} />) : currentPage === 'branches' ? <BranchesPage /> : currentPage === 'services' ? <ServicesPage /> : currentPage === 'contact' ? <ContactPage /> : currentPage ? <ProductsPage kind={currentPage} /> : <><Hero /><Featured /><Reasons /><HomeBranchAssembly /><Figures /><Eligibility /><Promotions /><Steps /><FAQ /><section className="closing"><h2>Every future starts<br />with a small step.</h2><a className="button dark" href="#featured">Find your next step <Icon /></a></section></>}</main><Footer /></div>;
 }
 
 createRoot(document.getElementById('root')).render(<React.StrictMode><App /></React.StrictMode>);

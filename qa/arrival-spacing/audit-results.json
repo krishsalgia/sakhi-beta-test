@@ -1,0 +1,4460 @@
+{
+  "results": [
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 1192,
+          "scroll": 1207
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 870,
+          "scroll": 1018
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 870,
+          "scroll": 928
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 1192,
+          "scroll": 1207
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 870,
+          "scroll": 1018
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 870,
+          "scroll": 928
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 1192,
+          "scroll": 1207
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 1192,
+          "scroll": 1207
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 870,
+          "scroll": 1018
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 870,
+          "scroll": 928
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 1258,
+          "scroll": 1273
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 936,
+          "scroll": 1084
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 936,
+          "scroll": 995
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 1258,
+          "scroll": 1273
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 936,
+          "scroll": 1084
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 936,
+          "scroll": 995
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 1258,
+          "scroll": 1273
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 1258,
+          "scroll": 1273
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 936,
+          "scroll": 1084
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 936,
+          "scroll": 995
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 1688,
+          "scroll": 1703
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 1366,
+          "scroll": 1514
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 1366,
+          "scroll": 1425
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 1688,
+          "scroll": 1703
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 1366,
+          "scroll": 1514
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 1366,
+          "scroll": 1425
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 1688,
+          "scroll": 1703
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 1688,
+          "scroll": 1703
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 1366,
+          "scroll": 1514
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 1366,
+          "scroll": 1425
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 2262,
+          "scroll": 2277
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 1940,
+          "scroll": 2088
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 1940,
+          "scroll": 1998
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 2262,
+          "scroll": 2277
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 1940,
+          "scroll": 2088
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 1940,
+          "scroll": 1998
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 2262,
+          "scroll": 2277
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 2262,
+          "scroll": 2277
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 1940,
+          "scroll": 2088
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 1940,
+          "scroll": 1998
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 3409,
+          "scroll": 3424
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 3087,
+          "scroll": 3235
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 3087,
+          "scroll": 3145
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 3409,
+          "scroll": 3424
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 3087,
+          "scroll": 3235
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 3087,
+          "scroll": 3145
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 3409,
+          "scroll": 3424
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 3409,
+          "scroll": 3424
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 3087,
+          "scroll": 3235
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 3087,
+          "scroll": 3145
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 904,
+          "scroll": 919
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 669,
+          "scroll": 817
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 669,
+          "scroll": 727
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 904,
+          "scroll": 919
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 669,
+          "scroll": 817
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 669,
+          "scroll": 727
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 904,
+          "scroll": 919
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 904,
+          "scroll": 919
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 669,
+          "scroll": 817
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 669,
+          "scroll": 727
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "height": 1000,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 692,
+          "scroll": 707
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 491,
+          "scroll": 642
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 491,
+          "scroll": 549
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 692,
+          "scroll": 707
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 491,
+          "scroll": 642
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 491,
+          "scroll": 549
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 692,
+          "scroll": 707
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 692,
+          "scroll": 707
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 491,
+          "scroll": 642
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 491,
+          "scroll": 549
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 372,
+          "scroll": 380
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 370,
+          "scroll": 541
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 370,
+          "scroll": 429
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 372,
+          "scroll": 380
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 370,
+          "scroll": 541
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 370,
+          "scroll": 429
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 372,
+          "scroll": 380
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 372,
+          "scroll": 380
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 370,
+          "scroll": 541
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 370,
+          "scroll": 429
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 346,
+          "scroll": 354
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 344,
+          "scroll": 515
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 344,
+          "scroll": 403
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 346,
+          "scroll": 354
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 344,
+          "scroll": 515
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 344,
+          "scroll": 403
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 346,
+          "scroll": 354
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 346,
+          "scroll": 354
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 344,
+          "scroll": 515
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 344,
+          "scroll": 403
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 331,
+          "scroll": 339
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 329,
+          "scroll": 500
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 329,
+          "scroll": 388
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 331,
+          "scroll": 339
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 329,
+          "scroll": 500
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 329,
+          "scroll": 388
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 331,
+          "scroll": 339
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 331,
+          "scroll": 339
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 329,
+          "scroll": 500
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 329,
+          "scroll": 388
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "en",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "en",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01FOR LIFE’S POSSIBILITIESPersonal LoanAre you choosing the best personal loan for your ne",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02UNLOCK POSSIBILITIESGold LoanA dream comes true, sponsored by your Gold.Less documentati",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03KEEP YOUR SAVINGS GROWINGLoan Against DepositsNeed not break Fixed Deposits; get quick d",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04ROOM FOR YOUR PLANSMortgage LoanMortgage. To help you build, buy or refinance.Loan limit",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05MOVE YOUR BUSINESS FORWARDDaily 100 days Loan / 200 days LoanNeed super fast approved lo",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06STRONGER TOGETHERJLG LoanBehind every successful woman is a tribe of other successful wo",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07TAKE YOUR NEXT STEPPDC LoanStop being chained down by bad credit, we have the key to set",
+          "width": 276,
+          "scroll": 284
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "en",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "SAVE FOR TOMORROW✧Fixed DepositsFixed Deposit for your future.Interest rate5.5% to 9%+0.25",
+          "width": 274,
+          "scroll": 445
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "YOUR NEXT CHAPTER↗Pension DepositsMay your retirement be filled with many relaxing days an",
+          "width": 274,
+          "scroll": 333
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "en",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "en",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Choose Maharashtra or Karnataka to explore Sakhi locations.",
+          "width": 1,
+          "scroll": 447
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "en",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "hi",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "hi",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01जीवन की संभावनाओं के लिएव्यक्तिगत ऋणक्या आप अपनी ज़रूरतों के लिए सही व्यक्तिगत ऋण चुन रह",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संभावनाओं के द्वार खोलेंस्वर्ण ऋणआपके सोने के सहारे सपने साकार हों।कम दस्तावेज़तेज़ प्रक",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03अपनी बचत बढ़ाते रहेंजमा पर ऋणसावधि जमा तोड़ने की ज़रूरत नहीं; इसके बदले ऋण का त्वरित वित",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपकी योजनाओं के लिए अवसरबंधक ऋणनिर्माण, खरीद या पुनर्वित्त के लिए बंधक ऋण।ऋण सीमाRs 1,00",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05अपने व्यवसाय को आगे बढ़ाएँदैनिक 100 दिन / 200 दिन का ऋणबहुत जल्दी ऋण स्वीकृति चाहिए?दैनि",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06साथ मिलकर अधिक मजबूतJLG समूह ऋणहर सफल महिला के पीछे उसे साथ देने वाली सफल महिलाओं का समू",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07अपना अगला कदम उठाएँPDC ऋणखराब क्रेडिट को अपनी बाधा न बनने दें; आगे बढ़ने का रास्ता हमारे",
+          "width": 276,
+          "scroll": 284
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "hi",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "कल के लिए बचत✧सावधि जमा (FD)आपके भविष्य के लिए सावधि जमा।ब्याज दर5.5% से 9%+0.25%सावधि जमा",
+          "width": 274,
+          "scroll": 445
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपका अगला पड़ाव↗पेंशन जमाआपकी सेवानिवृत्ति सुकून भरे दिनों और नए अनुभवों से भरी हो। निश्चि",
+          "width": 274,
+          "scroll": 333
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "hi",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "hi",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi की शाखाएँ देखने के लिए महाराष्ट्र या कर्नाटक चुनें।",
+          "width": 1,
+          "scroll": 349
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "hi",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "mr",
+      "route": "/",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "mr",
+      "route": "/products/loans",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "01आयुष्यातील संधींसाठीवैयक्तिक कर्जआपल्या गरजांसाठी योग्य वैयक्तिक कर्ज निवडत आहात ना?कर्ज",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "02संधींची दारे उघडासोनेतारण कर्जआपल्या सोन्याच्या आधारे स्वप्न साकार होवो.कमी कागदपत्रेजलद",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "03आपली बचत वाढवत राहाठेवीवरील कर्जमुदत ठेव मोडण्याची गरज नाही; मुदत ठेवीवर कर्जाची रक्कम ल",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "04आपल्या नियोजनासाठी वावतारण कर्जबांधकाम, खरेदी किंवा पुनर्वित्तासाठी तारण कर्ज.कर्जमर्याद",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "05आपला व्यवसाय पुढे न्यादैनिक 100 दिवस / 200 दिवस कर्जअतिशय लवकर मंजूर होणारे कर्ज हवे आहे",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "06एकत्र अधिक सक्षमJLG गट कर्जप्रत्येक यशस्वी महिलेच्या पाठीशी तिला साथ देणाऱ्या यशस्वी महि",
+          "width": 276,
+          "scroll": 284
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "loan-row catalog-card product-reveal",
+          "text": "07आपले पुढचे पाऊल टाकाPDC कर्जखराब पतइतिहासामुळे थांबू नका; पुढे जाण्याचा मार्ग आमच्याकडे ",
+          "width": 276,
+          "scroll": 284
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "mr",
+      "route": "/products/deposits",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal deposit-plan-featured ",
+          "text": "उद्यासाठी बचत✧मुदत ठेव (FD)आपल्या भविष्यासाठी मुदत ठेव.व्याजदर5.5% ते 9%+0.25%मुदत ठेवीवर ",
+          "width": 274,
+          "scroll": 445
+        },
+        {
+          "tag": "ARTICLE",
+          "cls": "deposit-plan catalog-card product-reveal  deposit-plan-retirement",
+          "text": "आपला पुढचा टप्पा↗पेन्शन ठेवआपली निवृत्ती निवांत दिवस आणि नव्या अनुभवांनी समृद्ध होवो. निश्",
+          "width": 274,
+          "scroll": 333
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "mr",
+      "route": "/services",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "mr",
+      "route": "/branches",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": [
+        {
+          "tag": "P",
+          "cls": "network-announcement",
+          "text": "Sakhi च्या शाखा पाहण्यासाठी महाराष्ट्र किंवा कर्नाटक निवडा.",
+          "width": 1,
+          "scroll": 370
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "lang": "mr",
+      "route": "/contact",
+      "pageOverflow": false,
+      "headerOverlap": false,
+      "overflow": []
+    }
+  ],
+  "errors": []
+}

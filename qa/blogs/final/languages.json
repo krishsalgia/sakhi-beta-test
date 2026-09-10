@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "lang": "hi",
+      "overflow": false,
+      "headerOverlap": false,
+      "languageRight": 1355.125,
+      "translatedLabel": "ब्लॉग",
+      "authoredTitle": "Understanding Fixed Deposits"
+    },
+    {
+      "width": 1440,
+      "lang": "hi",
+      "route": "editor",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "lang": "mr",
+      "overflow": false,
+      "headerOverlap": false,
+      "languageRight": 1355.125,
+      "translatedLabel": "ब्लॉग",
+      "authoredTitle": "Understanding Fixed Deposits"
+    },
+    {
+      "width": 1440,
+      "lang": "mr",
+      "route": "editor",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "lang": "hi",
+      "overflow": false,
+      "headerOverlap": false,
+      "languageRight": 728.984375,
+      "translatedLabel": "ब्लॉग",
+      "authoredTitle": "Understanding Fixed Deposits"
+    },
+    {
+      "width": 768,
+      "lang": "hi",
+      "route": "editor",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "lang": "mr",
+      "overflow": false,
+      "headerOverlap": false,
+      "languageRight": 728.984375,
+      "translatedLabel": "ब्लॉग",
+      "authoredTitle": "Understanding Fixed Deposits"
+    },
+    {
+      "width": 768,
+      "lang": "mr",
+      "route": "editor",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "lang": "hi",
+      "overflow": false,
+      "headerOverlap": false,
+      "languageRight": 0,
+      "translatedLabel": "ब्लॉग",
+      "authoredTitle": "Understanding Fixed Deposits"
+    },
+    {
+      "width": 390,
+      "lang": "hi",
+      "route": "editor",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "lang": "mr",
+      "overflow": false,
+      "headerOverlap": false,
+      "languageRight": 0,
+      "translatedLabel": "ब्लॉग",
+      "authoredTitle": "Understanding Fixed Deposits"
+    },
+    {
+      "width": 390,
+      "lang": "mr",
+      "route": "editor",
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "missing": []
+}

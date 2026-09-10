@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    },
+    {
+      "width": 1024,
+      "height": 1366,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "upload": true,
+      "reorder": true,
+      "overflow": false,
+      "languages": [
+        "en",
+        "hi",
+        "mr"
+      ],
+      "missing": []
+    }
+  ],
+  "errors": []
+}

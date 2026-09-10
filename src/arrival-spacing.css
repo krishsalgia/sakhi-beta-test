@@ -1,0 +1,104 @@
+/* Homepage arrival only: layout and settled illustration transforms are inherited. */
+.hero { animation:sakhi-surface-arrive .9s cubic-bezier(.16,1,.3,1) backwards; }
+.hero::after { content:''; position:absolute; inset:0; border-radius:inherit; background:#fff; z-index:-1; pointer-events:none; transform-origin:right center; animation:sakhi-surface-uncover .85s cubic-bezier(.76,0,.16,1) both; }
+.hero::before { animation:sakhi-grid-arrive 1.2s ease-out .15s backwards; }
+html .hero .hero-headline-line > span { animation:sakhi-title-arrive .95s cubic-bezier(.16,1,.3,1) .12s both; }
+html .hero .hero-headline-line:nth-child(2) > span { animation-delay:.24s; }
+.hero-copy > p { animation:sakhi-copy-arrive .7s cubic-bezier(.16,1,.3,1) .36s both; }
+.hero-copy > .button { animation:sakhi-copy-arrive .65s cubic-bezier(.16,1,.3,1) .46s both; }
+.hero-copy > .find-more { animation:sakhi-copy-arrive .65s cubic-bezier(.16,1,.3,1) .62s both; }
+.hero .future-entry { transform-origin:80% 65%; animation:sakhi-back-card 1.35s cubic-bezier(.16,1,.3,1) .18s both; }
+.hero .savings-entry { transform-origin:25% 65%; animation:sakhi-front-card 1.4s cubic-bezier(.16,1,.3,1) .34s both; }
+.hero .spark { animation:sakhi-spark-arrive .85s cubic-bezier(.16,1,.3,1) .63s both; }
+.hero-doodle path { stroke-dasharray:550; animation:sakhi-arrow-draw 1s cubic-bezier(.45,0,.2,1) .64s backwards; }
+.hero .growth-line > path:first-child { stroke-dasharray:380; animation:sakhi-graph-draw .85s cubic-bezier(.4,0,.2,1) 1.05s backwards; }
+.hero .growth-line > path:nth-child(2) { animation:sakhi-copy-arrive .6s ease-out .9s backwards; }
+.hero-copy :is(a,button):focus-visible { animation:none; }
+@keyframes sakhi-surface-arrive { from { opacity:.85; transform:translateY(12px) scale(.985); } to { opacity:1; transform:none; } }
+@keyframes sakhi-surface-uncover { from { transform:scaleX(1); } to { transform:scaleX(0); } }
+@keyframes sakhi-grid-arrive { from { opacity:0; } }
+@keyframes sakhi-title-arrive { from { opacity:0; transform:translateY(105%); clip-path:inset(0 0 100%); } to { opacity:1; transform:none; clip-path:inset(-25% -5%); } }
+@keyframes sakhi-copy-arrive { from { opacity:0; translate:0 14px; } to { opacity:1; translate:0 0; } }
+@keyframes sakhi-back-card {
+  0% { opacity:0; transform:perspective(1000px) translate(66px,-34px) rotateY(-12deg) rotate(11deg) scale(.91); }
+  65% { opacity:1; }
+  82% { transform:perspective(1000px) translate(-2px,2px) rotateY(0deg) rotate(-.8deg) scale(1.006); }
+  100% { opacity:1; transform:none; }
+}
+@keyframes sakhi-front-card {
+  0% { opacity:0; transform:perspective(1000px) translate(-42px,86px) rotateY(10deg) rotate(-13deg) scale(.93); }
+  60% { opacity:1; }
+  82% { transform:perspective(1000px) translate(2px,-3px) rotateY(0deg) rotate(.6deg) scale(1.006); }
+  100% { opacity:1; transform:none; }
+}
+@keyframes sakhi-spark-arrive { from { opacity:0; scale:.3; rotate:-65deg; } 75% { opacity:1; scale:1.07; rotate:4deg; } to { opacity:1; scale:1; rotate:0deg; } }
+@keyframes sakhi-arrow-draw { from { stroke-dashoffset:550; opacity:0; } 12% { opacity:1; } to { stroke-dashoffset:0; opacity:1; } }
+@keyframes sakhi-graph-draw { from { stroke-dashoffset:380; } to { stroke-dashoffset:0; } }
+@media(max-width:760px) {
+  .hero { animation-name:sakhi-surface-mobile; }
+  .hero::after { transform-origin:center bottom; animation-name:sakhi-uncover-mobile; animation-duration:.65s; }
+  html .hero .hero-headline-line > span { animation-name:sakhi-title-mobile; }
+  .hero .future-entry { animation-name:sakhi-back-mobile; animation-duration:1.05s; animation-delay:.36s; }
+  .hero .savings-entry { animation-name:sakhi-front-mobile; animation-duration:1.1s; animation-delay:.52s; }
+  .hero .spark { animation-duration:.7s; }
+}
+@keyframes sakhi-surface-mobile { from { opacity:.85; transform:translateY(6px); } to { opacity:1; transform:none; } }
+@keyframes sakhi-uncover-mobile { from { transform:scaleY(1); } to { transform:scaleY(0); } }
+@keyframes sakhi-title-mobile { from { opacity:0; transform:translateY(14px); clip-path:inset(0 0 90%); } to { opacity:1; transform:none; clip-path:inset(-25% -5%); } }
+@keyframes sakhi-back-mobile { from { opacity:0; transform:translate(8px,18px) rotate(3deg) scale(.98); } 80% { opacity:1; transform:translate(0,-1px) rotate(-.3deg); } to { opacity:1; transform:none; } }
+@keyframes sakhi-front-mobile { from { opacity:0; transform:translate(-8px,30px) rotate(-4deg) scale(.98); } 80% { opacity:1; transform:translate(0,-2px) rotate(.3deg); } to { opacity:1; transform:none; } }
+@media(min-width:761px) and (max-width:1000px) {
+  .hero .future-entry { animation-name:sakhi-back-mobile; }
+  .hero .savings-entry { animation-name:sakhi-front-mobile; }
+}
+@media(prefers-reduced-motion:reduce) {
+  .hero,.hero::before,.hero::after,html .hero .hero-headline-line > span,.hero .hero-card-entry,.hero-copy > p,.hero-copy > a,.hero .spark,.hero-doodle path,.hero .growth-line > path { animation:none; }
+  .hero::after { display:none; }
+}
+
+/* Nested calculator grids respond to usable panel width, never force overflow. */
+.financial-calculator { container:calculator / inline-size; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); column-gap:clamp(28px,3.5vw,100px); row-gap:clamp(24px,2vw,48px); }
+.calculator-intro,.calculator-workspace,.calculator-controls,.calc-field { min-width:0; }
+.calculator-workspace { container:workspace / inline-size; grid-template-columns:minmax(0,1fr) minmax(0,.95fr); gap:clamp(24px,2vw,54px); padding:clamp(24px,2.5vw,66px); align-items:center; }
+.calculator-visual { grid-template-columns:minmax(0,1fr); gap:24px; align-content:center; }
+.calculator-visual .result-ring { width:min(100%,190px); }
+.calc-field { gap:12px; }
+.calc-field-head { flex-wrap:wrap; gap:8px 12px; align-items:baseline; }
+.calc-field-head label { font-size:clamp(12px,.65vw,18px); line-height:1.5; }
+.calc-field-head span { flex:none; }
+.calc-value-wrap { gap:8px; min-height:48px; align-items:center; }
+.calc-value-wrap input { flex:0 1 auto; width:10ch; max-width:100%; min-width:0; min-height:44px; padding:6px 4px 6px 0; line-height:1.25; font-variant-numeric:tabular-nums; }
+@supports(field-sizing:content) { .calc-value-wrap input { field-sizing:content; width:auto; min-width:3ch; } }
+.calc-value-wrap span { font-size:clamp(12px,.7vw,18px); line-height:1.5; text-transform:none; }
+.calc-value-wrap input::-webkit-inner-spin-button { margin-left:8px; }
+.calc-value-wrap input:read-only::-webkit-inner-spin-button { display:none; }
+.calc-range { display:block; }
+.calc-results { width:100%; min-width:0; }
+.calc-results > div { flex-wrap:wrap; gap:8px 16px; padding:14px 0; }
+.calc-results dt { flex:1 1 9em; min-width:0; font-size:clamp(11px,.65vw,17px); line-height:1.5; }
+.calc-results dd { margin-left:auto; line-height:1.4; }
+.calc-results .is-total { padding:16px; }
+.calculator-disclaimer { margin:0; font-size:clamp(10px,.58vw,15px); max-width:90em; }
+@container workspace (min-width:1000px) {
+  .calculator-visual { grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr); gap:clamp(20px,2cqi,36px); }
+  .calculator-visual .result-ring { width:min(100%,230px); }
+}
+@media(max-width:1250px) { .financial-calculator { grid-template-columns:minmax(0,1fr); } }
+@container calculator (max-width:600px) { .calculator-workspace { grid-template-columns:minmax(0,1fr); } .calculator-visual { grid-template-columns:minmax(0,.65fr) minmax(0,1fr); } }
+@container calculator (max-width:440px) { .calculator-visual { grid-template-columns:minmax(0,1fr); } }
+@media(max-width:760px) {
+  .calculator-workspace { padding:24px 18px; gap:30px; }
+  .calculator-disclaimer { margin-top:24px; }
+}
+
+/* Stacked branch information needs only its content height, not a map-sized spacer. */
+@media(max-width:1000px) {
+  .branch-network .branch-panel { min-height:0; }
+  .branch-network .network-panel-stage { height:auto; }
+}
+/* Preserve the submit button's padding when translated form notes wrap. */
+.message-submit-row { flex-wrap:wrap; }
+.message-submit-row p { flex:1 1 12ch; }
+.message-submit-row .button { flex:none; margin-left:auto; }
+/* On the narrowest translated Contact heading, use the clear space beside line two. */
+@media(max-width:360px) { html:not([lang=en]) .connection-sculpture { top:33%; } }

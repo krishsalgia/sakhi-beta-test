@@ -620,3 +620,206 @@ Tembhurni, Solapur district|||टेंभुर्णी, सोलापुर
 Akurdi station / Walhekarwadi, Pimpri-Chinchwad|||आकुर्डी स्टेशन / वाल्हेकरवाडी, पिंपरी-चिंचवड़|||आकुर्डी स्थानक / वाल्हेकरवाडी, पिंपरी-चिंचवड
 Panvel, Raigad district|||पनवेल, रायगढ़ ज़िला|||पनवेल, रायगड जिल्हा
 Bhavani Peth, Satara|||भवानी पेठ, सातारा|||भवानी पेठ, सातारा
+Blogs|||ब्लॉग|||ब्लॉग
+The Sakhi Journal.|||Sakhi विचारपत्र.|||Sakhi विचारपत्र.
+Ideas for everyday progress|||हर दिन आगे बढ़ने के विचार|||दररोजच्या प्रगतीसाठी विचार
+A little clarity. A wider perspective.|||थोड़ी स्पष्टता। एक व्यापक नज़रिया।|||थोडी स्पष्टता. व्यापक दृष्टिकोन.
+READ. REFLECT. MOVE FORWARD.|||पढ़ें। सोचें। आगे बढ़ें।|||वाचा. विचार करा. पुढे चला.
+All articles|||सभी लेख|||सर्व लेख
+Filter articles by category|||श्रेणी के अनुसार लेख चुनें|||श्रेणीनुसार लेख निवडा
+Article image placeholder|||लेख की छवि का स्थान|||लेखाच्या प्रतिमेसाठी जागा
+Image placeholder|||छवि का स्थान|||प्रतिमेसाठी जागा
+Featured article|||प्रमुख लेख|||विशेष लेख
+Read article|||लेख पढ़ें|||लेख वाचा
+min read|||मिनट का पठन|||मिनिटांचे वाचन
+By|||द्वारा|||लेखक
+KEEP EXPLORING|||और जानें|||आणखी जाणून घ्या
+On the reading list.|||पढ़ने के लिए और भी।|||आणखी वाचण्यासारखे.
+Stories are temporarily unavailable.|||लेख अभी उपलब्ध नहीं हैं।|||लेख सध्या उपलब्ध नाहीत.
+New stories are on their way.|||नए लेख जल्द आ रहे हैं।|||नवे लेख लवकरच येत आहेत.
+There is always another perspective to discover. Check back soon.|||जानने के लिए हमेशा कुछ नया है। जल्द फिर आएँ।|||जाणून घेण्यासाठी नेहमी काहीतरी नवे असते. लवकरच पुन्हा भेट द्या.
+Back to Home|||होम पर वापस जाएँ|||मुख्यपृष्ठावर परत जा
+Every next step starts with a little understanding.|||हर अगला कदम थोड़ी समझ से शुरू होता है।|||प्रत्येक पुढचे पाऊल थोड्या समजुतीने सुरू होते.
+Talk to Sakhi|||Sakhi से बात करें|||Sakhi शी बोला
+Back to Blogs|||ब्लॉग पर वापस जाएँ|||ब्लॉगवर परत जा
+Article preview|||लेख का पूर्वावलोकन|||लेखाचे पूर्वावलोकन
+Written by|||लेखक|||लेखक
+IN THIS ARTICLE|||इस लेख में|||या लेखात
+Another perspective.|||एक और नज़रिया।|||आणखी एक दृष्टिकोन.
+Article not found|||लेख नहीं मिला|||लेख सापडला नाही
+This story is not available. Explore the latest published articles instead.|||यह लेख उपलब्ध नहीं है। नए प्रकाशित लेख पढ़ें।|||हा लेख उपलब्ध नाही. नवीन प्रकाशित लेख वाचा.
+SAKHI EDITORIAL|||SAKHI संपादकीय|||SAKHI संपादकीय
+A place for your next story.|||आपके अगले लेख के लिए एक जगह।|||तुमच्या पुढील लेखासाठी एक जागा.
+Sign in to manage the Sakhi Journal.|||Sakhi विचारपत्र प्रबंधित करने के लिए लॉगिन करें।|||Sakhi विचारपत्र व्यवस्थापित करण्यासाठी लॉगिन करा.
+EDITOR ACCESS|||संपादक प्रवेश|||संपादक प्रवेश
+Welcome back.|||फिर से स्वागत है।|||पुन्हा स्वागत आहे.
+Username|||उपयोगकर्ता नाम|||वापरकर्तानाव
+Password|||पासवर्ड|||पासवर्ड
+Hide password|||पासवर्ड छिपाएँ|||पासवर्ड लपवा
+Show password|||पासवर्ड दिखाएँ|||पासवर्ड दाखवा
+Hide|||छिपाएँ|||लपवा
+Show|||दिखाएँ|||दाखवा
+Login|||लॉगिन|||लॉगिन
+Incorrect username or password. Please try again.|||उपयोगकर्ता नाम या पासवर्ड गलत है। फिर कोशिश करें।|||वापरकर्तानाव किंवा पासवर्ड चुकीचा आहे. पुन्हा प्रयत्न करा.
+The session could not be started. Allow browser storage and try again.|||सत्र शुरू नहीं हो सका। ब्राउज़र स्टोरेज की अनुमति दें और फिर कोशिश करें।|||सत्र सुरू होऊ शकले नाही. ब्राउझर स्टोरेजला परवानगी द्या आणि पुन्हा प्रयत्न करा.
+Close dialog|||संवाद बंद करें|||संवाद बंद करा
+All blogs|||सभी ब्लॉग|||सर्व ब्लॉग
+Edit blog|||ब्लॉग संपादित करें|||ब्लॉग संपादित करा
+Create blog|||ब्लॉग बनाएँ|||ब्लॉग तयार करा
+Preview|||पूर्वावलोकन|||पूर्वावलोकन
+Save draft|||ड्राफ़्ट सहेजें|||मसुदा जतन करा
+Save blog|||ब्लॉग सहेजें|||ब्लॉग जतन करा
+Title|||शीर्षक|||शीर्षक
+Slug|||स्लग|||स्लग
+Auto-generated from the title. You can edit it.|||शीर्षक से अपने आप बनता है। आप इसे बदल सकते हैं।|||शीर्षकावरून आपोआप तयार होते. तुम्ही ते बदलू शकता.
+Short excerpt|||संक्षिप्त परिचय|||संक्षिप्त परिचय
+Full blog content|||ब्लॉग का पूरा लेख|||ब्लॉगचा संपूर्ण मजकूर
+Separate paragraphs with a blank line. Use ## headings, **bold**, - lists and [text](https://example.com) links.|||अनुच्छेदों के बीच खाली पंक्ति रखें। ## शीर्षक, **बोल्ड**, - सूचियाँ और [text](https://example.com) लिंक इस्तेमाल करें।|||परिच्छेदांमध्ये रिकामी ओळ ठेवा. ## शीर्षके, **ठळक**, - याद्या आणि [text](https://example.com) दुवे वापरा.
+Story settings|||लेख की सेटिंग|||लेखाची सेटिंग्ज
+Status|||स्थिति|||स्थिती
+Draft|||ड्राफ़्ट|||मसुदा
+Published|||प्रकाशित|||प्रकाशित
+Author|||लेखक|||लेखक
+Category|||श्रेणी|||श्रेणी
+Publish date|||प्रकाशन तिथि|||प्रकाशन दिनांक
+Feature this article|||इस लेख को प्रमुख बनाएँ|||हा लेख विशेष म्हणून दाखवा
+Featured image|||मुख्य छवि|||मुख्य प्रतिमा
+Image URL or path|||छवि का URL या पथ|||प्रतिमेचा URL किंवा पथ
+Leave blank to use the Sakhi image placeholder.|||Sakhi की छवि का स्थान दिखाने के लिए खाली छोड़ें।|||Sakhi ची प्रतिमा जागा दाखवण्यासाठी रिकामे ठेवा.
+Untitled article|||बिना शीर्षक का लेख|||शीर्षक नसलेला लेख
+Discard unsaved changes?|||बिना सहेजे बदलाव छोड़ दें?|||जतन न केलेले बदल रद्द करायचे?
+Your saved blog will remain unchanged.|||आपका सहेजा गया ब्लॉग नहीं बदलेगा।|||तुमचा जतन केलेला ब्लॉग बदलणार नाही.
+Keep editing|||संपादन जारी रखें|||संपादन सुरू ठेवा
+Discard changes|||बदलाव छोड़ें|||बदल रद्द करा
+Blog management|||ब्लॉग प्रबंधन|||ब्लॉग व्यवस्थापन
+Make room for the next perspective.|||अगले नज़रिए के लिए जगह बनाएँ।|||पुढील दृष्टिकोनासाठी जागा तयार करा.
+View public Blogs|||सार्वजनिक ब्लॉग देखें|||सार्वजनिक ब्लॉग पाहा
+Log out|||लॉगआउट|||लॉगआउट
+Total blogs|||कुल ब्लॉग|||एकूण ब्लॉग
+Featured|||प्रमुख|||विशेष
+Filter blogs by status|||स्थिति के अनुसार ब्लॉग चुनें|||स्थितीनुसार ब्लॉग निवडा
+Edit|||संपादित करें|||संपादित करा
+Unpublish|||प्रकाशन हटाएँ|||प्रकाशन मागे घ्या
+Publish|||प्रकाशित करें|||प्रकाशित करा
+Delete|||हटाएँ|||हटवा
+No blogs here yet.|||यहाँ अभी कोई ब्लॉग नहीं है।|||येथे अद्याप कोणतेही ब्लॉग नाहीत.
+Create a story or choose another status.|||एक लेख बनाएँ या दूसरी स्थिति चुनें।|||लेख तयार करा किंवा दुसरी स्थिती निवडा.
+Editorial workspace|||संपादकीय कार्यक्षेत्र|||संपादकीय कार्यक्षेत्र
+Delete this blog?|||यह ब्लॉग हटाएँ?|||हा ब्लॉग हटवायचा?
+This removes the blog from this browser and the public listing. This action cannot be undone.|||यह ब्लॉग इस ब्राउज़र और सार्वजनिक सूची से हट जाएगा। इसे वापस नहीं लाया जा सकता।|||हा ब्लॉग या ब्राउझरमधून आणि सार्वजनिक यादीतून हटवला जाईल. ही कृती पूर्ववत करता येणार नाही.
+Cancel|||रद्द करें|||रद्द करा
+Delete blog|||ब्लॉग हटाएँ|||ब्लॉग हटवा
+Blog moved to drafts.|||ब्लॉग ड्राफ़्ट में भेज दिया गया।|||ब्लॉग मसुद्यात हलवला.
+Blog published.|||ब्लॉग प्रकाशित हो गया।|||ब्लॉग प्रकाशित झाला.
+Blog saved and published.|||ब्लॉग सहेजा और प्रकाशित किया गया।|||ब्लॉग जतन आणि प्रकाशित केला.
+Draft saved.|||ड्राफ़्ट सहेजा गया।|||मसुदा जतन केला.
+Blog deleted.|||ब्लॉग हटा दिया गया।|||ब्लॉग हटवला.
+Complete the article details before publishing.|||प्रकाशित करने से पहले लेख का विवरण पूरा करें।|||प्रकाशित करण्यापूर्वी लेखाचे तपशील पूर्ण करा.
+Please check the highlighted fields.|||चिन्हित फ़ील्ड जाँचें।|||चिन्हांकित केलेली माहिती तपासा.
+This field is required.|||यह फ़ील्ड आवश्यक है।|||ही माहिती आवश्यक आहे.
+Use letters or numbers for the slug.|||स्लग में अक्षर या अंक इस्तेमाल करें।|||स्लगसाठी अक्षरे किंवा अंक वापरा.
+This slug is already in use. Choose another.|||यह स्लग पहले से उपयोग में है। दूसरा चुनें।|||हा स्लग आधीच वापरात आहे. दुसरा निवडा.
+Enter a valid date.|||सही तिथि दर्ज करें।|||वैध दिनांक द्या.
+Use an http or https image URL, or a local path beginning with /.|||http या https छवि URL, या / से शुरू होने वाला स्थानीय पथ इस्तेमाल करें।|||http किंवा https प्रतिमा URL, किंवा / ने सुरू होणारा स्थानिक पथ वापरा.
+Blog storage is unavailable. Check browser storage settings and try again.|||ब्लॉग स्टोरेज उपलब्ध नहीं है। ब्राउज़र स्टोरेज सेटिंग जाँचें और फिर कोशिश करें।|||ब्लॉग स्टोरेज उपलब्ध नाही. ब्राउझर स्टोरेज सेटिंग्ज तपासा आणि पुन्हा प्रयत्न करा.
+The blog could not be saved. Check available browser storage and try again.|||ब्लॉग सहेजा नहीं जा सका। ब्राउज़र में उपलब्ध स्टोरेज जाँचें और फिर कोशिश करें।|||ब्लॉग जतन करता आला नाही. ब्राउझरमधील उपलब्ध स्टोरेज तपासा आणि पुन्हा प्रयत्न करा.
+This blog no longer exists. Return to the list and try again.|||यह ब्लॉग अब मौजूद नहीं है। सूची पर वापस जाएँ और फिर कोशिश करें।|||हा ब्लॉग आता उपलब्ध नाही. यादीत परत जा आणि पुन्हा प्रयत्न करा.
+Add some written content to your article.|||लेख में कुछ लिखित सामग्री जोड़ें।|||लेखात काही मजकूर जोडा.
+This URL is already being used by another Blog. Please choose a different slug.|||यह URL दूसरे ब्लॉग में इस्तेमाल हो रहा है। दूसरा स्लग चुनें।|||हा URL दुसऱ्या ब्लॉगसाठी वापरला आहे. वेगळा स्लग निवडा.
+Image storage is unavailable. Allow browser storage and try again.|||छवि स्टोरेज उपलब्ध नहीं है। ब्राउज़र स्टोरेज की अनुमति देकर फिर कोशिश करें।|||प्रतिमा स्टोरेज उपलब्ध नाही. ब्राउझर स्टोरेजला परवानगी देऊन पुन्हा प्रयत्न करा.
+Image storage is busy. Close other editor tabs and try again.|||छवि स्टोरेज व्यस्त है। दूसरे संपादक टैब बंद करके फिर कोशिश करें।|||प्रतिमा स्टोरेज व्यस्त आहे. इतर संपादक टॅब बंद करून पुन्हा प्रयत्न करा.
+The image could not be stored. Check available browser storage and try again.|||छवि सहेजी नहीं गई। उपलब्ध ब्राउज़र स्टोरेज जाँचकर फिर कोशिश करें।|||प्रतिमा जतन झाली नाही. उपलब्ध ब्राउझर स्टोरेज तपासून पुन्हा प्रयत्न करा.
+Choose a JPG, PNG or WebP image.|||JPG, PNG या WebP छवि चुनें।|||JPG, PNG किंवा WebP प्रतिमा निवडा.
+This image is too large. Please choose an image under 10 MB.|||यह छवि बहुत बड़ी है। 10 MB से छोटी छवि चुनें।|||ही प्रतिमा खूप मोठी आहे. 10 MB पेक्षा लहान प्रतिमा निवडा.
+This image could not be opened. Please choose another JPG, PNG or WebP file.|||यह छवि नहीं खुल सकी। दूसरी JPG, PNG या WebP फ़ाइल चुनें।|||ही प्रतिमा उघडली नाही. दुसरी JPG, PNG किंवा WebP फाइल निवडा.
+This image is unavailable. Please upload it again.|||छवि उपलब्ध नहीं है। फिर अपलोड करें।|||प्रतिमा उपलब्ध नाही. पुन्हा अपलोड करा.
+Upload Featured Image|||मुख्य छवि अपलोड करें|||मुख्य प्रतिमा अपलोड करा
+Upload Image|||छवि अपलोड करें|||प्रतिमा अपलोड करा
+Replace Image|||छवि बदलें|||प्रतिमा बदला
+Remove Image|||छवि हटाएँ|||प्रतिमा काढा
+Uploading image…|||छवि अपलोड हो रही है…|||प्रतिमा अपलोड होत आहे…
+Add a photo to this part of your article.|||लेख के इस हिस्से में फ़ोटो जोड़ें।|||लेखाच्या या भागात फोटो जोडा.
+JPG, PNG or WebP. Up to 10 MB per image.|||JPG, PNG या WebP। हर छवि अधिकतम 10 MB।|||JPG, PNG किंवा WebP. प्रत्येक प्रतिमा जास्तीत जास्त 10 MB.
+Upload an image here. Empty image blocks will not appear in the public article.|||यहाँ छवि अपलोड करें। खाली छवि ब्लॉक सार्वजनिक लेख में नहीं दिखेंगे।|||येथे प्रतिमा अपलोड करा. रिकामे प्रतिमा ब्लॉक सार्वजनिक लेखात दिसणार नाहीत.
+Paragraph|||अनुच्छेद|||परिच्छेद
+Heading|||शीर्षक|||शीर्षक
+Image|||छवि|||प्रतिमा
+Bullet List|||बुलेट सूची|||बुलेट यादी
+Numbered List|||क्रमांकित सूची|||क्रमांकित यादी
+Quote|||उद्धरण|||उद्धरण
+Text formatting|||पाठ का स्वरूप|||मजकुराचे स्वरूप
+Bold|||बोल्ड|||ठळक
+Italic|||इटैलिक|||तिरपे
+Link|||लिंक|||दुवा
+Remove link|||लिंक हटाएँ|||दुवा काढा
+Link destination|||लिंक का पता|||दुव्याचा पत्ता
+Apply link|||लिंक लगाएँ|||दुवा लावा
+Enter a valid website link beginning with https:// or http://.|||https:// या http:// से शुरू होने वाला सही वेबसाइट लिंक दें।|||https:// किंवा http:// ने सुरू होणारा वैध वेबसाइट दुवा द्या.
+Write a heading…|||शीर्षक लिखें…|||शीर्षक लिहा…
+Start writing…|||लिखना शुरू करें…|||लिहायला सुरुवात करा…
+Add Block|||ब्लॉक जोड़ें|||ब्लॉक जोडा
+Choose a block type|||ब्लॉक का प्रकार चुनें|||ब्लॉकचा प्रकार निवडा
+Content|||लेख सामग्री|||लेखाचा मजकूर
+Build your article, one block at a time.|||एक-एक ब्लॉक जोड़कर लेख बनाएँ।|||एकेक ब्लॉक जोडून लेख तयार करा.
+Heading level|||शीर्षक का स्तर|||शीर्षकाची पातळी
+Move Up|||ऊपर ले जाएँ|||वर हलवा
+Move Down|||नीचे ले जाएँ|||खाली हलवा
+Remove block|||ब्लॉक हटाएँ|||ब्लॉक काढा
+Alt Text|||छवि का विवरण|||प्रतिमेचे वर्णन
+Caption|||कैप्शन|||मथळा
+(optional)|||वैकल्पिक|||पर्यायी
+Briefly describe what is shown in the image.|||छवि में क्या दिखता है, संक्षेप में बताएँ।|||प्रतिमेत काय दिसते ते थोडक्यात सांगा.
+Write one item per line.|||हर पंक्ति में एक बिंदु लिखें।|||प्रत्येक ओळीत एक मुद्दा लिहा.
+Remove|||हटाएँ|||काढा
+Add|||जोड़ें|||जोडा
+Type a phrase and press Enter to add it.|||वाक्यांश लिखें और जोड़ने के लिए Enter दबाएँ।|||वाक्यांश लिहा आणि जोडण्यासाठी Enter दाबा.
+Help people find your article.|||लोगों को आपका लेख खोजने में मदद करें।|||लोकांना तुमचा लेख शोधण्यात मदत करा.
+Focus Keyword|||मुख्य खोज वाक्यांश|||मुख्य शोध वाक्यांश
+What phrase should people search to find this article?|||इस लेख को खोजने के लिए लोग कौन-सा वाक्यांश खोजें?|||हा लेख शोधण्यासाठी लोकांनी कोणता वाक्यांश शोधावा?
+SEO Title|||खोज परिणाम का शीर्षक|||शोध परिणामाचे शीर्षक
+This is the title that may appear in search results.|||यह शीर्षक खोज परिणामों में दिख सकता है।|||हे शीर्षक शोध परिणामांमध्ये दिसू शकते.
+Meta Description|||खोज परिणाम का विवरण|||शोध परिणामाचे वर्णन
+Write a short summary that may appear under your Blog title in search results.|||खोज परिणामों में ब्लॉग शीर्षक के नीचे दिखने वाला छोटा सार लिखें।|||शोध परिणामांत ब्लॉग शीर्षकाखाली दिसू शकणारा थोडक्यात सारांश लिहा.
+Related Keywords|||संबंधित खोज वाक्यांश|||संबंधित शोध वाक्यांश
+Optional supporting phrases for planning your article.|||लेख की योजना के लिए वैकल्पिक सहायक वाक्यांश।|||लेखाच्या नियोजनासाठी पर्यायी पूरक वाक्यांश.
+Search Preview|||खोज परिणाम का पूर्वावलोकन|||शोध परिणामाचे पूर्वावलोकन
+Your article summary will appear here.|||लेख का सार यहाँ दिखेगा।|||लेखाचा सारांश येथे दिसेल.
+A helpful preview. Search engines may display different text.|||यह उपयोगी पूर्वावलोकन है। खोज इंजन अलग पाठ दिखा सकते हैं।|||हे उपयुक्त पूर्वावलोकन आहे. शोध इंजिन वेगळा मजकूर दाखवू शकतात.
+SEO Check|||खोज संबंधी जाँच|||शोधविषयक तपासणी
+Helpful reminders. These do not prevent publishing or promise search rankings.|||ये उपयोगी सुझाव प्रकाशन नहीं रोकते और खोज रैंकिंग का वादा नहीं करते।|||या उपयुक्त सूचना प्रकाशन थांबवत नाहीत आणि शोध क्रमवारीची हमी देत नाहीत.
+Good|||अच्छा|||चांगले
+Needs Attention|||ध्यान दें|||लक्ष द्या
+Missing|||बाकी है|||अपूर्ण
+Focus Keyword added|||मुख्य खोज वाक्यांश जोड़ा गया|||मुख्य शोध वाक्यांश जोडला
+Choose one phrase people might search for.|||एक वाक्यांश चुनें जिसे लोग खोज सकते हैं।|||लोक शोधू शकतील असा एक वाक्यांश निवडा.
+Focus Keyword in Blog title|||ब्लॉग शीर्षक में मुख्य खोज वाक्यांश|||ब्लॉग शीर्षकात मुख्य शोध वाक्यांश
+Include your Focus Keyword naturally in the Blog title.|||ब्लॉग शीर्षक में मुख्य खोज वाक्यांश सहज रूप से शामिल करें।|||ब्लॉग शीर्षकात मुख्य शोध वाक्यांश सहजपणे समाविष्ट करा.
+Focus Keyword in SEO title|||खोज शीर्षक में मुख्य खोज वाक्यांश|||शोध शीर्षकात मुख्य शोध वाक्यांश
+Include your Focus Keyword naturally in the SEO title.|||खोज शीर्षक में मुख्य वाक्यांश सहज रूप से शामिल करें।|||शोध शीर्षकात मुख्य वाक्यांश सहजपणे समाविष्ट करा.
+Focus Keyword in Meta Description|||खोज विवरण में मुख्य खोज वाक्यांश|||शोध वर्णनात मुख्य शोध वाक्यांश
+Add your Focus Keyword to the Meta Description.|||खोज विवरण में अपना मुख्य खोज वाक्यांश जोड़ें।|||शोध वर्णनात मुख्य शोध वाक्यांश जोडा.
+Focus Keyword in URL slug|||URL स्लग में मुख्य खोज वाक्यांश|||URL स्लगमध्ये मुख्य शोध वाक्यांश
+Use your Focus Keyword in the URL slug where it fits.|||जहाँ उचित हो, URL स्लग में मुख्य खोज वाक्यांश इस्तेमाल करें।|||योग्य ठिकाणी URL स्लगमध्ये मुख्य शोध वाक्यांश वापरा.
+SEO title length|||खोज शीर्षक की लंबाई|||शोध शीर्षकाची लांबी
+Aim for about 50–60 characters. This is a guide, not a publishing limit.|||लगभग 50–60 अक्षरों का लक्ष्य रखें। यह सुझाव है, प्रकाशन की सीमा नहीं।|||सुमारे 50–60 अक्षरे ठेवा. ही सूचना आहे, प्रकाशनाची मर्यादा नाही.
+Meta Description length|||खोज विवरण की लंबाई|||शोध वर्णनाची लांबी
+Aim for about 140–160 characters. A clear summary matters most.|||लगभग 140–160 अक्षरों का लक्ष्य रखें। स्पष्ट सार सबसे ज़रूरी है।|||सुमारे 140–160 अक्षरे ठेवा. स्पष्ट सारांश सर्वात महत्त्वाचा आहे.
+Featured Image added|||मुख्य छवि जोड़ी गई|||मुख्य प्रतिमा जोडली
+Upload a Featured Image for your article.|||लेख के लिए मुख्य छवि अपलोड करें।|||लेखासाठी मुख्य प्रतिमा अपलोड करा.
+Featured Image Alt Text|||मुख्य छवि का विवरण|||मुख्य प्रतिमेचे वर्णन
+Briefly describe the Featured Image.|||मुख्य छवि का संक्षिप्त विवरण दें।|||मुख्य प्रतिमेचे थोडक्यात वर्णन करा.
+Article headings|||लेख के शीर्षक|||लेखातील शीर्षके
+Add a heading to help readers follow your article.|||लेख समझने में मदद के लिए शीर्षक जोड़ें।|||लेख समजण्यास मदत व्हावी म्हणून शीर्षक जोडा.
+Written content|||लिखित सामग्री|||लिखित मजकूर
+Consider adding more useful detail. This check looks for at least 100 words.|||और उपयोगी विवरण जोड़ें। यह जाँच कम-से-कम 100 शब्द देखती है।|||अधिक उपयुक्त तपशील जोडा. ही तपासणी किमान 100 शब्द पाहते.
+YOUR ARTICLE|||आपका लेख|||तुमचा लेख
+Write, add photos, and make it yours.|||लिखें, फ़ोटो जोड़ें और अपना लेख बनाएँ।|||लिहा, फोटो जोडा आणि तुमचा लेख तयार करा.
+A short introduction shown in the Blog listing.|||ब्लॉग सूची में दिखने वाला छोटा परिचय।|||ब्लॉग यादीत दिसणारा थोडक्यात परिचय.
+Finishing your image upload…|||छवि अपलोड पूरी हो रही है…|||प्रतिमा अपलोड पूर्ण होत आहे…
+words|||शब्द|||शब्द
+Blog details|||ब्लॉग का विवरण|||ब्लॉगचे तपशील
+URL Slug|||URL स्लग|||URL स्लग
+Public URL|||सार्वजनिक URL|||सार्वजनिक URL
+Tags|||टैग|||टॅग
+Image Alt Text|||छवि का विवरण|||प्रतिमेचे वर्णन
+Describe the image briefly for accessibility and search engines.|||सुलभता और खोज इंजनों के लिए छवि का संक्षिप्त विवरण दें।|||सुलभता आणि शोध इंजिनांसाठी प्रतिमेचे थोडक्यात वर्णन करा.

@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "backdrop": {
+        "background": "rgba(0, 0, 0, 0)",
+        "image": "none",
+        "radius": "0px"
+      },
+      "colors": [
+        "rgb(0, 76, 163)",
+        "rgb(102, 129, 58)"
+      ],
+      "hierarchy": "passed",
+      "tiles": "loaded",
+      "touch": false
+    },
+    {
+      "width": 390,
+      "backdrop": {
+        "background": "rgba(0, 0, 0, 0)",
+        "image": "none",
+        "radius": "0px"
+      },
+      "colors": [
+        "rgb(0, 76, 163)",
+        "rgb(102, 129, 58)"
+      ],
+      "hierarchy": "passed",
+      "tiles": "loaded",
+      "touch": true
+    }
+  ],
+  "errors": [],
+  "changed": [
+    "src/home-branch-assembly.css"
+  ],
+  "animationLogic": "unchanged"
+}

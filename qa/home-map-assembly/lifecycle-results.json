@@ -1,0 +1,9 @@
+{
+  "keyboard": "passed",
+  "nativeWheelAndReverse": "passed",
+  "languageSwitchDuringAssembly": "passed",
+  "resizeAndOrientation": "passed",
+  "touchHandoff": "passed",
+  "strictModeRemount": "passed",
+  "errors": []
+}

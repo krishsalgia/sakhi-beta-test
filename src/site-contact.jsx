@@ -22,7 +22,7 @@ export function ServiceIcon({ name, ...props }) {
 }
 
 export function Footer() {
-  const links = [['Home', '/'], ['Loans', '/products/loans'], ['Deposits', '/products/deposits'], ['Services', '/services'], ['Branches', '/branches'], ['Contact', '/contact']];
+  const links = [['Home', '/'], ['Loans', '/products/loans'], ['Deposits', '/products/deposits'], ['Services', '/services'], ['Branches', '/branches'], ['Blogs', '/blogs'], ['Contact', '/contact']];
   return <footer className="site-footer">
     <div className="footer-top"><div className="footer-intro"><div className="footer-logo"><img src="/assets/sakhi-logo.png" alt="Sakhi Multi State Co Operative Credit Society Ltd." width="646" height="152" /></div><p>Our goal at Sakhi Multistate Co-operative Credit Society is to provide access to various types of loans at competitive interest rates.</p></div>
       <nav className="footer-navigation" aria-label="Footer navigation"><span>EXPLORE SAKHI</span>{links.map(([label, href]) => <a key={href} href={href}>{label}<Icon /></a>)}</nav>

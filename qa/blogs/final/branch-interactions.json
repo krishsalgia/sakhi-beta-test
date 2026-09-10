@@ -1,0 +1,21 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "maharashtraCities": 6,
+      "mumbaiBranches": 6,
+      "andheriSelected": true,
+      "tilesLoaded": true,
+      "karnataka": true
+    },
+    {
+      "width": 390,
+      "maharashtraCities": 6,
+      "mumbaiBranches": 6,
+      "andheriSelected": true,
+      "tilesLoaded": true,
+      "karnataka": true
+    }
+  ],
+  "errors": []
+}

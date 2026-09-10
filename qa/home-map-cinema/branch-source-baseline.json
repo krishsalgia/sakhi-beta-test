@@ -1,0 +1,30 @@
+[
+  {
+    "file": "src/branch-data.js",
+    "unchanged": true
+  },
+  {
+    "file": "src/branch-geography.js",
+    "unchanged": true
+  },
+  {
+    "file": "src/branch-map.css",
+    "unchanged": true
+  },
+  {
+    "file": "src/branch-network.jsx",
+    "unchanged": true
+  },
+  {
+    "file": "src/branch-state-shapes.json",
+    "unchanged": true
+  },
+  {
+    "file": "src/branches-page.jsx",
+    "unchanged": true
+  },
+  {
+    "file": "src/city-branch-map.jsx",
+    "unchanged": true
+  }
+]

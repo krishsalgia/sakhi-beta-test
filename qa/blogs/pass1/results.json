@@ -1,0 +1,50 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "name": "listing",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "name": "article",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "name": "login",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "name": "listing",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "name": "article",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "name": "login",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "name": "listing",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "name": "article",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "name": "login",
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

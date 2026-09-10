@@ -1,0 +1,3137 @@
+[
+  {
+    "width": 1366,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1040.4222412109375,
+        "right": 1425.0426025390625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 635.8668212890625,
+        "right": 1049.12841796875,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 990.4617309570312,
+        "right": 1338.59375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 667.7537231445312,
+        "right": 1060.6505126953125,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 978.1265258789062,
+        "right": 1312.0030517578125,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 737.96142578125,
+        "right": 1076.2059326171875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 976.1765747070312,
+        "right": 1307.5291748046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 750.9561157226562,
+        "right": 1078.05224609375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 976.62451171875,
+        "right": 1313.31298828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 746.79052734375,
+        "right": 1077.14697265625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1040.4222412109375,
+        "right": 1425.0426025390625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 635.8668212890625,
+        "right": 1049.12841796875,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 990.4617309570312,
+        "right": 1338.59375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 667.7537231445312,
+        "right": 1060.6505126953125,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 978.1265258789062,
+        "right": 1312.0030517578125,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 737.96142578125,
+        "right": 1076.2059326171875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 976.1765747070312,
+        "right": 1307.5291748046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 750.9561157226562,
+        "right": 1078.05224609375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 976.62451171875,
+        "right": 1313.31298828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 746.79052734375,
+        "right": 1077.14697265625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1040.4222412109375,
+        "right": 1425.0426025390625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 635.8668212890625,
+        "right": 1049.12841796875,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 990.4617309570312,
+        "right": 1338.59375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 667.7537231445312,
+        "right": 1060.6505126953125,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 978.1265258789062,
+        "right": 1312.0030517578125,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 737.96142578125,
+        "right": 1076.2059326171875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 976.1765747070312,
+        "right": 1307.5291748046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 750.9561157226562,
+        "right": 1078.05224609375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1366,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 976.62451171875,
+        "right": 1313.31298828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 746.79052734375,
+        "right": 1077.14697265625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1110.4552001953125,
+        "right": 1495.0755615234375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 705.8997802734375,
+        "right": 1119.1614990234375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1060.596435546875,
+        "right": 1408.728271484375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 737.8883666992188,
+        "right": 1130.78515625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1048.281982421875,
+        "right": 1382.158447265625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 808.1168823242188,
+        "right": 1146.361328125,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1046.332763671875,
+        "right": 1377.6854248046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 821.1123657226562,
+        "right": 1148.20849609375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1046.78076171875,
+        "right": 1383.46923828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 816.94677734375,
+        "right": 1147.30322265625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1110.4552001953125,
+        "right": 1495.0755615234375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 705.8997802734375,
+        "right": 1119.1614990234375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1060.596435546875,
+        "right": 1408.728271484375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 737.8883666992188,
+        "right": 1130.78515625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1048.281982421875,
+        "right": 1382.158447265625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 808.1168823242188,
+        "right": 1146.361328125,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1046.332763671875,
+        "right": 1377.6854248046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 821.1123657226562,
+        "right": 1148.20849609375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1046.78076171875,
+        "right": 1383.46923828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 816.94677734375,
+        "right": 1147.30322265625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1110.4552001953125,
+        "right": 1495.0755615234375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 705.8997802734375,
+        "right": 1119.1614990234375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1060.596435546875,
+        "right": 1408.728271484375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 737.8883666992188,
+        "right": 1130.78515625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1048.281982421875,
+        "right": 1382.158447265625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 808.1168823242188,
+        "right": 1146.361328125,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1046.332763671875,
+        "right": 1377.6854248046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 821.1123657226562,
+        "right": 1148.20849609375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1046.78076171875,
+        "right": 1383.46923828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 816.94677734375,
+        "right": 1147.30322265625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1506.108642578125,
+        "right": 1890.72900390625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1101.55322265625,
+        "right": 1514.81494140625,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1456.729248046875,
+        "right": 1804.861083984375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1134.021240234375,
+        "right": 1526.91796875,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1444.5126953125,
+        "right": 1778.38916015625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1204.34765625,
+        "right": 1542.5921630859375,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1442.5672607421875,
+        "right": 1773.9197998046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1217.3466796875,
+        "right": 1544.44287109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1443.01513671875,
+        "right": 1779.70361328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1213.18115234375,
+        "right": 1543.53759765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1506.108642578125,
+        "right": 1890.72900390625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1101.55322265625,
+        "right": 1514.81494140625,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1456.729248046875,
+        "right": 1804.861083984375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1134.021240234375,
+        "right": 1526.91796875,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1444.5126953125,
+        "right": 1778.38916015625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1204.34765625,
+        "right": 1542.5921630859375,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1442.5672607421875,
+        "right": 1773.9197998046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1217.3466796875,
+        "right": 1544.44287109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1443.01513671875,
+        "right": 1779.70361328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1213.18115234375,
+        "right": 1543.53759765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1506.108642578125,
+        "right": 1890.72900390625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1101.55322265625,
+        "right": 1514.81494140625,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1456.729248046875,
+        "right": 1804.861083984375,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1134.021240234375,
+        "right": 1526.91796875,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1444.5126953125,
+        "right": 1778.38916015625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1204.34765625,
+        "right": 1542.5921630859375,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1442.5672607421875,
+        "right": 1773.9197998046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1217.3466796875,
+        "right": 1544.44287109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 1443.01513671875,
+        "right": 1779.70361328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1213.18115234375,
+        "right": 1543.53759765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2088.9091796875,
+        "right": 2473.52978515625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1684.353759765625,
+        "right": 2097.615234375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2040.3388671875,
+        "right": 2388.470703125,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1717.630859375,
+        "right": 2110.527587890625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2028.28759765625,
+        "right": 2362.1640625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1788.1226806640625,
+        "right": 2126.3671875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2026.3485107421875,
+        "right": 2357.701171875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1801.1279296875,
+        "right": 2128.22412109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2026.79638671875,
+        "right": 2363.48486328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1796.96240234375,
+        "right": 2127.31884765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2088.9091796875,
+        "right": 2473.52978515625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1684.353759765625,
+        "right": 2097.615234375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2040.3388671875,
+        "right": 2388.470703125,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1717.630859375,
+        "right": 2110.527587890625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2028.28759765625,
+        "right": 2362.1640625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1788.1226806640625,
+        "right": 2126.3671875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2026.3485107421875,
+        "right": 2357.701171875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1801.1279296875,
+        "right": 2128.22412109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2026.79638671875,
+        "right": 2363.48486328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1796.96240234375,
+        "right": 2127.31884765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2088.9091796875,
+        "right": 2473.52978515625,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1684.353759765625,
+        "right": 2097.615234375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2040.3388671875,
+        "right": 2388.470703125,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1717.630859375,
+        "right": 2110.527587890625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2028.28759765625,
+        "right": 2362.1640625,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1788.1226806640625,
+        "right": 2126.3671875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2026.3485107421875,
+        "right": 2357.701171875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1801.1279296875,
+        "right": 2128.22412109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 2560,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 2026.79638671875,
+        "right": 2363.48486328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 1796.96240234375,
+        "right": 2127.31884765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3254.51025390625,
+        "right": 3639.13037109375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2849.95458984375,
+        "right": 3263.21630859375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3207.55810546875,
+        "right": 3555.68994140625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2884.85009765625,
+        "right": 3277.7470703125,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3195.837890625,
+        "right": 3529.71435546875,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2955.672607421875,
+        "right": 3293.91748046875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3193.910888671875,
+        "right": 3525.263671875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2968.6904296875,
+        "right": 3295.78662109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3194.35888671875,
+        "right": 3531.04736328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2964.52490234375,
+        "right": 3294.88134765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3254.51025390625,
+        "right": 3639.13037109375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2849.95458984375,
+        "right": 3263.21630859375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3207.55810546875,
+        "right": 3555.68994140625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2884.85009765625,
+        "right": 3277.7470703125,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3195.837890625,
+        "right": 3529.71435546875,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2955.672607421875,
+        "right": 3293.91748046875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3193.910888671875,
+        "right": 3525.263671875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2968.6904296875,
+        "right": 3295.78662109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3194.35888671875,
+        "right": 3531.04736328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2964.52490234375,
+        "right": 3294.88134765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3254.51025390625,
+        "right": 3639.13037109375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2849.95458984375,
+        "right": 3263.21630859375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3207.55810546875,
+        "right": 3555.68994140625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2884.85009765625,
+        "right": 3277.7470703125,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3195.837890625,
+        "right": 3529.71435546875,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2955.672607421875,
+        "right": 3293.91748046875,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3193.910888671875,
+        "right": 3525.263671875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2968.6904296875,
+        "right": 3295.78662109375,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 3840,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 3194.35888671875,
+        "right": 3531.04736328125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 2964.52490234375,
+        "right": 3294.88134765625,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 764.8621826171875,
+        "right": 1095.6357421875,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 416.944580078125,
+        "right": 772.349609375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 721.728271484375,
+        "right": 1021.1217041015625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 444.1993713378906,
+        "right": 782.0906982421875,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 711.085693359375,
+        "right": 998.219482421875,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 504.5437316894531,
+        "right": 795.4339599609375,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 709.407470703125,
+        "right": 994.3707275390625,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 515.7178955078125,
+        "right": 797.0205078125,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 709.792724609375,
+        "right": 999.3447875976562,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 512.135498046875,
+        "right": 796.241943359375,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 764.8621826171875,
+        "right": 1095.6357421875,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 416.944580078125,
+        "right": 772.349609375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 721.728271484375,
+        "right": 1021.1217041015625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 444.1993713378906,
+        "right": 782.0906982421875,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 711.085693359375,
+        "right": 998.219482421875,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 504.5437316894531,
+        "right": 795.4339599609375,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 709.407470703125,
+        "right": 994.3707275390625,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 515.7178955078125,
+        "right": 797.0205078125,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 709.792724609375,
+        "right": 999.3447875976562,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 512.135498046875,
+        "right": 796.241943359375,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 764.8621826171875,
+        "right": 1095.6357421875,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 416.944580078125,
+        "right": 772.349609375,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 721.728271484375,
+        "right": 1021.1217041015625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 444.1993713378906,
+        "right": 782.0906982421875,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 711.085693359375,
+        "right": 998.219482421875,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 504.5437316894531,
+        "right": 795.4339599609375,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 709.407470703125,
+        "right": 994.3707275390625,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 515.7178955078125,
+        "right": 797.0205078125,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 709.792724609375,
+        "right": 999.3447875976562,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 512.135498046875,
+        "right": 796.241943359375,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 578.60205078125,
+        "right": 824.759033203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 319.6866149902344,
+        "right": 584.174072265625,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 546.5221557617188,
+        "right": 769.32666015625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 339.9890441894531,
+        "right": 591.4429931640625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 538.606201171875,
+        "right": 752.2872314453125,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 384.9005432128906,
+        "right": 601.376953125,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 537.357421875,
+        "right": 749.423095703125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 393.21630859375,
+        "right": 602.5578002929688,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 537.64404296875,
+        "right": 753.1246948242188,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 390.55035400390625,
+        "right": 601.9783935546875,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 578.60205078125,
+        "right": 824.759033203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 319.6866149902344,
+        "right": 584.174072265625,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 546.5221557617188,
+        "right": 769.32666015625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 339.9890441894531,
+        "right": 591.4429931640625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 538.606201171875,
+        "right": 752.2872314453125,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 384.9005432128906,
+        "right": 601.376953125,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 537.357421875,
+        "right": 749.423095703125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 393.21630859375,
+        "right": 602.5578002929688,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 537.64404296875,
+        "right": 753.1246948242188,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 390.55035400390625,
+        "right": 601.9783935546875,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 578.60205078125,
+        "right": 824.759033203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 319.6866149902344,
+        "right": 584.174072265625,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 546.5221557617188,
+        "right": 769.32666015625,
+        "opacity": 0.826491
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 339.9890441894531,
+        "right": 591.4429931640625,
+        "opacity": 0.380757
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 538.606201171875,
+        "right": 752.2872314453125,
+        "opacity": 0.987121
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 384.9005432128906,
+        "right": 601.376953125,
+        "opacity": 0.951176
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 537.357421875,
+        "right": 749.423095703125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 393.21630859375,
+        "right": 602.5578002929688,
+        "opacity": 0.999896
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 537.64404296875,
+        "right": 753.1246948242188,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 390.55035400390625,
+        "right": 601.9783935546875,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 185.1488494873047,
+        "right": 416.8172912597656,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 14.847227096557617,
+        "right": 249.80407524108887,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.83193969726562,
+        "right": 412.71710205078125,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 14.847227096557617,
+        "right": 249.80407524108887,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.2707977294922,
+        "right": 402.2212219238281,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 30.37511444091797,
+        "right": 248.71526336669922,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.23789978027344,
+        "right": 401.2999267578125,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 35.290016174316406,
+        "right": 248.25891876220703,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 183.57623291015625,
+        "right": 402.4237365722656,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 34.18416976928711,
+        "right": 248.91581344604492,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 185.1488494873047,
+        "right": 416.8172912597656,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 14.847227096557617,
+        "right": 249.80407524108887,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.83193969726562,
+        "right": 412.71710205078125,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 14.847227096557617,
+        "right": 249.80407524108887,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.2707977294922,
+        "right": 402.2212219238281,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 30.37511444091797,
+        "right": 248.71526336669922,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.23789978027344,
+        "right": 401.2999267578125,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 35.290016174316406,
+        "right": 248.25891876220703,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 183.57623291015625,
+        "right": 402.4237365722656,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 34.18416976928711,
+        "right": 248.91581344604492,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 185.1488494873047,
+        "right": 416.8172912597656,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 14.847227096557617,
+        "right": 249.80407524108887,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.83193969726562,
+        "right": 412.71710205078125,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 14.847227096557617,
+        "right": 249.80407524108887,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.2707977294922,
+        "right": 402.2212219238281,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 30.37511444091797,
+        "right": 248.71526336669922,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 184.23789978027344,
+        "right": 401.2999267578125,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 35.290016174316406,
+        "right": 248.25891876220703,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 430,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 183.57623291015625,
+        "right": 402.4237365722656,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 34.18416976928711,
+        "right": 248.91581344604492,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 170.65985107421875,
+        "right": 359.5587158203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 31.798521041870117,
+        "right": 223.37870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 170.4014434814453,
+        "right": 356.2154846191406,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 31.798521041870117,
+        "right": 223.37870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.94387817382812,
+        "right": 347.6573181152344,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 44.45972442626953,
+        "right": 222.49091339111328,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.91705322265625,
+        "right": 346.9060974121094,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 48.46725845336914,
+        "right": 222.11882400512695,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.3775634765625,
+        "right": 347.82244873046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 47.56556701660156,
+        "right": 222.65444946289062,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 170.65985107421875,
+        "right": 359.5587158203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 31.798521041870117,
+        "right": 223.37870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 170.4014434814453,
+        "right": 356.2154846191406,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 31.798521041870117,
+        "right": 223.37870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.94387817382812,
+        "right": 347.6573181152344,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 44.45972442626953,
+        "right": 222.49091339111328,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.91705322265625,
+        "right": 346.9060974121094,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 48.46725845336914,
+        "right": 222.11882400512695,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.3775634765625,
+        "right": 347.82244873046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 47.56556701660156,
+        "right": 222.65444946289062,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 170.65985107421875,
+        "right": 359.5587158203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 31.798521041870117,
+        "right": 223.37870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 170.4014434814453,
+        "right": 356.2154846191406,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 31.798521041870117,
+        "right": 223.37870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.94387817382812,
+        "right": 347.6573181152344,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 44.45972442626953,
+        "right": 222.49091339111328,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.91705322265625,
+        "right": 346.9060974121094,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 48.46725845336914,
+        "right": 222.11882400512695,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 169.3775634765625,
+        "right": 347.82244873046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 47.56556701660156,
+        "right": 222.65444946289062,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 163.15985107421875,
+        "right": 352.0587158203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 24.298521041870117,
+        "right": 215.87870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.9014434814453,
+        "right": 348.7154846191406,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 24.298521041870117,
+        "right": 215.87870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.44387817382812,
+        "right": 340.1573181152344,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 36.95972442626953,
+        "right": 214.99091339111328,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.41705322265625,
+        "right": 339.4060974121094,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 40.96725845336914,
+        "right": 214.61882400512695,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 161.8775634765625,
+        "right": 340.32244873046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 40.06556701660156,
+        "right": 215.15444946289062,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 163.15985107421875,
+        "right": 352.0587158203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 24.298521041870117,
+        "right": 215.87870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.9014434814453,
+        "right": 348.7154846191406,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 24.298521041870117,
+        "right": 215.87870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.44387817382812,
+        "right": 340.1573181152344,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 36.95972442626953,
+        "right": 214.99091339111328,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.41705322265625,
+        "right": 339.4060974121094,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 40.96725845336914,
+        "right": 214.61882400512695,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 161.8775634765625,
+        "right": 340.32244873046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 40.06556701660156,
+        "right": 215.15444946289062,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 163.15985107421875,
+        "right": 352.0587158203125,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 24.298521041870117,
+        "right": 215.87870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.9014434814453,
+        "right": 348.7154846191406,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 24.298521041870117,
+        "right": 215.87870597839355,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.44387817382812,
+        "right": 340.1573181152344,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 36.95972442626953,
+        "right": 214.99091339111328,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 162.41705322265625,
+        "right": 339.4060974121094,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 40.96725845336914,
+        "right": 214.61882400512695,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 375,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 161.8775634765625,
+        "right": 340.32244873046875,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 40.06556701660156,
+        "right": 215.15444946289062,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "en",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 139.33383178710938,
+        "right": 299.71966552734375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 21.432695388793945,
+        "right": 184.09512519836426,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "en",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 139.1144256591797,
+        "right": 296.8810729980469,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 21.432695388793945,
+        "right": 184.09512519836426,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "en",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.72593688964844,
+        "right": 289.61468505859375,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 32.18277359008789,
+        "right": 183.34132766723633,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "en",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.70315551757812,
+        "right": 288.97686767578125,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 35.58539581298828,
+        "right": 183.02539825439453,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "en",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.24508666992188,
+        "right": 289.7548828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 34.81980895996094,
+        "right": 183.4801788330078,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "hi",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 139.33383178710938,
+        "right": 299.71966552734375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 21.432695388793945,
+        "right": 184.09512519836426,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "hi",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 139.1144256591797,
+        "right": 296.8810729980469,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 21.432695388793945,
+        "right": 184.09512519836426,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "hi",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.72593688964844,
+        "right": 289.61468505859375,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 32.18277359008789,
+        "right": 183.34132766723633,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "hi",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.70315551757812,
+        "right": 288.97686767578125,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 35.58539581298828,
+        "right": 183.02539825439453,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "hi",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.24508666992188,
+        "right": 289.7548828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 34.81980895996094,
+        "right": 183.4801788330078,
+        "opacity": 1
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "mr",
+    "time": 180,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 139.33383178710938,
+        "right": 299.71966552734375,
+        "opacity": 0
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 21.432695388793945,
+        "right": 184.09512519836426,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "mr",
+    "time": 400,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 139.1144256591797,
+        "right": 296.8810729980469,
+        "opacity": 0.269191
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 21.432695388793945,
+        "right": 184.09512519836426,
+        "opacity": 0
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "mr",
+    "time": 700,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.72593688964844,
+        "right": 289.61468505859375,
+        "opacity": 0.941813
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 32.18277359008789,
+        "right": 183.34132766723633,
+        "opacity": 0.759956
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "mr",
+    "time": 1100,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.70315551757812,
+        "right": 288.97686767578125,
+        "opacity": 0.99979
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 35.58539581298828,
+        "right": 183.02539825439453,
+        "opacity": 0.993241
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "lang": "mr",
+    "time": 2200,
+    "cards": [
+      {
+        "cls": "hero-panel future-panel",
+        "left": 138.24508666992188,
+        "right": 289.7548828125,
+        "opacity": 1
+      },
+      {
+        "cls": "hero-panel savings-panel",
+        "left": 34.81980895996094,
+        "right": 183.4801788330078,
+        "opacity": 1
+      }
+    ]
+  }
+]

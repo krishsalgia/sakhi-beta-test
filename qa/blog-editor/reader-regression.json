@@ -1,0 +1,17 @@
+{
+  "results": [
+    {
+      "width": 1440,
+      "geometry": true,
+      "maxChannelDelta": 6,
+      "pixelsOverFive": 1
+    },
+    {
+      "width": 375,
+      "geometry": true,
+      "maxChannelDelta": 0,
+      "pixelsOverFive": 0
+    }
+  ],
+  "note": "Identical geometry. The desktop screenshot has one pixel with a channel delta of six in the unchanged placeholder art; reviewed visually as rendering variance."
+}

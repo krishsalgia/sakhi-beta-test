@@ -1,0 +1,25 @@
+{
+  "checks": [
+    "Mobile Header Blogs navigation",
+    "Category filter",
+    "All articles restores collection",
+    "Reading progress advances",
+    "Reading progress remains below sticky header",
+    "Footer Blogs navigation",
+    "Mobile create and publish",
+    "Escape cancels deletion",
+    "Confirmation traps keyboard focus",
+    "Confirmation traps keyboard focus",
+    "Confirmation traps keyboard focus",
+    "Confirmation traps keyboard focus",
+    "Confirmation traps keyboard focus",
+    "Deleting every post does not reseed after refresh",
+    "Public empty state",
+    "Reduced-motion listing",
+    "Reduced-motion reader",
+    "Storage failure is reported without false success",
+    "Unusable image falls back without broken image icon",
+    "No console errors in edge cases"
+  ],
+  "errors": []
+}

@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "route": "/",
+      "width": 1440,
+      "drilldown": "passed",
+      "tiles": "loaded",
+      "exactAddress": "passed",
+      "breadcrumbs": "passed",
+      "karnataka": "pending",
+      "touch": false,
+      "handoff": "identical geometry/colors"
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "drilldown": "passed",
+      "tiles": "loaded",
+      "exactAddress": "passed",
+      "breadcrumbs": "passed",
+      "karnataka": "pending",
+      "touch": false,
+      "handoff": "identical geometry/colors"
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "drilldown": "passed",
+      "tiles": "loaded",
+      "exactAddress": "passed",
+      "breadcrumbs": "passed",
+      "karnataka": "pending",
+      "touch": true,
+      "handoff": "identical geometry/colors"
+    },
+    {
+      "route": "/branches",
+      "width": 1440,
+      "drilldown": "passed",
+      "tiles": "loaded",
+      "exactAddress": "passed",
+      "breadcrumbs": "passed",
+      "karnataka": "pending",
+      "touch": false,
+      "handoff": "original map"
+    },
+    {
+      "route": "/branches",
+      "width": 768,
+      "drilldown": "passed",
+      "tiles": "loaded",
+      "exactAddress": "passed",
+      "breadcrumbs": "passed",
+      "karnataka": "pending",
+      "touch": false,
+      "handoff": "original map"
+    },
+    {
+      "route": "/branches",
+      "width": 390,
+      "drilldown": "passed",
+      "tiles": "loaded",
+      "exactAddress": "passed",
+      "breadcrumbs": "passed",
+      "karnataka": "pending",
+      "touch": true,
+      "handoff": "original map"
+    },
+    {
+      "lang": "en",
+      "width": 1440,
+      "reducedMotion": "no 3D",
+      "keyboardSkip": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "reducedMotion": "no 3D",
+      "keyboardSkip": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "lang": "hi",
+      "width": 1440,
+      "reducedMotion": "no 3D",
+      "keyboardSkip": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "lang": "hi",
+      "width": 390,
+      "reducedMotion": "no 3D",
+      "keyboardSkip": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "lang": "mr",
+      "width": 1440,
+      "reducedMotion": "no 3D",
+      "keyboardSkip": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "lang": "mr",
+      "width": 390,
+      "reducedMotion": "no 3D",
+      "keyboardSkip": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "languageSwitchDuringAssembly": "passed",
+      "resize": "passed",
+      "skip": "passed"
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "Italic formatting",
+    "Unsafe links rejected inline",
+    "Link formatting",
+    "Block menu closes with Escape",
+    "Empty image warns editor",
+    "WebP upload works on mobile",
+    "Blank caption creates no caption spacing",
+    "Formatting persists in public article",
+    "Remove Image keeps insertion block available",
+    "Removing inline media cleans unused asset",
+    "Empty image block omitted publicly",
+    "Discarded upload cleaned",
+    "Missing stored image warns editor",
+    "Missing media shows placeholder or is omitted, no broken image",
+    "No console errors"
+  ],
+  "errors": []
+}

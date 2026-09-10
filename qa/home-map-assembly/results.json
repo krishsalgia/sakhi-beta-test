@@ -1,0 +1,214 @@
+{
+  "results": [
+    {
+      "width": 1366,
+      "height": 768,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 1024,
+      "height": 1366,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "motion": "passed",
+      "reverse": "passed",
+      "geometry": "passed",
+      "clipping": false,
+      "overflow": false,
+      "cls": 0
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/",
+      "width": 3840,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/branches",
+      "width": 1440,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/branches",
+      "width": 3840,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/branches",
+      "width": 768,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "route": "/branches",
+      "width": 390,
+      "hierarchy": "passed",
+      "breadcrumbs": "passed",
+      "tiles": "loaded"
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "reducedMotion": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "reducedMotion": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "language": "hi",
+      "width": 1440,
+      "reducedMotion": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "language": "hi",
+      "width": 390,
+      "reducedMotion": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "language": "mr",
+      "width": 1440,
+      "reducedMotion": "passed",
+      "hierarchy": "passed"
+    },
+    {
+      "language": "mr",
+      "width": 390,
+      "reducedMotion": "passed",
+      "hierarchy": "passed"
+    }
+  ],
+  "errors": [],
+  "existingFilesChanged": [
+    "src/main.jsx"
+  ],
+  "newFiles": [
+    "src/home-branch-assembly.jsx",
+    "src/home-branch-assembly.css"
+  ]
+}

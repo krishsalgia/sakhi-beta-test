@@ -1,0 +1,13 @@
+[
+  {
+    "lang": "hi",
+    "contactHeadingOverlap": false
+  },
+  {
+    "lang": "mr",
+    "contactHeadingOverlap": false
+  },
+  {
+    "tabletCardClipping": false
+  }
+]

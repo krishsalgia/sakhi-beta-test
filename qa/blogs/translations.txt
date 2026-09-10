@@ -1,0 +1,104 @@
+﻿Blogs|||ब्लॉग|||ब्लॉग
+The Sakhi Journal.|||Sakhi विचारपत्र.|||Sakhi विचारपत्र.
+Ideas for everyday progress|||हर दिन आगे बढ़ने के विचार|||दररोजच्या प्रगतीसाठी विचार
+A little clarity. A wider perspective.|||थोड़ी स्पष्टता। एक व्यापक नज़रिया।|||थोडी स्पष्टता. व्यापक दृष्टिकोन.
+READ. REFLECT. MOVE FORWARD.|||पढ़ें। सोचें। आगे बढ़ें।|||वाचा. विचार करा. पुढे चला.
+All articles|||सभी लेख|||सर्व लेख
+Filter articles by category|||श्रेणी के अनुसार लेख चुनें|||श्रेणीनुसार लेख निवडा
+Article image placeholder|||लेख की छवि का स्थान|||लेखाच्या प्रतिमेसाठी जागा
+Image placeholder|||छवि का स्थान|||प्रतिमेसाठी जागा
+Featured article|||प्रमुख लेख|||विशेष लेख
+Read article|||लेख पढ़ें|||लेख वाचा
+min read|||मिनट का पठन|||मिनिटांचे वाचन
+By|||द्वारा|||लेखक
+KEEP EXPLORING|||और जानें|||आणखी जाणून घ्या
+On the reading list.|||पढ़ने के लिए और भी।|||आणखी वाचण्यासारखे.
+Stories are temporarily unavailable.|||लेख अभी उपलब्ध नहीं हैं।|||लेख सध्या उपलब्ध नाहीत.
+New stories are on their way.|||नए लेख जल्द आ रहे हैं।|||नवे लेख लवकरच येत आहेत.
+There is always another perspective to discover. Check back soon.|||जानने के लिए हमेशा कुछ नया है। जल्द फिर आएँ।|||जाणून घेण्यासाठी नेहमी काहीतरी नवे असते. लवकरच पुन्हा भेट द्या.
+Back to Home|||होम पर वापस जाएँ|||मुख्यपृष्ठावर परत जा
+Every next step starts with a little understanding.|||हर अगला कदम थोड़ी समझ से शुरू होता है।|||प्रत्येक पुढचे पाऊल थोड्या समजुतीने सुरू होते.
+Talk to Sakhi|||Sakhi से बात करें|||Sakhi शी बोला
+Back to Blogs|||ब्लॉग पर वापस जाएँ|||ब्लॉगवर परत जा
+Article preview|||लेख का पूर्वावलोकन|||लेखाचे पूर्वावलोकन
+Written by|||लेखक|||लेखक
+IN THIS ARTICLE|||इस लेख में|||या लेखात
+Another perspective.|||एक और नज़रिया।|||आणखी एक दृष्टिकोन.
+Article not found|||लेख नहीं मिला|||लेख सापडला नाही
+This story is not available. Explore the latest published articles instead.|||यह लेख उपलब्ध नहीं है। नए प्रकाशित लेख पढ़ें।|||हा लेख उपलब्ध नाही. नवीन प्रकाशित लेख वाचा.
+SAKHI EDITORIAL|||SAKHI संपादकीय|||SAKHI संपादकीय
+A place for your next story.|||आपके अगले लेख के लिए एक जगह।|||तुमच्या पुढील लेखासाठी एक जागा.
+Sign in to manage the Sakhi Journal.|||Sakhi विचारपत्र प्रबंधित करने के लिए लॉगिन करें।|||Sakhi विचारपत्र व्यवस्थापित करण्यासाठी लॉगिन करा.
+EDITOR ACCESS|||संपादक प्रवेश|||संपादक प्रवेश
+Welcome back.|||फिर से स्वागत है।|||पुन्हा स्वागत आहे.
+Username|||उपयोगकर्ता नाम|||वापरकर्तानाव
+Password|||पासवर्ड|||पासवर्ड
+Hide password|||पासवर्ड छिपाएँ|||पासवर्ड लपवा
+Show password|||पासवर्ड दिखाएँ|||पासवर्ड दाखवा
+Hide|||छिपाएँ|||लपवा
+Show|||दिखाएँ|||दाखवा
+Login|||लॉगिन|||लॉगिन
+Incorrect username or password. Please try again.|||उपयोगकर्ता नाम या पासवर्ड गलत है। फिर कोशिश करें।|||वापरकर्तानाव किंवा पासवर्ड चुकीचा आहे. पुन्हा प्रयत्न करा.
+The session could not be started. Allow browser storage and try again.|||सत्र शुरू नहीं हो सका। ब्राउज़र स्टोरेज की अनुमति दें और फिर कोशिश करें।|||सत्र सुरू होऊ शकले नाही. ब्राउझर स्टोरेजला परवानगी द्या आणि पुन्हा प्रयत्न करा.
+Close dialog|||संवाद बंद करें|||संवाद बंद करा
+All blogs|||सभी ब्लॉग|||सर्व ब्लॉग
+Edit blog|||ब्लॉग संपादित करें|||ब्लॉग संपादित करा
+Create blog|||ब्लॉग बनाएँ|||ब्लॉग तयार करा
+Preview|||पूर्वावलोकन|||पूर्वावलोकन
+Save draft|||ड्राफ़्ट सहेजें|||मसुदा जतन करा
+Save blog|||ब्लॉग सहेजें|||ब्लॉग जतन करा
+Title|||शीर्षक|||शीर्षक
+Slug|||स्लग|||स्लग
+Auto-generated from the title. You can edit it.|||शीर्षक से अपने आप बनता है। आप इसे बदल सकते हैं।|||शीर्षकावरून आपोआप तयार होते. तुम्ही ते बदलू शकता.
+Short excerpt|||संक्षिप्त परिचय|||संक्षिप्त परिचय
+Full blog content|||ब्लॉग का पूरा लेख|||ब्लॉगचा संपूर्ण मजकूर
+Separate paragraphs with a blank line. Use ## headings, **bold**, - lists and [text](https://example.com) links.|||अनुच्छेदों के बीच खाली पंक्ति रखें। ## शीर्षक, **बोल्ड**, - सूचियाँ और [text](https://example.com) लिंक इस्तेमाल करें।|||परिच्छेदांमध्ये रिकामी ओळ ठेवा. ## शीर्षके, **ठळक**, - याद्या आणि [text](https://example.com) दुवे वापरा.
+Story settings|||लेख की सेटिंग|||लेखाची सेटिंग्ज
+Status|||स्थिति|||स्थिती
+Draft|||ड्राफ़्ट|||मसुदा
+Published|||प्रकाशित|||प्रकाशित
+Author|||लेखक|||लेखक
+Category|||श्रेणी|||श्रेणी
+Publish date|||प्रकाशन तिथि|||प्रकाशन दिनांक
+Feature this article|||इस लेख को प्रमुख बनाएँ|||हा लेख विशेष म्हणून दाखवा
+Featured image|||मुख्य छवि|||मुख्य प्रतिमा
+Image URL or path|||छवि का URL या पथ|||प्रतिमेचा URL किंवा पथ
+Leave blank to use the Sakhi image placeholder.|||Sakhi की छवि का स्थान दिखाने के लिए खाली छोड़ें।|||Sakhi ची प्रतिमा जागा दाखवण्यासाठी रिकामे ठेवा.
+Untitled article|||बिना शीर्षक का लेख|||शीर्षक नसलेला लेख
+Discard unsaved changes?|||बिना सहेजे बदलाव छोड़ दें?|||जतन न केलेले बदल रद्द करायचे?
+Your saved blog will remain unchanged.|||आपका सहेजा गया ब्लॉग नहीं बदलेगा।|||तुमचा जतन केलेला ब्लॉग बदलणार नाही.
+Keep editing|||संपादन जारी रखें|||संपादन सुरू ठेवा
+Discard changes|||बदलाव छोड़ें|||बदल रद्द करा
+Blog management|||ब्लॉग प्रबंधन|||ब्लॉग व्यवस्थापन
+Make room for the next perspective.|||अगले नज़रिए के लिए जगह बनाएँ।|||पुढील दृष्टिकोनासाठी जागा तयार करा.
+View public Blogs|||सार्वजनिक ब्लॉग देखें|||सार्वजनिक ब्लॉग पाहा
+Log out|||लॉगआउट|||लॉगआउट
+Total blogs|||कुल ब्लॉग|||एकूण ब्लॉग
+Featured|||प्रमुख|||विशेष
+Filter blogs by status|||स्थिति के अनुसार ब्लॉग चुनें|||स्थितीनुसार ब्लॉग निवडा
+Edit|||संपादित करें|||संपादित करा
+Unpublish|||प्रकाशन हटाएँ|||प्रकाशन मागे घ्या
+Publish|||प्रकाशित करें|||प्रकाशित करा
+Delete|||हटाएँ|||हटवा
+No blogs here yet.|||यहाँ अभी कोई ब्लॉग नहीं है।|||येथे अद्याप कोणतेही ब्लॉग नाहीत.
+Create a story or choose another status.|||एक लेख बनाएँ या दूसरी स्थिति चुनें।|||लेख तयार करा किंवा दुसरी स्थिती निवडा.
+Editorial workspace|||संपादकीय कार्यक्षेत्र|||संपादकीय कार्यक्षेत्र
+Delete this blog?|||यह ब्लॉग हटाएँ?|||हा ब्लॉग हटवायचा?
+This removes the blog from this browser and the public listing. This action cannot be undone.|||यह ब्लॉग इस ब्राउज़र और सार्वजनिक सूची से हट जाएगा। इसे वापस नहीं लाया जा सकता।|||हा ब्लॉग या ब्राउझरमधून आणि सार्वजनिक यादीतून हटवला जाईल. ही कृती पूर्ववत करता येणार नाही.
+Cancel|||रद्द करें|||रद्द करा
+Delete blog|||ब्लॉग हटाएँ|||ब्लॉग हटवा
+Blog moved to drafts.|||ब्लॉग ड्राफ़्ट में भेज दिया गया।|||ब्लॉग मसुद्यात हलवला.
+Blog published.|||ब्लॉग प्रकाशित हो गया।|||ब्लॉग प्रकाशित झाला.
+Blog saved and published.|||ब्लॉग सहेजा और प्रकाशित किया गया।|||ब्लॉग जतन आणि प्रकाशित केला.
+Draft saved.|||ड्राफ़्ट सहेजा गया।|||मसुदा जतन केला.
+Blog deleted.|||ब्लॉग हटा दिया गया।|||ब्लॉग हटवला.
+Complete the article details before publishing.|||प्रकाशित करने से पहले लेख का विवरण पूरा करें।|||प्रकाशित करण्यापूर्वी लेखाचे तपशील पूर्ण करा.
+Please check the highlighted fields.|||चिन्हित फ़ील्ड जाँचें।|||चिन्हांकित केलेली माहिती तपासा.
+This field is required.|||यह फ़ील्ड आवश्यक है।|||ही माहिती आवश्यक आहे.
+Use letters or numbers for the slug.|||स्लग में अक्षर या अंक इस्तेमाल करें।|||स्लगसाठी अक्षरे किंवा अंक वापरा.
+This slug is already in use. Choose another.|||यह स्लग पहले से उपयोग में है। दूसरा चुनें।|||हा स्लग आधीच वापरात आहे. दुसरा निवडा.
+Enter a valid date.|||सही तिथि दर्ज करें।|||वैध दिनांक द्या.
+Use an http or https image URL, or a local path beginning with /.|||http या https छवि URL, या / से शुरू होने वाला स्थानीय पथ इस्तेमाल करें।|||http किंवा https प्रतिमा URL, किंवा / ने सुरू होणारा स्थानिक पथ वापरा.
+Blog storage is unavailable. Check browser storage settings and try again.|||ब्लॉग स्टोरेज उपलब्ध नहीं है। ब्राउज़र स्टोरेज सेटिंग जाँचें और फिर कोशिश करें।|||ब्लॉग स्टोरेज उपलब्ध नाही. ब्राउझर स्टोरेज सेटिंग्ज तपासा आणि पुन्हा प्रयत्न करा.
+The blog could not be saved. Check available browser storage and try again.|||ब्लॉग सहेजा नहीं जा सका। ब्राउज़र में उपलब्ध स्टोरेज जाँचें और फिर कोशिश करें।|||ब्लॉग जतन करता आला नाही. ब्राउझरमधील उपलब्ध स्टोरेज तपासा आणि पुन्हा प्रयत्न करा.
+This blog no longer exists. Return to the list and try again.|||यह ब्लॉग अब मौजूद नहीं है। सूची पर वापस जाएँ और फिर कोशिश करें।|||हा ब्लॉग आता उपलब्ध नाही. यादीत परत जा आणि पुन्हा प्रयत्न करा.

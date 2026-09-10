@@ -1,0 +1,99 @@
+Add some written content to your article.|||लेख में कुछ लिखित सामग्री जोड़ें।|||लेखात काही मजकूर जोडा.
+This URL is already being used by another Blog. Please choose a different slug.|||यह URL दूसरे ब्लॉग में इस्तेमाल हो रहा है। दूसरा स्लग चुनें।|||हा URL दुसऱ्या ब्लॉगसाठी वापरला आहे. वेगळा स्लग निवडा.
+Image storage is unavailable. Allow browser storage and try again.|||छवि स्टोरेज उपलब्ध नहीं है। ब्राउज़र स्टोरेज की अनुमति देकर फिर कोशिश करें।|||प्रतिमा स्टोरेज उपलब्ध नाही. ब्राउझर स्टोरेजला परवानगी देऊन पुन्हा प्रयत्न करा.
+Image storage is busy. Close other editor tabs and try again.|||छवि स्टोरेज व्यस्त है। दूसरे संपादक टैब बंद करके फिर कोशिश करें।|||प्रतिमा स्टोरेज व्यस्त आहे. इतर संपादक टॅब बंद करून पुन्हा प्रयत्न करा.
+The image could not be stored. Check available browser storage and try again.|||छवि सहेजी नहीं गई। उपलब्ध ब्राउज़र स्टोरेज जाँचकर फिर कोशिश करें।|||प्रतिमा जतन झाली नाही. उपलब्ध ब्राउझर स्टोरेज तपासून पुन्हा प्रयत्न करा.
+Choose a JPG, PNG or WebP image.|||JPG, PNG या WebP छवि चुनें।|||JPG, PNG किंवा WebP प्रतिमा निवडा.
+This image is too large. Please choose an image under 10 MB.|||यह छवि बहुत बड़ी है। 10 MB से छोटी छवि चुनें।|||ही प्रतिमा खूप मोठी आहे. 10 MB पेक्षा लहान प्रतिमा निवडा.
+This image could not be opened. Please choose another JPG, PNG or WebP file.|||यह छवि नहीं खुल सकी। दूसरी JPG, PNG या WebP फ़ाइल चुनें।|||ही प्रतिमा उघडली नाही. दुसरी JPG, PNG किंवा WebP फाइल निवडा.
+This image is unavailable. Please upload it again.|||छवि उपलब्ध नहीं है। फिर अपलोड करें।|||प्रतिमा उपलब्ध नाही. पुन्हा अपलोड करा.
+Upload Featured Image|||मुख्य छवि अपलोड करें|||मुख्य प्रतिमा अपलोड करा
+Upload Image|||छवि अपलोड करें|||प्रतिमा अपलोड करा
+Replace Image|||छवि बदलें|||प्रतिमा बदला
+Remove Image|||छवि हटाएँ|||प्रतिमा काढा
+Uploading image…|||छवि अपलोड हो रही है…|||प्रतिमा अपलोड होत आहे…
+Add a photo to this part of your article.|||लेख के इस हिस्से में फ़ोटो जोड़ें।|||लेखाच्या या भागात फोटो जोडा.
+JPG, PNG or WebP. Up to 10 MB per image.|||JPG, PNG या WebP। हर छवि अधिकतम 10 MB।|||JPG, PNG किंवा WebP. प्रत्येक प्रतिमा जास्तीत जास्त 10 MB.
+Upload an image here. Empty image blocks will not appear in the public article.|||यहाँ छवि अपलोड करें। खाली छवि ब्लॉक सार्वजनिक लेख में नहीं दिखेंगे।|||येथे प्रतिमा अपलोड करा. रिकामे प्रतिमा ब्लॉक सार्वजनिक लेखात दिसणार नाहीत.
+Paragraph|||अनुच्छेद|||परिच्छेद
+Heading|||शीर्षक|||शीर्षक
+Image|||छवि|||प्रतिमा
+Bullet List|||बुलेट सूची|||बुलेट यादी
+Numbered List|||क्रमांकित सूची|||क्रमांकित यादी
+Quote|||उद्धरण|||उद्धरण
+Text formatting|||पाठ का स्वरूप|||मजकुराचे स्वरूप
+Bold|||बोल्ड|||ठळक
+Italic|||इटैलिक|||तिरपे
+Link|||लिंक|||दुवा
+Remove link|||लिंक हटाएँ|||दुवा काढा
+Link destination|||लिंक का पता|||दुव्याचा पत्ता
+Apply link|||लिंक लगाएँ|||दुवा लावा
+Enter a valid website link beginning with https:// or http://.|||https:// या http:// से शुरू होने वाला सही वेबसाइट लिंक दें।|||https:// किंवा http:// ने सुरू होणारा वैध वेबसाइट दुवा द्या.
+Write a heading…|||शीर्षक लिखें…|||शीर्षक लिहा…
+Start writing…|||लिखना शुरू करें…|||लिहायला सुरुवात करा…
+Add Block|||ब्लॉक जोड़ें|||ब्लॉक जोडा
+Choose a block type|||ब्लॉक का प्रकार चुनें|||ब्लॉकचा प्रकार निवडा
+Content|||लेख सामग्री|||लेखाचा मजकूर
+Build your article, one block at a time.|||एक-एक ब्लॉक जोड़कर लेख बनाएँ।|||एकेक ब्लॉक जोडून लेख तयार करा.
+Heading level|||शीर्षक का स्तर|||शीर्षकाची पातळी
+Move Up|||ऊपर ले जाएँ|||वर हलवा
+Move Down|||नीचे ले जाएँ|||खाली हलवा
+Remove block|||ब्लॉक हटाएँ|||ब्लॉक काढा
+Alt Text|||छवि का विवरण|||प्रतिमेचे वर्णन
+Caption|||कैप्शन|||मथळा
+(optional)|||वैकल्पिक|||पर्यायी
+Briefly describe what is shown in the image.|||छवि में क्या दिखता है, संक्षेप में बताएँ।|||प्रतिमेत काय दिसते ते थोडक्यात सांगा.
+Write one item per line.|||हर पंक्ति में एक बिंदु लिखें।|||प्रत्येक ओळीत एक मुद्दा लिहा.
+Remove|||हटाएँ|||काढा
+Add|||जोड़ें|||जोडा
+Type a phrase and press Enter to add it.|||वाक्यांश लिखें और जोड़ने के लिए Enter दबाएँ।|||वाक्यांश लिहा आणि जोडण्यासाठी Enter दाबा.
+Help people find your article.|||लोगों को आपका लेख खोजने में मदद करें।|||लोकांना तुमचा लेख शोधण्यात मदत करा.
+Focus Keyword|||मुख्य खोज वाक्यांश|||मुख्य शोध वाक्यांश
+What phrase should people search to find this article?|||इस लेख को खोजने के लिए लोग कौन-सा वाक्यांश खोजें?|||हा लेख शोधण्यासाठी लोकांनी कोणता वाक्यांश शोधावा?
+SEO Title|||खोज परिणाम का शीर्षक|||शोध परिणामाचे शीर्षक
+This is the title that may appear in search results.|||यह शीर्षक खोज परिणामों में दिख सकता है।|||हे शीर्षक शोध परिणामांमध्ये दिसू शकते.
+Meta Description|||खोज परिणाम का विवरण|||शोध परिणामाचे वर्णन
+Write a short summary that may appear under your Blog title in search results.|||खोज परिणामों में ब्लॉग शीर्षक के नीचे दिखने वाला छोटा सार लिखें।|||शोध परिणामांत ब्लॉग शीर्षकाखाली दिसू शकणारा थोडक्यात सारांश लिहा.
+Related Keywords|||संबंधित खोज वाक्यांश|||संबंधित शोध वाक्यांश
+Optional supporting phrases for planning your article.|||लेख की योजना के लिए वैकल्पिक सहायक वाक्यांश।|||लेखाच्या नियोजनासाठी पर्यायी पूरक वाक्यांश.
+Search Preview|||खोज परिणाम का पूर्वावलोकन|||शोध परिणामाचे पूर्वावलोकन
+Your article summary will appear here.|||लेख का सार यहाँ दिखेगा।|||लेखाचा सारांश येथे दिसेल.
+A helpful preview. Search engines may display different text.|||यह उपयोगी पूर्वावलोकन है। खोज इंजन अलग पाठ दिखा सकते हैं।|||हे उपयुक्त पूर्वावलोकन आहे. शोध इंजिन वेगळा मजकूर दाखवू शकतात.
+SEO Check|||खोज संबंधी जाँच|||शोधविषयक तपासणी
+Helpful reminders. These do not prevent publishing or promise search rankings.|||ये उपयोगी सुझाव प्रकाशन नहीं रोकते और खोज रैंकिंग का वादा नहीं करते।|||या उपयुक्त सूचना प्रकाशन थांबवत नाहीत आणि शोध क्रमवारीची हमी देत नाहीत.
+Good|||अच्छा|||चांगले
+Needs Attention|||ध्यान दें|||लक्ष द्या
+Missing|||बाकी है|||अपूर्ण
+Focus Keyword added|||मुख्य खोज वाक्यांश जोड़ा गया|||मुख्य शोध वाक्यांश जोडला
+Choose one phrase people might search for.|||एक वाक्यांश चुनें जिसे लोग खोज सकते हैं।|||लोक शोधू शकतील असा एक वाक्यांश निवडा.
+Focus Keyword in Blog title|||ब्लॉग शीर्षक में मुख्य खोज वाक्यांश|||ब्लॉग शीर्षकात मुख्य शोध वाक्यांश
+Include your Focus Keyword naturally in the Blog title.|||ब्लॉग शीर्षक में मुख्य खोज वाक्यांश सहज रूप से शामिल करें।|||ब्लॉग शीर्षकात मुख्य शोध वाक्यांश सहजपणे समाविष्ट करा.
+Focus Keyword in SEO title|||खोज शीर्षक में मुख्य खोज वाक्यांश|||शोध शीर्षकात मुख्य शोध वाक्यांश
+Include your Focus Keyword naturally in the SEO title.|||खोज शीर्षक में मुख्य वाक्यांश सहज रूप से शामिल करें।|||शोध शीर्षकात मुख्य वाक्यांश सहजपणे समाविष्ट करा.
+Focus Keyword in Meta Description|||खोज विवरण में मुख्य खोज वाक्यांश|||शोध वर्णनात मुख्य शोध वाक्यांश
+Add your Focus Keyword to the Meta Description.|||खोज विवरण में अपना मुख्य खोज वाक्यांश जोड़ें।|||शोध वर्णनात मुख्य शोध वाक्यांश जोडा.
+Focus Keyword in URL slug|||URL स्लग में मुख्य खोज वाक्यांश|||URL स्लगमध्ये मुख्य शोध वाक्यांश
+Use your Focus Keyword in the URL slug where it fits.|||जहाँ उचित हो, URL स्लग में मुख्य खोज वाक्यांश इस्तेमाल करें।|||योग्य ठिकाणी URL स्लगमध्ये मुख्य शोध वाक्यांश वापरा.
+SEO title length|||खोज शीर्षक की लंबाई|||शोध शीर्षकाची लांबी
+Aim for about 50–60 characters. This is a guide, not a publishing limit.|||लगभग 50–60 अक्षरों का लक्ष्य रखें। यह सुझाव है, प्रकाशन की सीमा नहीं।|||सुमारे 50–60 अक्षरे ठेवा. ही सूचना आहे, प्रकाशनाची मर्यादा नाही.
+Meta Description length|||खोज विवरण की लंबाई|||शोध वर्णनाची लांबी
+Aim for about 140–160 characters. A clear summary matters most.|||लगभग 140–160 अक्षरों का लक्ष्य रखें। स्पष्ट सार सबसे ज़रूरी है।|||सुमारे 140–160 अक्षरे ठेवा. स्पष्ट सारांश सर्वात महत्त्वाचा आहे.
+Featured Image added|||मुख्य छवि जोड़ी गई|||मुख्य प्रतिमा जोडली
+Upload a Featured Image for your article.|||लेख के लिए मुख्य छवि अपलोड करें।|||लेखासाठी मुख्य प्रतिमा अपलोड करा.
+Featured Image Alt Text|||मुख्य छवि का विवरण|||मुख्य प्रतिमेचे वर्णन
+Briefly describe the Featured Image.|||मुख्य छवि का संक्षिप्त विवरण दें।|||मुख्य प्रतिमेचे थोडक्यात वर्णन करा.
+Article headings|||लेख के शीर्षक|||लेखातील शीर्षके
+Add a heading to help readers follow your article.|||लेख समझने में मदद के लिए शीर्षक जोड़ें।|||लेख समजण्यास मदत व्हावी म्हणून शीर्षक जोडा.
+Written content|||लिखित सामग्री|||लिखित मजकूर
+Consider adding more useful detail. This check looks for at least 100 words.|||और उपयोगी विवरण जोड़ें। यह जाँच कम-से-कम 100 शब्द देखती है।|||अधिक उपयुक्त तपशील जोडा. ही तपासणी किमान 100 शब्द पाहते.
+YOUR ARTICLE|||आपका लेख|||तुमचा लेख
+Write, add photos, and make it yours.|||लिखें, फ़ोटो जोड़ें और अपना लेख बनाएँ।|||लिहा, फोटो जोडा आणि तुमचा लेख तयार करा.
+A short introduction shown in the Blog listing.|||ब्लॉग सूची में दिखने वाला छोटा परिचय।|||ब्लॉग यादीत दिसणारा थोडक्यात परिचय.
+Finishing your image upload…|||छवि अपलोड पूरी हो रही है…|||प्रतिमा अपलोड पूर्ण होत आहे…
+words|||शब्द|||शब्द
+Blog details|||ब्लॉग का विवरण|||ब्लॉगचे तपशील
+URL Slug|||URL स्लग|||URL स्लग
+Public URL|||सार्वजनिक URL|||सार्वजनिक URL
+Tags|||टैग|||टॅग
+Image Alt Text|||छवि का विवरण|||प्रतिमेचे वर्णन
+Describe the image briefly for accessibility and search engines.|||सुलभता और खोज इंजनों के लिए छवि का संक्षिप्त विवरण दें।|||सुलभता आणि शोध इंजिनांसाठी प्रतिमेचे थोडक्यात वर्णन करा.

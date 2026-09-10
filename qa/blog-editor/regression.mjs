@@ -1,0 +1,17 @@
+import {chromium} from 'playwright';import assert from 'node:assert/strict';import{readFile,writeFile}from'node:fs/promises';import{createHash}from'node:crypto';
+const browser=await chromium.launch({channel:'chrome'}),errors=[],checks=[],visual=[];
+try{
+ const before=JSON.parse(await readFile('qa/blog-editor/before-hashes.json','utf8')),changed=[];
+ for(const[path,hash]of Object.entries(before)){if(createHash('sha256').update(await readFile(path)).digest('hex')!==hash)changed.push(path);}
+ assert.ok(changed.every(path=>path.startsWith('src/blogs/')||path==='src/i18n/messages.txt'));checks.push('All unrelated source files retain their pre-upgrade hashes');
+ for(const[width,height]of[[1440,900],[768,1024],[375,812]]){
+  const page=await browser.newPage({viewport:{width,height},reducedMotion:'reduce'});page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});
+  await page.goto('http://127.0.0.1:5173/blogs',{waitUntil:'networkidle'});assert.equal(await page.locator('.journal-row').count(),3);assert.equal(await page.locator('#navigation a[href="/blogs"]').count(),1);assert.equal(await page.locator('.footer-navigation a[href="/blogs"]').count(),1);
+  const now=await page.screenshot({path:`qa/blog-editor/screenshots/${width}-public-listing.png`,fullPage:true,animations:'disabled'}),old=await readFile(`qa/blogs/final/${width}-listing.png`);
+  const comparison=await page.evaluate(async sources=>{const images=await Promise.all(sources.map(async src=>{const image=new Image();image.src=src;await image.decode();const c=document.createElement('canvas');c.width=image.width;c.height=image.height;const ctx=c.getContext('2d');ctx.drawImage(image,0,0);return{w:c.width,h:c.height,data:ctx.getImageData(0,0,c.width,c.height).data};}));if(images[0].w!==images[1].w||images[0].h!==images[1].h)return{geometry:false,sizes:images.map(i=>[i.w,i.h])};let max=0,changed=0;for(let i=0;i<images[0].data.length;i+=4){const d=Math.max(...[0,1,2].map(c=>Math.abs(images[0].data[i+c]-images[1].data[i+c])));max=Math.max(max,d);if(d>5)changed++;}return{geometry:true,max,changed};},[old,now].map(buffer=>'data:image/png;base64,'+buffer.toString('base64')));visual.push({width,...comparison});assert.ok(comparison.geometry&&comparison.changed===0,`${width}: public listing visual changed`);
+  for(const path of['/','/products/loans','/products/deposits','/services','/branches','/contact']){await page.goto('http://127.0.0.1:5173'+path,{waitUntil:'networkidle'});assert.equal(await page.locator('h1').count(),1);assert.equal(await page.locator('header.header').count(),1);assert.equal(await page.locator('.site-footer').count(),1);assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),`${width}: ${path} overflow`);checks.push(`${width}: ${path} loads without overflow`);}
+  for(const language of['hi','mr']){await page.evaluate(async language=>(await import('/src/i18n/index.js')).setLanguage(language),language);assert.equal(await page.locator('#navigation a[href="/blogs"]').textContent(),language==='hi'?'ब्लॉग':'ब्लॉग');}
+  await page.close();
+ }
+ assert.deepEqual(errors,[]);await writeFile('qa/blog-editor/regression-results.json',JSON.stringify({checks,visual,changed,errors},null,2));console.log('Public listing matches all three visual baselines; six existing routes and source scope passed.');
+}finally{await browser.close();}

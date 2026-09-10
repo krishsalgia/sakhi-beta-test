@@ -1,0 +1,53 @@
+{
+  "checks": [
+    "All unrelated source files retain their pre-upgrade hashes",
+    "1440: / loads without overflow",
+    "1440: /products/loans loads without overflow",
+    "1440: /products/deposits loads without overflow",
+    "1440: /services loads without overflow",
+    "1440: /branches loads without overflow",
+    "1440: /contact loads without overflow",
+    "768: / loads without overflow",
+    "768: /products/loans loads without overflow",
+    "768: /products/deposits loads without overflow",
+    "768: /services loads without overflow",
+    "768: /branches loads without overflow",
+    "768: /contact loads without overflow",
+    "375: / loads without overflow",
+    "375: /products/loans loads without overflow",
+    "375: /products/deposits loads without overflow",
+    "375: /services loads without overflow",
+    "375: /branches loads without overflow",
+    "375: /contact loads without overflow"
+  ],
+  "visual": [
+    {
+      "width": 1440,
+      "geometry": true,
+      "max": 2,
+      "changed": 0
+    },
+    {
+      "width": 768,
+      "geometry": true,
+      "max": 0,
+      "changed": 0
+    },
+    {
+      "width": 375,
+      "geometry": true,
+      "max": 0,
+      "changed": 0
+    }
+  ],
+  "changed": [
+    "src/blogs/admin-page.jsx",
+    "src/blogs/blog-ui.jsx",
+    "src/blogs/blogs-page.jsx",
+    "src/blogs/blogs.css",
+    "src/blogs/README.md",
+    "src/blogs/repository.js",
+    "src/i18n/messages.txt"
+  ],
+  "errors": []
+}

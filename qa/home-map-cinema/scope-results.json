@@ -1,0 +1,7 @@
+{
+  "changed": [
+    "src/home-branch-assembly.css",
+    "src/home-branch-assembly.jsx"
+  ],
+  "onlyHomepageAssembly": true
+}

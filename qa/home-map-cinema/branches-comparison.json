@@ -1,0 +1,74 @@
+{
+  "comparisons": [
+    {
+      "width": 1440,
+      "geometry": true,
+      "pixels": false,
+      "pixelEquivalent": false,
+      "pixelDifference": {
+        "maxChannelDifference": 255,
+        "changedPixels": 46702
+      }
+    },
+    {
+      "width": 1920,
+      "geometry": true,
+      "pixels": false,
+      "pixelEquivalent": false,
+      "pixelDifference": {
+        "maxChannelDifference": 255,
+        "changedPixels": 257613
+      }
+    },
+    {
+      "width": 2560,
+      "geometry": true,
+      "pixels": false,
+      "pixelEquivalent": false,
+      "pixelDifference": {
+        "maxChannelDifference": 255,
+        "changedPixels": 41948
+      }
+    },
+    {
+      "width": 3840,
+      "geometry": true,
+      "pixels": false,
+      "pixelEquivalent": true,
+      "pixelDifference": {
+        "maxChannelDifference": 1,
+        "changedPixels": 74709
+      }
+    },
+    {
+      "width": 768,
+      "geometry": true,
+      "pixels": false,
+      "pixelEquivalent": false,
+      "pixelDifference": {
+        "maxChannelDifference": 255,
+        "changedPixels": 10949
+      }
+    },
+    {
+      "width": 390,
+      "geometry": true,
+      "pixels": false,
+      "pixelEquivalent": true,
+      "pixelDifference": {
+        "maxChannelDifference": 1,
+        "changedPixels": 4506
+      }
+    }
+  ],
+  "changed": [
+    "src/featured-journey.jsx",
+    "src/home-branch-assembly.css",
+    "src/home-branch-assembly.jsx",
+    "src/i18n/messages.txt",
+    "src/main.jsx",
+    "src/site-contact.jsx"
+  ],
+  "unchangedBranchFiles": true,
+  "errors": []
+}
